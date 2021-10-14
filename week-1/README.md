@@ -7,7 +7,8 @@
 - [Session goals](#Session-goals)
 - [Meet the Tutors](Meet_the_tutors.md)
 - [Intro to IDEs](intro_to_ide.md)
-- [Introduction to Git & Github](intro_to_github.md)
+- [Introduction to Git, Github & GitHub Desktop](intro_to_github.md)
+- [Git using Terminal](git_and_terminal.md)
 
 ### Introduction
 

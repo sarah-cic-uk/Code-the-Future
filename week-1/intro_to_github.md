@@ -92,7 +92,7 @@ Now that you have GitHub Desktop installed, know what Git and GitHub are, and wh
    Your repository is now created, and can be changed however you want.
    Everything saved here is backed up on GitHub, safe if you accidentally delete it on your personal computer.  
    Scroll down the page and you should see the title of your repository, our goal is to change this.
-4. Click the green "Code" button and take a look at the dropdown. Copy the link that is shown and head back to GitHub Desktop.
+4. Next, head to the GitHub browser. Click the green "Code" button and take a look at the dropdown. Copy the link that is shown and head back to GitHub Desktop.
 5. Under file, choose "Clone Repository" and go to the URL tab. Paste in the link you copied, choose where you want to save your repository, and finally click clone.
 6. Open VSCode and open the file that you just cloned down.  
    Everything you change here will only be changed on your local copy, until you push it back up.
@@ -149,5 +149,5 @@ You've now created a repository, cloned it down, made a change, committed that c
 
 <div style="width: 100%">
 <a href='intro_to_ide.md'><-- Previous Section: The Developer Environment</a>
-<div align="right"><a  href='../week-2/README.md'>Next Section: Week 2 Introduction --></a></div>
+<div align="right"><a  href='../week-1/git_and_terminal.md'>Next Section: Git & Terminal --></a></div>
 </div>
