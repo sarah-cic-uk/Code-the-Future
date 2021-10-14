@@ -2,7 +2,7 @@
 
 ## Week 1: Meet the Tutors!
 
-[Sarah Neenan - Managing Developer](#Sarah)\
+[Sarah Neenan - UK CIC Development Practice Leader & Managing Developer](#Sarah)\
 [Vivienne Nenh - Associate Application Developer](#Vivienne)\
 [Georgia Ingham - Developer](#Georgia)\
 [Sam Roebuck - Associate Application Developer](#Sam)\
