@@ -2,7 +2,9 @@
 
 ## Week 2: Create your first webpage!
 
+
 ## Activity Walkthrough
+
 
 Previously, we have seen a HTML element is made up of everything from the opening tag to the closing tag with the content in the middle.
 
@@ -22,23 +24,24 @@ Now we are going to focus on the tags themselves and how they can ben used to bu
 
 ### Adding content
 
-- Open up the file and simply type `My first website, my name is [name] and I am a [cat or dog person]`
+- Open up the file and simply type  `My first website, my name is [name] and I am a [cat or dog person]`
 
 ## How to view your changes.
 
-Visual Code offers a really useful extension which will allow you to see you app and it will even update as you make changes and save them.
+Visual Code offers a really useful extention which will allow you to see you app and it will even update as you make changes and save them.
 
-![Open the extension panel in VSCode](../images/extensions_1.png)
+![Open the exentsion panel in VSCode](../images/extensions_1.png)
 
 - In the search bar type `live server` and click on the top option which is published by Ritwick Dey.
 
 - Them simply click install and restart your VScode.
 
-- You will then be able to right click on your index.html file and select **open with live server**.
+- You will then be able to right click on your index.html file and select __open with live server__.
 
 - This should then open a new window in your default browser and you should see something like this:
 
 ![A basic webpage with a some text on it](../images/initial_website_1.png)
+
 
 ## Step Three
 
@@ -56,7 +59,8 @@ We will start off with adding the code you saw in the previous section on line t
         </body>
     </html>
 
-Just to quickly recap, `<!DOCTYPE html>` is not strictly a HTML tag but "informs" the browser of the type of language to expect.
+
+Just to quickly recap, `<!DOCTYPE html>` is not strictly a HTML tag but "informs" the browser of the type of langauge to expect.
 
 Here we are telling the browser to expect HTML 5.
 
@@ -64,8 +68,7 @@ Next have the `<html>` which tells the browser where the code itself is.
 
 and finally we have the `<head>` and `<body>` tags. The head tag includes all of the additional information about the webpage and the body includes all of the content which will be displayed on the screen.
 
-## Step Four
-
+## Step Four 
 ### The Final Step
 
 - Add `My first website` between the title Tags to create a title that should now be displayed on the tab in your browser.
@@ -73,7 +76,6 @@ and finally we have the `<head>` and `<body>` tags. The head tag includes all of
 - Add a P tag into the body as well and add `and I am a [cat or dog person]`. This will have the effect of creating a paragraph, feel free to add more information about yourself using any HTML tags you like!
 
   Example
-
   ```
   <!DOCTYPE html>
     <html>
@@ -87,14 +89,17 @@ and finally we have the `<head>` and `<body>` tags. The head tag includes all of
     </html>
   ```
 
+
 ## Example finished activity
 
 If you get stuck or would like some inspiration on what to add to you page, you can check out the [example finished activity](example-finished-activities/index_section_02_example.html)
+
 
 ## Resources
 
 - [W3 Schools](https://www.w3schools.com/tags/default.asp)
 - [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/HTML/Element)
+
 
 <div style="width: 100%">
 <a href='dev_tools.md'><-- Previous Section: Chrome Dev Tools</a>
