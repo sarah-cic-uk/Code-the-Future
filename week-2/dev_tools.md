@@ -45,7 +45,6 @@ There will likely some elements you're not familiar with yet but don't worry! Ta
 3. Pick out a few of the elements that they have used that you've not seen before and see if you can use [W3 Schools](https://www.w3schools.com/tags/default.asp) to find out what they are.
 
 
-### [Go to the next section](html_basics_section_02.md)
 
 ## Resources
 - [Dev tools docs - Overview](https://developer.chrome.com/docs/devtools/overview/)
