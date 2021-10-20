@@ -100,8 +100,6 @@ The most common list types are ordered and unordered lists:
 
 
 
-### [Go to the next section](html_basics_section_01.md)
-
 
 
 ## Resources
