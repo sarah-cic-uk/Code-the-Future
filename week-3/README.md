@@ -13,7 +13,7 @@
  - [Accessibility tools and tips](html_cont_section_00-2.md)
 
 ### Introduction
-Here, you will get an introduction to good practices and accessibility as well as 
+Here, you will get an introduction into good practices and accessibility as well as 
 continue to develop your HTML skills and webpage from the previous week. 
 This section will guide you through learning more HTML elements, so that you can add 
 more content to your webpage in interesting ways and create multiple pages to produce 
