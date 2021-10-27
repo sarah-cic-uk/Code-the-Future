@@ -88,7 +88,7 @@ In this example, we have a basic table with three columns, a row defining the he
 In this activity, we are going to be building upon your webpage that you started about yourselves. Add these HTML elements and you'll start to see your webpage develop more character!
 
 In your `index.html` file, add the following to your webpage:
-1. An image of yourself, or something you love, to go alonside the text you previously inputted.
+1. An image of yourself, or something you love, to go alongside the text you previously inputted.
 2. A table containing anything you'd like! This could be hobbies, pets, children, favourite foods etc.
 
 <i>Note</i> You will need to refresh your browser tab to see any changes that you make to your `index.html` file.
