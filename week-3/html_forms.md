@@ -238,6 +238,22 @@ The HTML ```<input>``` element is a fundamental element used to create fields in
     - All text fields must be mandatory
     - User Name field must not allow more than 10 characters
 
+    As part of this task you should create a file called formSuccess.html in the same folder as your index.html with the following content:
+
+    ```
+    <!DOCTYPE html>
+    <html>
+      <head>
+        <meta charset="utf-8">
+        <title>Form Submission</title>
+      </head>
+      <body>
+        <h1>Form Submitted Successfully</h1>
+      </body>
+    </html>
+    ```
+
+
 2. If time play around with the different input options available and attributes available. 
 
 ## Resources
