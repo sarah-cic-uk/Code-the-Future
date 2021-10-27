@@ -29,28 +29,39 @@ Making your website more accessible not only benefits those who need the additio
 
 ## Aria
 
-To ensure applications are accessible we need to provide semantic information about components, structures, and expected behaviors, so that assistive technologies can provide relevant information to their users. The Accesible Rich Internet Application (ARIA) specification provides a series of roles and properties that can help with this. It helps defines accessible user interface elements which allow you to describe behaviors and structural information to assistive technologies in document-level markup.
+To ensure applications are accessible we need to provide semantic information about components, structures, and expected behaviors, so that assistive technologies can provide relevant information to their users, where this isn't already provided by semantic mark up.
+
+ The Accesible Rich Internet Application (ARIA) specification provides a series of roles and properties that can help with this. It helps defines accessible user interface elements which allow you to describe behaviors and structural information to assistive technologies in document-level markup.
 
 ### Aria Roles
-This is an attribute you can add to a element to help clarify what the expected behaviour should be. There a variety of [aria roles](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Roles) available but a few of the most common ones include:
+This is an attribute you can add to a element to help clarify what the expected behaviour should be, semantic elements have a role already for example ```<p></p>``` has the role paragraph so it doesn't need a role adding to it. 
+
+Most roles should no longer be used as browsers now support semantic HTML element with the same meaning. The roles without HTML equivalents, such as presentation, toolbar and tooltip roles, provide information on the document structure to assistive technologies such as screen readers as equivalent native HTML tags are not available.
+
+There a variety of [aria roles](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Roles) available but some common ones include:
 
 - **Alert**: Used to alert the user that something has changed on their page - screen readers will start reading the alert when it pops up.
 
-- **Button**: Should be used when we expect the user to interact with the element via a click and expect a response
+- **Tab, tablist and tabpanel**: used when creating interactive tab groups.  
 
-- **Dialog**: Used to mark a dialog/window that separates content from the rest of the page and are generally placed on top of the rest of the page content
+- **Tooltip**: A contextual text bubble that displays a description for an element that appears on pointer hover or keyboard focus
 
-- **Form**: A [landmark](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/ARIA_Techniques#landmark_roles) role used to identify a group of elements that together create a form.
+Example of setting a role, we have an input here that we want to add a tooltip to, we can set the role of a div to tooltip so assistive technologies know that is the usage of this element and give it and id so they know that this is what to use to describe the input
 
-- **List**: Used to identify a list of items e.g. a menu. Usually used in with the listitem role, which is used to identify a list item contained inside the list.
-
-- **ListItem**: Used to identify an item inside a list of items e.g. a submenu or button.
-
-- **Navigation**: A landmark role that identifies a group of links that are used to naviage aroound a website.
-
-Example of setting a role
-
-```<li role="menuitem">Exit</li>```
+```
+<label for="password">Password:</label>
+<input aria-describedby="passwordrules" id="password" type="password" />
+<div hidden role="tooltip" id="passwordrules">
+  <p>
+      Password Rules:
+  </p>
+  <ul>
+    <li> Minimum of 8 characters</li>
+    <li> Include at least one lowercase letter, one uppercase letter, one number and one special character</li>
+    <li>Unique to this website</li>
+  </ul>
+</div>
+```
 
 
 ### Aria States and Properties
@@ -59,7 +70,14 @@ Example of setting a role
  e.g. 'aria-disabled' is a state saying whether a particular item is interactive.
 
 ## Semantics
-Structuring your web application is a good starting point towards good accessibility practices.
+Structuring your web application in using semantic tags is one of the most important steps in creating an accessible application because they clearly describes elements meaning to both the browser and any assitive technologies being used.
+
+Examples of non-semantic elements: ```<div> and <span>``` - They tell us nothing about its content.
+
+Examples of semantic elements: ```<form>, <table>, and <article>``` - These clearly define its content.
+
+Have a look at all the [semantic elements avaliable](https://www.w3schools.com/html/html5_semantic_elements.asp).
+
 
 See [this page on HTML Semantics](http://web-accessibility.carnegiemuseums.org/foundations/semantic/) for more information. 
 
@@ -78,7 +96,7 @@ Notes:
 
     None of the above should be used for non interactive elements like divs or spans
     Recommended for form inputs
-    Some interactive items like buttons don??t need it
+    Some interactive items like buttons don't need it
     Over-using can be bad too
     Remember to update your labels when you change your UI!
 
@@ -91,10 +109,13 @@ Notes:
 
 - [Aria DevTools Chrome Plugin](https://chrome.google.com/webstore/detail/aria-devtools/dneemiigcbbgbdjlcdjjnianlikimpck?hl=en/)
 
-- [Visual Aria Chrome Plugin](https://chrome.google.com/webstore/detail/visual-aria/lhbmajchkkmakajkjenkchhnhbadmhmk)
+- [axe DevTools - Web Accessibility Testing](https://chrome.google.com/webstore/detail/axe-devtools-web-accessib/lhdoppojpmngadmnindnejefpokejbdd)
 
     You will have to enable these Plugins from the Extension menu if disabled. You can do this if you go to chrome://extensions/ and hit the toggle icon so that all the necessary plugins are blue.
 
+There is also:
+
+- [Google Dev Tools Lighthouse Accessibility Audit](https://developers.google.com/web/tools/lighthouse#devtools)
 
 2. Open up different webpages and explore with the Dev Tools
 
@@ -108,49 +129,17 @@ Notes:
     - https://www.google.co.uk
     - https://www.myemergencydr.com/
     - https://www.internetrix.com.au/
-
-3. Improve your current code so it is more Accessibility Friendly
-
-    - Add Aria elements to your login form
-
-        ```
-        <!DOCTYPE html>
-        <html>
-        <head>
-        <meta charset="utf-8">
-        <title>My login page</title>
-        </head>
-        <body>  
-        <h2>Login Page</h2>
-        <form role="form" action="/action.js">
-            <label for="first name">First name:</label><br>
-            <input type="text" id="fname" name="fname" value=""><br>
-            <label for="last name">Last name:</label><br>
-            <input type="text" id="lname" name="lname" value="">
-            <input type="submit" value="Submit">
-        </form> 
-        </body>  
-        </html>
-        ```
-
-        In the above we need to add the 'form' role to the overall container for the form. Labels provide a value which can be read out and assist screen readers. 
-
-        For buttons and form input elements with the 'submit' type, the 'value' field is used to provide the label value.
-
-    - Add a new search field to your form with a hidden label
-        
-         You can find some examples [here](https://www.w3.org/WAI/tutorials/forms/labels/).
-
-    - Go through the rest of your website using the accessiibility tools and see where there are any accessibility content gaps. Using the resources already shared attempt to fix those issues.
     
-4. Add more content to your webpage 
+3. Add more content to your webpage 
 
     In this section you can play around with different elements and see how to make them more accessibility friendly. Some examples of what you can:
-    - Add a list of URLS to your webpage to make a navigation menu
-    - Divide your content into multiple sections
-    - Add a dialog/alert and ensure the content is picked up when it opens
-    - Add multiple related images and make them into a group which only gets picked up once by screen readers. You can use the 'img' role for this.
+    - Add a list of URLS to your webpage, maybe you could use a few semantic elements here like ```<nav></nav> and <ul></ul>```
+    - Divide your content into multiple sections, using appropriate semantic tags like ```<header></header>, <section></section> and more```
+    - See if you can find out how to mark up a photo using ```<figure></figure> and <figcaption></figcaption>```
 
+4. Check your site using the accessibility tools
+        
+    - Go through the rest of your website using the accessibility tools and see where there are any accessibility issues. Using the resources already shared attempt to fix those issues.
 
 ## Resources
 
@@ -167,3 +156,6 @@ Notes:
 <a href='html_hyperlinks.md'><-- Previous Section: HTML Hyperlinks</a>
 <div align="right"><a href='accessibility_tools_tips.md'>Next Section: Accessibility Tools --></a></div>
 </div>
+
+
+
