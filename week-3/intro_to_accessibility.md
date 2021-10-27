@@ -38,7 +38,7 @@ This is an attribute you can add to a element to help clarify what the expected 
 
 - **Button**: Should be used when we expect the user to interact with the element via a click and expect a response
 
-- **Dialog**:  
+- **Dialog**: Used to mark a dialog/window that separates content from the rest of the page and are generally placed on top of the rest of the page content
 
 - **Form**: A [landmark](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/ARIA_Techniques#landmark_roles) role used to identify a group of elements that together create a form.
 
@@ -54,21 +54,25 @@ Example of setting a role
 
 
 ### Aria States and Properties
-<!-- ToDo: populate this section -->
+[Aria States and Properties](https://www.w3.org/TR/wai-aria-1.0/states_and_properties) support the ARIA roles that exist on a page and can supply extra user interface information that is useful for assistive technologies. Whenever these states or properties change the assistive technology can pickup the update and alert the user that a change has occurred. 
+
+ e.g. 'aria-disabled' is a state saying whether a particular item is interactive.
 
 ## Semantics
-<!-- ToDo: discuss semantics e.g. http://web-accessibility.carnegiemuseums.org/foundations/semantic/ -->
+Structuring your web application is a good starting point towards good accessibility practices.
+
+See [this page on HTML Semantics](http://web-accessibility.carnegiemuseums.org/foundations/semantic/) for more information. 
 
 ## Good Practice:
 <!-- ToDo: discuss some good practices and tidy the below -->
 
-Aria-label: can be used on any html element. Screen readers announce the label text when on the element e.g. reads the label instead of the button text. Use it in cases where a text label is not visible on the screen.
+**Aria-label**: can be used on any html element. Screen readers announce the label text when on the element e.g. reads the label instead of the button text. Use it in cases where a text label is not visible on the screen.
 
-Aria-labelledby: allows label to be set based on other IDs. Role elements good to do with these e.g. radio group. Can concatenate several labels into one . Can be used on hidden elements. Always takes precedence. If there is visible text labeling the element, use aria-labelledby instead.
+**Aria-labelledby**: allows label to be set based on other IDs. Role elements good to do with these e.g. radio group. Can concatenate several labels into one . Can be used on hidden elements. Always takes precedence. If there is visible text labeling the element, use aria-labelledby instead.
 
-Aria-describedby: similar to labelledby but gives additional info to help the user. e.g. helper text that isn??t always visible
-
-Aria-owns: tells screen reader than one element is a child of another
+**Aria-describedby**: similar to labelledby but gives additional info to help the user. e.g. helper text that isn't always visible
+		
+**Aria-owns**: tells screen reader than one element is a child of another
 
 Notes:
 

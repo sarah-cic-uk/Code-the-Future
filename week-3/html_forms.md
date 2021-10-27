@@ -2,7 +2,7 @@
 
 ## Week 3: HTML Forms
 
-## W3: Text input, forms, validation?
+## W3: Text input, forms, validation
 
 ## HTML Form
 
