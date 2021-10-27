@@ -46,7 +46,7 @@ There a variety of [aria roles](https://developer.mozilla.org/en-US/docs/Web/Acc
 
 - **Tooltip**: A contextual text bubble that displays a description for an element that appears on pointer hover or keyboard focus
 
-Example of setting a role, we have an input here that we want to add a tooltip to, we can set the role of a div to tooltip so assistive technologies know that is the usage of this element and give it and id so they know that this is what to use to describe the input
+Example of setting a role, we have an input here that we want to add a tooltip to, we can set the role of a div to tooltip so assistive technologies know that is the usage of this element and give it an id so they know that this is what to use to describe the input
 
 ```
 <label for="password">Password:</label>
@@ -88,17 +88,17 @@ See [this page on HTML Semantics](http://web-accessibility.carnegiemuseums.org/f
 
 **Aria-labelledby**: allows label to be set based on other IDs. Role elements good to do with these e.g. radio group. Can concatenate several labels into one . Can be used on hidden elements. Always takes precedence. If there is visible text labeling the element, use aria-labelledby instead.
 
-**Aria-describedby**: similar to labelledby but gives additional info to help the user. e.g. helper text that isn't always visible
+**Aria-describedby**: is used to indicate the IDs of the elements that describe the object. Similar to labelledby but gives additional info to help the user. e.g. helper text that isn't always visible
 		
-**Aria-owns**: tells screen reader than one element is a child of another
+**Aria-owns**: When a parent/child relationship is evident on-screen, but it isn’t represented in the DOM, the aria-owns attribute can be used to establish that relationship in the accessibility layer.
 
 Notes:
+    Use Semantic HTML5 in Favour of ARIA
+    Don’t Alter the Meaning of Semantic Elements with ARIA Roles
+    Interactive ARIA Elements must be Accessible by all mediums, including mouse, keyboard and more!
+    Over-using aria can be bad too!
+    Always remember to update your labels when you change your UI!
 
-    None of the above should be used for non interactive elements like divs or spans
-    Recommended for form inputs
-    Some interactive items like buttons don't need it
-    Over-using can be bad too
-    Remember to update your labels when you change your UI!
 
 
 ## Activity

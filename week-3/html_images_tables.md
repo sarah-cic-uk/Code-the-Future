@@ -27,9 +27,9 @@ You can link to images that are saved on your local computer:
 
 Or from a webpage:
 ```             
-<img src="https://image.freepik.com/free-photo/big-family-english-cream-golden-retrievers-posing-cute-playful-doggies-purebred-pets-looks-cute-isolated-white-background_155003-32425.jpg" alt="" height="650">
+<img src="https://image.freepik.com/free-photo/big-family-english-cream-golden-retrievers-posing-cute-playful-doggies-purebred-pets-looks-cute-isolated-white-background_155003-32425.jpg" alt="5 cream puppies" height="650">
 ```
-<img src="https://image.freepik.com/free-photo/big-family-english-cream-golden-retrievers-posing-cute-playful-doggies-purebred-pets-looks-cute-isolated-white-background_155003-32425.jpg" alt="" height="650">
+<img src="https://image.freepik.com/free-photo/big-family-english-cream-golden-retrievers-posing-cute-playful-doggies-purebred-pets-looks-cute-isolated-white-background_155003-32425.jpg" alt="5 cream puppies" height="650">
 
 ## HTML Tables
 HTML tables allow you to display information, or tabular data, in organised rows and columns. In order to display data in a table, there are a number of tags that are necessary:
