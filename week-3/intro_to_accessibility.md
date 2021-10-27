@@ -27,6 +27,26 @@ Making your website more accessible not only benefits those who need the additio
 - Voice Command: Lets the user control the application using their voice
 - Colour Contrasting: Reads out textual information from a page to the user
 
+## Providing equivalent alternative text
+
+Alternative text provides a textual alternative to non-text content in web pages. It is especially helpful for people who are blind and rely on a screen reader to have the content of the website read to them.
+
+You can do this by adding alt tags to your images like we showed before!
+
+## Have semantic HTML
+Structuring your web application in using semantic tags is one of the most important steps in creating an accessible application because they clearly describes elements meaning to both the browser and any assitive technologies being used.
+
+Examples of non-semantic elements: ```<div> and <span>``` - They tell us nothing about its content.
+
+Examples of semantic elements: ```<form>, <table>, and <article>``` - These clearly define its content.
+
+Another important part of a logical and semantic document structure is making sure your heading are in the correct order! Only have 1 ```<h1></h1>``` per page so assistive technolgies know this is the main page title and try not to skip heading levels because these are very helpful when navigating in a non-visual way.
+
+Have a look at all the [semantic elements avaliable](https://www.w3schools.com/html/html5_semantic_elements.asp).
+
+See [this page on HTML Semantics](http://web-accessibility.carnegiemuseums.org/foundations/semantic/) for more information. 
+
+
 ## Aria
 
 To ensure applications are accessible we need to provide semantic information about components, structures, and expected behaviors, so that assistive technologies can provide relevant information to their users, where this isn't already provided by semantic mark up.
@@ -46,7 +66,7 @@ There a variety of [aria roles](https://developer.mozilla.org/en-US/docs/Web/Acc
 
 - **Tooltip**: A contextual text bubble that displays a description for an element that appears on pointer hover or keyboard focus
 
-Example of setting a role, we have an input here that we want to add a tooltip to, we can set the role of a div to tooltip so assistive technologies know that is the usage of this element and give it and id so they know that this is what to use to describe the input
+Example of setting a role, we have an input here that we want to add a tooltip to, we can set the role of a div to tooltip so assistive technologies know that is the usage of this element and give it an id so they know that this is what to use to describe the input
 
 ```
 <label for="password">Password:</label>
@@ -69,37 +89,28 @@ Example of setting a role, we have an input here that we want to add a tooltip t
 
  e.g. 'aria-disabled' is a state saying whether a particular item is interactive.
 
-## Semantics
-Structuring your web application in using semantic tags is one of the most important steps in creating an accessible application because they clearly describes elements meaning to both the browser and any assitive technologies being used.
 
-Examples of non-semantic elements: ```<div> and <span>``` - They tell us nothing about its content.
-
-Examples of semantic elements: ```<form>, <table>, and <article>``` - These clearly define its content.
-
-Have a look at all the [semantic elements avaliable](https://www.w3schools.com/html/html5_semantic_elements.asp).
-
-
-See [this page on HTML Semantics](http://web-accessibility.carnegiemuseums.org/foundations/semantic/) for more information. 
-
-## Good Practice:
-<!-- ToDo: discuss some good practices and tidy the below -->
+## ARIA Labels and Relationships
 
 **Aria-label**: can be used on any html element. Screen readers announce the label text when on the element e.g. reads the label instead of the button text. Use it in cases where a text label is not visible on the screen.
 
 **Aria-labelledby**: allows label to be set based on other IDs. Role elements good to do with these e.g. radio group. Can concatenate several labels into one . Can be used on hidden elements. Always takes precedence. If there is visible text labeling the element, use aria-labelledby instead.
 
-**Aria-describedby**: similar to labelledby but gives additional info to help the user. e.g. helper text that isn't always visible
+**Aria-describedby**: is used to indicate the IDs of the elements that describe the object. Similar to labelledby but gives additional info to help the user. e.g. helper text that isn't always visible
 		
-**Aria-owns**: tells screen reader than one element is a child of another
+Check out [Google's info on Aria Labelling](https://developers.google.com/web/fundamentals/accessibility/semantics-aria/aria-labels-and-relationships) to learn more!
 
-Notes:
+<br>
 
-    None of the above should be used for non interactive elements like divs or spans
-    Recommended for form inputs
-    Some interactive items like buttons don't need it
-    Over-using can be bad too
-    Remember to update your labels when you change your UI!
+## Best practice tips to remember!
+- Use Semantic HTML5 in Favour of ARIA
+- Use ARIA when HTML elements aren't avaliable
+- Add alt tags to all of your images
+- Interactive elements must be accessible by all mediums, including mouse, keyboard, screenreaders and more!
+- Over-using aria can be bad too!
+- Always remember to update your labels when you change your UI!
 
+<br>
 
 ## Activity
 
@@ -113,9 +124,11 @@ Notes:
 
     You will have to enable these Plugins from the Extension menu if disabled. You can do this if you go to chrome://extensions/ and hit the toggle icon so that all the necessary plugins are blue.
 
-There is also:
+    There is also:
 
-- [Google Dev Tools Lighthouse Accessibility Audit](https://developers.google.com/web/tools/lighthouse#devtools)
+    - [Google Dev Tools Lighthouse Accessibility Audit](https://developers.google.com/web/tools/lighthouse#devtools)
+
+<br>
 
 2. Open up different webpages and explore with the Dev Tools
 
@@ -129,13 +142,17 @@ There is also:
     - https://www.google.co.uk
     - https://www.myemergencydr.com/
     - https://www.internetrix.com.au/
-    
+
+<br>
+
 3. Add more content to your webpage 
 
     In this section you can play around with different elements and see how to make them more accessibility friendly. Some examples of what you can:
     - Add a list of URLS to your webpage, maybe you could use a few semantic elements here like ```<nav></nav> and <ul></ul>```
     - Divide your content into multiple sections, using appropriate semantic tags like ```<header></header>, <section></section> and more```
     - See if you can find out how to mark up a photo using ```<figure></figure> and <figcaption></figcaption>```
+
+<br>
 
 4. Check your site using the accessibility tools
         

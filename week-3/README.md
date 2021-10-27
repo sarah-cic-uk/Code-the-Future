@@ -6,9 +6,9 @@
  - [Introduction](#Introduction)
  - [Session goals](#Session-goals)
  - HTML elements
-    - [Images and tables](html_cont_section_01.md)
-    - [Forms and validation](html_cont_section_02.md)
-    - [Hyperlinks and creating multiple pages](html_cont_section_03.md)
+    - Images and tables
+    - Forms and validation
+    - Hyperlinks and creating multiple pages
  - [Accessibility and best practices](html_cont_section_00-1.md)
  - [Accessibility tools and tips](html_cont_section_00-2.md)
 
