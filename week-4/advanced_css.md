@@ -58,7 +58,6 @@
     | Centimeter (cm) | vm |
     | Millimeter (mm) | vh |
     | Points (pt) | % |
-    | Pica (pc) | |
 
     * **Absolute** - fixed units; always going to be the same regardless of the screen size
     * **Relative** - the elements are scaled based on the rendering mediums
@@ -80,7 +79,7 @@ There are different ways to align elements on the page easier and the most flexi
 
 CSS Flexible Layout Module (Flexbox) is a new technique to improve the way the element are laid out on a page by managing alignments of items, directions, and order in the container. This avoids the use of floats. 
 
-![image](../img/flexbox_components.png)
+![image](../images/week4/flexbox_components.png)
 
 * Main Components of a Flexbox are:
     * *Flex Container* - it groups the Flex Items
@@ -100,11 +99,12 @@ CSS Flexible Layout Module (Flexbox) is a new technique to improve the way the e
     * `align-self: auto || stretch || flex-start || flex-end || center || baseline` for aligning individual flex items
     * `flex-grow: 0 || [number]`, `flex-basis: auto || [length]`, `flex-shrink: 1 || [number]` change the size of the flex items
 * For more information, checkout [Complete Guide to CSS Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+
 ### CSS Grid
 
 Another modern technique to improve the way the element are laid out on a page which does not make use of floats. Unlike CSS Flexbox, CSS Grid is two-dimensional layout - you can divide rows and columns simultaneously. 
 
-![image](../img/grid_components.png)
+![image](../images/week4/grid_components.png)
 
 * Main components of a Grid are: 
     * *Grid Containers* - it groups the Grid items
@@ -191,32 +191,14 @@ CSS Frameworks provide an abstraction for common web designs and makes it easier
 
 ---
 
-## Activity
+## Useful Links
 
-### Flexbox Exercise
-1. Create a new HTML file and call it `flexbox_sample.html` in the same location as your `index.html`
-2. Try to recreate the following using what you've learned this week
+* [CSS Cheat Sheet](https://htmlcheatsheet.com/css/)
+* [More CSS Tutorials in Tutorialspoint](https://www.tutorialspoint.com/css/index.htm)
+* [CSS Reference @ W3 Schools](https://www.w3schools.com/cssref/default.asp)
 
-    ![image](../img/flexbox_activity1.png)
 
-3. Notes:
-    * The Flexbox should also adjust when resizing the page
-    * You can change the colours to your preference, but the layout should be the same as the image above
-    * Use Relative Measurement units
-    * Change the background of the whole page to purple (or any colour you prefer, apart from white)
-
-### Grid Exercise
-
-1. Create a new HTML file and call it `grid_sample.html` in the same location as your `index.html`
-2. Try to recreate the following using what you've learned this week
-
-    ![image](../img/grid_activity1.png)
-
-3. Notes:
-    * You can change the colours to your preference, but the layout should be the same as the image above
-    * The Grid columns and rows should be 80px
-    * The width and height of each Grid item must be 20px
-    * Take notice of the color of the text
-
-*BONUS: Use one of the CSS Frameworks of your choice (can be one of the examples mentioned above or something else) and apply it to your web pages.*
-
+<div style="width: 100%">
+<a href='introduction_to_css.md'><-- Previous Section: Introduction to CSS</a>
+<div align="right"><a href='week4-activities.md'>Next Section: Week 4 Activities --></a></div>
+</div>

@@ -1,7 +1,8 @@
 # Code the Future </>
 
 ## Week 4: Basic CSS
-## What is CSS?
+
+### What is CSS?
 
 * **CSS** = **C**ascading **S**tyle **S**heets
     * A styling language used for website layout and design
@@ -59,7 +60,7 @@
 
     <head>
     <title>My First Website</title>
-    <link rel="stylesheet" type="text/css" href="myStyleSheet.css />
+    <link rel="stylesheet" type="text/css" href="myStyleSheet.css" />
     </head>
     ```
       
@@ -91,7 +92,7 @@ p {
 ### Selector
 
 * The selectors are used to target a specific element or range of elements, where a style is applied on a web page 
-* There is a [wide range of selectors](../02-Advanced_CSS/README.md/#css-selectors-advanced) and each selector can have an `ID` and/or `Class` attributes.
+* There is a [wide range of selectors](advanced_css.md/#css-selectors-advanced) and each selector can have an `ID` and/or `Class` attributes.
 
     > **Class Attribute** <br/>
     This attribute allows you to define style rules that apply to *more than one element*.<br/>
@@ -123,34 +124,6 @@ p {
 
 ---
 
-## Activity: Styling your HTML Page
-
-In this exercise, you will add styling to your `index.html` page that you've created and updated in Weeks 2 and 3.  
-
-1. Create a new file in the same location where you save your index.html and call it `mystylesheet.css`
-2. Open this new file in Visual Studio Code and copy the following text:
-
-    ```css
-    .greentext {
-        font-family: Arial, Helvetica, sans-serif;
-        color: green;
-    }
-    ```
-3. Open your `index.html` on Visual Studio Code and then add the following inside the `<head>`
-
-    ```html
-    <link rel="stylesheet" href="mystylesheet.css"/>
-    ```
-4. In the `index.html`, add two new paragraphs inside the `<body>` element, one with class `.greentext`
-    ```
-    <p>This is the first paragraph</p>
-    <p class="greentext">This is another paragraph, which is green and using a different font</p>
-    ```
-5. Open `index.html` on a web browser and you should see changes in the font and the colour of the text of the second paragraph
-6. Update the CSS to make some more changes to the page and style it however you want
-
----
-
 ## Web Browser Developer Tools
 
 Modern web browsers have support for web developer tools (*devtools*) that will help designers/developers debug the front-end. This is covered in more detail in Week 2 or click on each link to learn more about the different devtools for each web browser: 
@@ -165,12 +138,6 @@ For this example, we will use Chrome. To view the styles applied on the page, se
 
 ![image](../images/week4/css_devtools.png)
 
----
-
-## Useful Links
-
-* [CSS Cheat Sheet](https://htmlcheatsheet.com/css/)
-* [More CSS Tutorials in Tutorialspoint](https://www.tutorialspoint.com/css/index.htm)
 
 
 <div style="width: 100%">

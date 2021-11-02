@@ -1,6 +1,8 @@
-# Week 4: Styling your app - CSS
+# Code the Future </>
 
-## Content Covered in this Session
+## Week 4: Styling your app - CSS
+
+### Content Covered in this Session
 
 * What is CSS? 
 * How to Use CSS with HTML?
@@ -10,7 +12,7 @@
 * CSS Pre-processors
 * CSS Frameworks
 
-## Session Goals
+### Session Goals
 
 * To understand what CSS is and how it is used to style a web page
 * To learn how to write CSS and apply it on an web page
