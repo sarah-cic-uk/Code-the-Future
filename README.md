@@ -22,6 +22,12 @@ Each week we will teach you the skills you need to develop your own website:
 - Week 6: Finish your website and show it off!
   </br></br>
 
+## Certification & Badge
+
+Upon completion of this course you will be awarded a certificate from the IBM Client Innovation Centre. If you demonstrate the website you have built over the duration oof the course at the showcase in the final session then you will also be award an accredited badge for use of social media and your CV.
+
+If you decide to apply for a position at the IBM CIC and let the course tutors know you will get automatically sent through to the telephone interview stage of the recruitment process.
+
 ## Prerequisites
 \
 To create a developer environment we will need to set up some tools. Before your first session:
