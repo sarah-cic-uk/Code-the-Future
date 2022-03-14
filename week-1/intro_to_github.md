@@ -85,6 +85,8 @@ The goal of this tutorial is to teach you:
 
 Now that you have GitHub Desktop installed, know what Git and GitHub are, and what we're going to do, let's get started:
 
+#### From the website
+
 1. Once logged in, click the green "New" button on the left side of the screen.
 2. Give a name to this repository and be sure to check the box titled "Add a README file".
    This will ensure that you can easily clone down the repository.
@@ -92,9 +94,9 @@ Now that you have GitHub Desktop installed, know what Git and GitHub are, and wh
    Your repository is now created, and can be changed however you want.
    Everything saved here is backed up on GitHub, safe if you accidentally delete it on your personal computer.  
    Scroll down the page and you should see the title of your repository, our goal is to change this.
-4. Next, head to the GitHub browser. Click the green "Code" button and take a look at the dropdown. Copy the link that is shown and head back to GitHub Desktop.
+4. Click the green "Code" button and take a look at the dropdown. Copy the link that is shown and head back to GitHub Desktop.
 5. Under file, choose "Clone Repository" and go to the URL tab. Paste in the link you copied, choose where you want to save your repository, and finally click clone.
-6. Open VSCode and open the file that you just cloned down.  
+6. Open VSCode (or your IDE of choice) and open the file that you just cloned down.  
    Everything you change here will only be changed on your local copy, until you push it back up.
 7. Open the only file in the folder, called README.md. This file is typically used to describe the project, any instructions to make it run, etc. In this tutorial we're just going to change it a little.
 8. In README.md, delete everything (should only be one line), and write your name inside. Then make sure to save it.
@@ -105,6 +107,21 @@ Now that you have GitHub Desktop installed, know what Git and GitHub are, and wh
 11. Enter your Username and Password to sign in, then submit them. Your changes have now been pushed to GitHub. Go to GitHub in your browser and refresh the page. The title on the bottom of your page should have now changed to your name.
 
 You've now created a repository, cloned it down, made a change, committed that change and pushed it back up to GitHub.
+
+#### From the desktop app
+
+1. Once you're on the start screen, click 'Create a New Repository on your hard drive...'
+2. Fill in the fields with the information about your new repository. (I'd suggest checking the 'Initialize this repository with a README' box)
+3. Click 'Create Repository'
+4. If it's all working correctly, you'll have a button at the top of the program to 'publish repository'. Click this, and it'll make sure your repository is registered with GitHub.
+5. Open up VSCode (or your IDE of choice) and open the folder for your new repository.
+6. Open the only file in the folder, called README.md. This file is typically used to describe the project, any instructions to make it run, etc. In this tutorial we're just going to change it a little.
+7. In README.md, delete everything (should only be one line), and write your name inside. Then make sure to save it.
+8. Once the README.md file has been saved, once again go back to GitHub Desktop and you'll be shown what's been removed and added to the file. Make sure you're happy, because nothing has been saved on GitHub yet.
+9. When you're happy, go to the bottom left of GitHub Desktop and click on the text bar that says "Update README.md". Type in "Wrote my name".  
+   This line is a quick description of the commit, or a summary of what's been changed.
+10. Click the blue "Commit to Main" button, then the "Push Origin" button on the top of the program.
+11. Head back to the GitHub website and take a look at your new repository, from here you should be able to see your name.
 
 ---
 
@@ -144,10 +161,7 @@ You've now created a repository, cloned it down, made a change, committed that c
 
 [Click Here for a Git cheatsheet](https://education.github.com/git-cheat-sheet-education.pdf)
 
-
-
-
 <div style="width: 100%">
 <a href='intro_to_ide.md'><-- Previous Section: The Developer Environment</a>
-<div align="right"><a  href='../week-1/git_and_terminal.md'>Next Section: Git & Terminal --></a></div>
+<div align="right"><a  href='../week-2/README.md'>Next Section: Week 2 Introduction --></a></div>
 </div>
