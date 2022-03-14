@@ -5,7 +5,6 @@
 [Sarah Neenan - UK CIC Development Practice Leader & Managing Developer](#Sarah)\
 [Vivienne Nenh - Associate Application Developer](#Vivienne)\
 [Georgia Ingham - Developer](#Georgia)\
-[Sam Roebuck - Associate Application Developer](#Sam)\
 [Kristel Caisip - Developer](#Kristel)\
 [Remya Muraleedharan - Application Developer](#Remya)\
 [Henry Mason - Associate Application Developer](#Henry)\
