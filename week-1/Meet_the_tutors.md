@@ -9,8 +9,9 @@
 [Kristel Caisip - Developer](#Kristel)\
 [Remya Muraleedharan - Application Developer](#Remya)\
 [Henry Mason - Associate Application Developer](#Henry)\
-[Sam Asquith - Associate Application Developer](#Samuel)\
-[Aum Desai - Associate Application Developer](#Aum)
+[Sam Asquith - Associate Application Developer](#Sam)\
+[Aum Desai - Associate Application Developer](#Aum)\
+[Rachel Lemonius - DevOps](#Rachel)
 
 ### Sarah
 
@@ -34,9 +35,6 @@ and I was hooked from there. Now I have worked for IBM CIC since 2018 and been g
 as a full stack Developer and Scrum Master. I enjoy the variation of tasks I get in my role, that I am able
 to keep learning during my role and how no two weeks are the same!
 
-### Sam
-
-I joined IBM CIC as an Associate Application Developer in Feburary 2021. Before IBM, I studied Digital Media with the aim of being a designer, I quickly realised I was more interested in building websites than designing them. After a web development course, lots of self-teaching and a few internships, I got my first graduate developer job doing front-end development and accessibility audits in an agency that focused on public sector. But I wanted to gain more experience in others of development and take on some new challenges so I applied for the Application Developer role at IBM! I've not been with IBM that long but I've learned lots in such a short amount of time and I'm loving taking on the new challenges that come with the role!
 
 ### Kristel
 
@@ -50,13 +48,17 @@ After my computer science engineering degree I started my career as a server adm
 
 I joined IBM as an Associate Developer in February 2021. Before IBM, I studied Economics at the University of Exeter with the aim of working in ethical finance. I took a job at Monzo Bank but quickly realised that I wanted to be a developer, designing the amazing tools I was using to help millions of people. So I enrolled on an MSc conversion course in Computer Science at Birkbeck University and applied for a role here at IBM. I'm already loving the job which, most importantly, gives me almost unlimited scope for creativity and many oportunities to contribute to the causes I care about.
 
-### Samuel
+### Sam
 
 I joined IBM in February 2021 as an Associate Developer. Before joining IBM I studied artificial intelligence, with a focus on autonomous robotics, wanting to create robots that could help people and make their lives easier. I really enjoy the work I do here, creatively problem solving on tools that will make peoples lives easier. I'm currently training in new tools to move my career towards artificical intelligence research, as that's where I believe I can best help.
 
 ### Aum
 
 Hola! I joined IBM CIC in June 2021 as a graduate. I studied Computer Science with a focus in Artificial Intelligence at the University of Kent. Even though it's been a short period in my current role, I have thoroughly enjoyed my time working at IBM due to the vast amount of self growth opportunities and the constant learning experiences IBM provides.
+
+### Rachel
+
+I joined the CIC in 2016 as a graduate Developer, since then I have been on various projects in a range of roles in Dev, Test, PMO and DevOps. I studied Computing at University and did a year in Industry as a Software Packager. I enjoy the fact I am able to learn a lot through CIC and explore career growth in a range of areas.
 
 <div style="width: 100%">
 <a href='README.md' ><-- Previous Section: Week 1 Introduction</a>
