@@ -27,9 +27,9 @@ You can link to images that are saved on your local computer:
 
 Or from a webpage:
 ```             
-<img src="https://image.freepik.com/free-photo/big-family-english-cream-golden-retrievers-posing-cute-playful-doggies-purebred-pets-looks-cute-isolated-white-background_155003-32425.jpg" alt="" height="650">
+<img src="https://image.freepik.com/free-photo/big-family-english-cream-golden-retrievers-posing-cute-playful-doggies-purebred-pets-looks-cute-isolated-white-background_155003-32425.jpg" alt="5 cream puppies" height="650">
 ```
-<img src="https://image.freepik.com/free-photo/big-family-english-cream-golden-retrievers-posing-cute-playful-doggies-purebred-pets-looks-cute-isolated-white-background_155003-32425.jpg" alt="" height="650">
+<img src="https://image.freepik.com/free-photo/big-family-english-cream-golden-retrievers-posing-cute-playful-doggies-purebred-pets-looks-cute-isolated-white-background_155003-32425.jpg" alt="5 cream puppies" height="650">
 
 ## HTML Tables
 HTML tables allow you to display information, or tabular data, in organised rows and columns. In order to display data in a table, there are a number of tags that are necessary:
@@ -88,7 +88,7 @@ In this example, we have a basic table with three columns, a row defining the he
 In this activity, we are going to be building upon your webpage that you started about yourselves. Add these HTML elements and you'll start to see your webpage develop more character!
 
 In your `index.html` file, add the following to your webpage:
-1. An image of yourself, or something you love, to go alonside the text you previously inputted.
+1. An image of yourself, or something you love, to go alongside the text you previously inputted.
 2. A table containing anything you'd like! This could be hobbies, pets, children, favourite foods etc.
 
 <i>Note</i> You will need to refresh your browser tab to see any changes that you make to your `index.html` file.

@@ -17,24 +17,21 @@ A sample HTML form look like below:
 ![form.png](../images/form.png)
 
 
-
-
 The HTML ```<form>``` element is used to create an HTML form for user input:
 
 ```<form></form>```
 
- ```<form> ``` has following attributes:-
+ ```<form> ``` has the following attributes which can be set:
 
-accept-charset:	Specifies the character encodings used for form submission
-action:	        Specifies where to send the form-data when a form is submitted
-autocomplete:	Specifies whether a form should have autocomplete on or off
-enctype:        Specifies how the form-data should be encoded when submitting it to the server (only for method="post")
-method:	        Specifies the HTTP method to use when sending form-data
-name:	        Specifies the name of the form
-novalidate:	    Specifies that the form should not be validated when submitted
-rel	:            Specifies the relationship between a linked resource and the current document
-target:	        Specifies where to display the response that is received after submitting the form
-
+- **accept-charset**:	Specifies the character encodings used for form submission 
+- **action**: Specifies where to send the form-data when a form is submitted
+- **autocomplete**:	Specifies whether a form should have autocomplete on or off
+- **enctype**: Specifies how the form-data should be encoded when submitting it to the server (only for method="post")
+- **method**: Specifies the HTTP method to use when sending form-data
+- **name**: Specifies the name of the form
+- **novalidate**: Specifies that the form should not be validated when submitted
+- **rel**: Specifies the relationship between a linked resource and the current document
+- **target**: Specifies where to display the response that is received after submitting the form
 
 The HTML ```<form>``` element can contain one or more of the following form elements:
 
@@ -97,8 +94,9 @@ The HTML ```<form>``` element can contain one or more of the following form elem
 </tr>
 </tbody></table>
 
-HTML ```<input>``` element
-The HTML ```<input>```element is a fundamental element used to create fields in a form to collect user input. Here's some sample HTML code which creates a name field.
+## HTML Input element
+
+The HTML ```<input>``` element is a fundamental element used to create fields in a form to collect user input. Here's some sample HTML code which creates a name field.
 
 ```
 <!DOCTYPE html>
@@ -109,7 +107,7 @@ The HTML ```<input>```element is a fundamental element used to create fields in 
 </head>
 <body>  
 <h2>Login Page</h2>
-  <form  action="/action.js">
+  <form  action="./formSuccess.html">
   <label for="fname">First name:</label><br>
   <input type="text" id="fname" name="fname" value=""><br>
   <label for="lname">Last name:</label><br>
@@ -125,8 +123,6 @@ The HTML ```<input>```element is a fundamental element used to create fields in 
 
  ![sampleform.png](../images/sampleform.png)
 
-  
- 
 
  The HTML ```<input>``` element is the most used form element. An ```<input>``` element can be displayed in many ways, depending on the type attribute.
  In the example above it is a single-line text input field. 
@@ -235,10 +231,30 @@ The HTML ```<input>```element is a fundamental element used to create fields in 
 
 ## Activity
 
-Create a user registartion form. The registration form should contain four text fields - User Name, Email, Password, Confirm password - and one button - Register. Hitting the button will send their data to a web server. 
+1. Create a user registartion form. The registration form should:
+    - open up the "./formSuccess.html" page on submission
+    - contain four text fields - User Name, Email, Password and Confirm password (note type="password" for fields you want to mask)
+    - contain one button - Register
+    - All text fields must be mandatory
+    - User Name field must not allow more than 10 characters
 
-Validation:
-  All the four fields are mandatoy. Maximum length of the userame field is 40. 
+    As part of this task you should create a file called formSuccess.html in the same folder as your index.html with the following content:
+
+    ```
+    <!DOCTYPE html>
+    <html>
+      <head>
+        <meta charset="utf-8">
+        <title>Form Submission</title>
+      </head>
+      <body>
+        <h1>Form Submitted Successfully</h1>
+      </body>
+    </html>
+    ```
+
+
+2. If time play around with the different input options available and attributes available. 
 
 ## Resources
 * [W3 Schools](https://www.w3schools.com/html/html_forms.asp)
