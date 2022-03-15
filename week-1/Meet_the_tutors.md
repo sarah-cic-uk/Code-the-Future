@@ -11,7 +11,7 @@
 [Sam Asquith - Associate Application Developer](#Sam)\
 [Aum Desai - Associate Application Developer](#Aum)\
 [Rachel Lemonius - DevOps](#Rachel)\
-[Amber Idumwonyi - Senior Test Specialist](#Amber)
+[Amber Idumwonyi - Senior Test Specialist](#Amber)\
 [Davina Opong - Managing Project Manager](#Davina)
 
 ### Sarah
