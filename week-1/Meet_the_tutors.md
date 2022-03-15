@@ -10,7 +10,8 @@
 [Henry Mason - Associate Application Developer](#Henry)\
 [Sam Asquith - Associate Application Developer](#Sam)\
 [Aum Desai - Associate Application Developer](#Aum)\
-[Rachel Lemonius - DevOps](#Rachel)
+[Rachel Lemonius - DevOps](#Rachel)\
+[Amber Idumwonyi](#Amber)
 
 ### Sarah
 
@@ -58,6 +59,11 @@ Hola! I joined IBM CIC in June 2021 as a graduate. I studied Computer Science wi
 ### Rachel
 
 I joined the CIC in 2016 as a graduate Developer, since then I have been on various projects in a range of roles in Dev, Test, PMO and DevOps. I studied Computing at University and did a year in Industry as a Software Packager. I enjoy the fact I am able to learn a lot through CIC and explore career growth in a range of areas.
+
+### Amber
+
+I joined IBM CIC as a Senior Test Specialist in October 2021. Before IBM, I studied computing science and then went further to acquire a Masters degree in Business Systems Analysis and Design with the aim of becoming a Business Analyst. Later I realised I was a very inquisitive and success driven person who always wants things done in the right way, (almost perfect) quality enough to yield success. I took a job at SNC-Lavlin Atkins where I was the sole Test Engineer working on the Heathrow Aviation project and checking to ensure the facial recognition system could actually recognise a passenger’s face. Whilst working on that project, I realised that being a tester wasn’t enough, I needed to learn and understand the backend of a software, which then made me take on the position of QA Automation Engineer at IBM. I am now being taught how to code in Java Language. I have learnt a lot since I joined IBM and the trainings and career progression IBM offers is second to none.
+
 
 <div style="width: 100%">
 <a href='README.md' ><-- Previous Section: Week 1 Introduction</a>
