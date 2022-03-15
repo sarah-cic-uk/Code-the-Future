@@ -12,6 +12,7 @@
 [Aum Desai - Associate Application Developer](#Aum)\
 [Rachel Lemonius - DevOps](#Rachel)\
 [Amber Idumwonyi - Senior Test Specialist](#Amber)
+[Davina Opong - Managing Project Manager](#Davina)
 
 ### Sarah
 
@@ -64,7 +65,7 @@ I joined the CIC in 2016 as a graduate Developer, since then I have been on vari
 
 I joined IBM CIC as a Senior Test Specialist in October 2021. Before IBM, I studied computing science and then went further to acquire a Masters degree in Business Systems Analysis and Design with the aim of becoming a Business Analyst. Later I realised I was a very inquisitive and success driven person who always wants things done in the right way, (almost perfect) quality enough to yield success. I took a job at SNC-Lavlin Atkins where I was the sole Test Engineer working on the Heathrow Aviation project and checking to ensure the facial recognition system could actually recognise a passenger’s face. Whilst working on that project, I realised that being a tester wasn’t enough, I needed to learn and understand the backend of a software, which then made me take on the position of QA Automation Engineer at IBM. I am now being taught how to code in Java Language. I have learnt a lot since I joined IBM and the trainings and career progression IBM offers is second to none.
 
-###Davina
+### Davina
 
 I joined IBM in June 2021 as a Project Manager and I'm currently working as a Scrum Master on my current assignment. I have been in IT since 2004 after graduating in IT with Business Information Systems. Although my career has predominately been on the infrastructure delivery side, developing in java and HTML were a big part of my degree many moons ago! I love working as a Project Manager as I get to work on a variety of projects which pushes you to further develop your understanding of this ever evolving industry. 
 
