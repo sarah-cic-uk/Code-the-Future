@@ -18,7 +18,7 @@
 
 To open Terminal on Mac you can use the CMD+SPACE shortcut and type terminal in the search box.
 
-Terminals can have different themes, the default bing white with black text. Screenshots here are my own custom theme so dont worry if your terminal looks different!
+Terminals can have different themes, the default being white with black text. Screenshots here are my own custom theme so dont worry if your terminal looks different!
 
 Terminal:
 
