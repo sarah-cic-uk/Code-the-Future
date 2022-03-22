@@ -14,6 +14,8 @@ Now we are going to focus on the tags themselves and how they can ben used to bu
 
 ### Creating the main file for you website.
 
+- Create a directory called `Intro-To-Code`. We can use this to store all our source code repositories from Github.
+
 - Create an `index.html` page in your `Intro-To-Code` directory.
 
 - This file is the main file which controls your website and will be the source of the majority of your content.

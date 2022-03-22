@@ -29,10 +29,6 @@ We will use a terminal for the initial setup before switching to VS Code.
 - To be able to use Chrome Dev Tools to inspect pages
 - To create your own HTML page containing various HTML elements
 
-### Directory set up
-
-- Create a directory called `Intro-To-Code`. We can use this to store all our source code repositories from github.
-
 <div style="width: 100%">
 <a href='../week-1/intro_to_github.md'><-- Previous Section: Introduction to Git & GitHub</a>
 <div align="right"><a  href='html_basics.md'>Next Section: HTML Basics --></a></div>
