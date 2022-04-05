@@ -1,6 +1,6 @@
 # Code the Future </>
 
-## Week 3: Accessibility Tools
+## Week 5: Accessibility Tools
 
 ## Accessibility Tools and Tips
 
@@ -47,5 +47,5 @@ For people prone to motion sickness?
 
 <div style="width: 100%">
 <a href='intro_to_accessibility.md'><-- Previous Section: Accessibility</a>
-<div align="right"><a href='../week-4/README.md'>Next Section: Week 4 Introduction --></a></div>
+<div align="right"><a href='project_planning.md'>Next Section: Personal Project Planning --></a></div>
 </div>

@@ -1,6 +1,6 @@
 # Code the Future </>
 
-## Week 3: Accessibility
+## Week 5: Accessibility
 
 ## Accessibility
 In this section we are going to talk about why you need to strive to make accessible applications, how to make your applications more accessibile and explain some good practices you can follow.
@@ -170,7 +170,7 @@ Check out [Google's info on Aria Labelling](https://developers.google.com/web/fu
 
 
 <div style="width: 100%">
-<a href='html_hyperlinks.md'><-- Previous Section: HTML Hyperlinks</a>
+<a href='../week-5/README.md'><-- Previous Section:  Week 5 Introduction</a>
 <div align="right"><a href='accessibility_tools_tips.md'>Next Section: Accessibility Tools --></a></div>
 </div>
 

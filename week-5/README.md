@@ -1,64 +1,23 @@
-# Week 5: Personal Project Planning
+# Week 5: Accessibility and Personal Project Planning
 
 ## Content Covered in this Session
 - [Introduction](#Introduction)
 - [Session goals](#Session-goals)
-- [Example Projects](#Example-projects)
+- [Accessibility and best practices](intro_to_accessibility.md)
+- [Accessibility tools and tips](accessibility_tools_tips.md)
+- [Example Projects](project_planning.md)
 
 ## Introduction
-It's time to hand things over to you! There are no lessons this week as you
-have time to work on your personal projects. A project portfolio will help you when 
-applying for roles as it will showcase your skills. We will help you create an app
-that you will host publicly on GitHub pages.
+It's nearly time to hand things over to you! We will also share the basics of making your app 
+accessible to everyone and then give you time to work on your personal projects. 
+A project portfolio will help you when applying for roles as it will showcase your skills. 
+We will help you create an app that you will host publicly on GitHub pages.
 
 ## Session goals
+- To understand best practices and why accessibility features are important.
 - To create your own application!
 
-## Plan your site!
-
-It can be hard to know where to start with a project, so here's some tips to help you plan:
-- Plan out what pages you want
-- Plan out the content/images you want on the pages
-- Are there any features you know you want, like a gallery or social media buttons? 
-  - Is there any learning/research you need to do to be able to do this?
-
-
-## Example projects
-We aren't looking for a masterpiece. This is time for you to practice your new skills 
-and dive deeper into web development with the tutors support.
-
-There are some examples of first websites:
-- [Sarah's site from a free evening Intro to HTML/CSS course](http://neenan.github.io/sarah/)
-- [Sam's coding course website](https://samiiroebuck.github.io/CFG/index.html)
-
-
-## Extra HTML Tips
-
-### Add Meta Data
-
-This cool HTML trick might be the most important if you want your site to be seen.
-The meta data is information about your site that you want search engines like Google to know about. 
-
-Using HTML, you can give Google a description of your site (which they may or may not use in the search entry for your site, but will certainly use when categorizing it) as well as some keywords relevant to your site.  
-
-The code for adding meta data is simple, you put the follwing in the ```<head></head>``` of your page:
-```
-<meta name="description" content="Used auto parts for sale">
-
-<meta name="keywords" content="fuel filters, brake discs, belts" />
-```
-
-
-### Resources and how-to's
-
-- [HTML Meta](https://www.w3schools.com/tags/tag_meta.asp)
-- [CSS Parallax](https://www.w3schools.com/howto/howto_css_parallax.asp)
-- [Slideshow Gallery](https://www.w3schools.com/howto/howto_js_slideshow_gallery.asp)
-- [Sticky Socials](https://www.w3schools.com/howto/howto_css_sticky_social_bar.asp)
-- [Sidebar](https://www.w3schools.com/howto/howto_js_collapse_sidebar.asp)
-- [Social Media Buttons](https://www.w3schools.com/howto/howto_css_social_media_buttons.asp)
-
 <div style="width: 100%">
-<a href='../week-4/advanced_css.md'><-- Previous Section: Advanced CSS</a>
-<div align="right"><a href='../week-6/README.md'>Next Section: Week 6 Introduction --></a></div>
+<a href='week4-activities.md'><-- Previous Section: Week 4 Activities</a>
+<div align="right"><a href='intro_to_accessibility.md'>Next Section: Accessibility --></a></div>
 </div>

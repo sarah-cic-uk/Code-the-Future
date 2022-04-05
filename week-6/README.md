@@ -19,6 +19,6 @@ This week you will have an introduction to Green Coding and learn how to host yo
 
 
 <div style="width: 100%">
-<a href='../week-5/README.md'><-- Previous Section:  Week 5 Introduction</a>
+<a href='../week-5/project_planning.md'><-- Previous Section: Personal Project Planning</a>
 <div align="right"><a href='green_coding.md'>Next Section: Green Coding--></a></div>
 </div>

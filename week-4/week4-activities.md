@@ -180,5 +180,5 @@ Using the skills you've learned for this week, change your `index.html` to impro
 
 <div style="width: 100%">
 <a href='introduction_to_css.md'><-- Previous Section: Advanced CSS</a>
-<div align="right"><a href='../week-5/README.md'>Next Section: Week 5 Personal Project Planning --></a></div>
+<div align="right"><a href='../week-5/README.md'>Next Section: Week 5 Accessibility and Personal Project Planning --></a></div>
 </div>

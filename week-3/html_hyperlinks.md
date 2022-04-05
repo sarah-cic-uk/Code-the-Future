@@ -60,5 +60,5 @@ In this activity, you are going to grow your website from a single page to multi
 
 <div style="width: 100%">
 <a href='html_forms.md'><-- Previous Section: HTML Forms</a>
-<div align="right"><a href='intro_to_accessibility.md'>Next Section: Accessibility --></a></div>
+<div align="right"><a href='../week-4/README.md'>Next Section: Week 4 Introduction --></a></div>
 </div>

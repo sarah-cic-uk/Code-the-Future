@@ -9,8 +9,6 @@
     - Images and tables
     - Forms and validation
     - Hyperlinks and creating multiple pages
- - [Accessibility and best practices](html_cont_section_00-1.md)
- - [Accessibility tools and tips](html_cont_section_00-2.md)
 
 ### Introduction
 Here, you will get an introduction into good practices and accessibility as well as 
@@ -22,8 +20,6 @@ a full application. We will also share the basics of making your app accessible 
 ### Session goals
  - To use more HTML elements to add content to your webpage.
  - To create multiple pages to make a application.
- - To understand best practices and why accessibility features are important.
-
 
 <div style="width: 100%">
 <a href='../week-2/create_webpage.md'><-- Previous Section: Create your first webpage</a>

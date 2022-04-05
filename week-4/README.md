@@ -24,6 +24,6 @@
 
 
 <div style="width: 100%">
-<a href='../week-3/accessibility_tools_tips.md'><-- Previous Section: Accessibility Tools</a>
+<a href='html_hyperlinks.md'><-- Previous Section: HTML Hyperlinks</a>
 <div align="right"><a href='introduction_to_css.md'>Next Section: Introduction to CSS --></a></div>
 </div>
