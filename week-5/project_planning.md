@@ -15,7 +15,8 @@ and dive deeper into web development with the tutors support.
 
 There are some examples of first websites:
 - [Sarah's site from a free evening Intro to HTML/CSS course](http://neenan.github.io/sarah/)
-- [Sam's coding course website](https://samiiroebuck.github.io/CFG/index.html)
+- [Darren's website from Code The Future Cohort October 2021](https://darrenfaleiro.github.io/Tech-Deals/)
+- [Kadijah's website from Code The Future Cohort October 2021](https://kay0218.github.io/RED/index.html)
 
 
 ## Extra HTML Tips
