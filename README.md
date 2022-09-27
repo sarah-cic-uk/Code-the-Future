@@ -18,8 +18,10 @@ Each week we will teach you the skills you need to develop your own website:
 - Week 2: Create a basic webpage
 - Week 3: Add various elements to your webpages (images, tables, hyperlinks etc)
 - Week 4: Make your website look great with CSS
-- Week 5: Work on your own website with help from the tutors
-- Week 6: Finish your website and show it off!
+- Week 5: Learn about Accessibility tools and work on your own website with help from the tutors
+- Week 6: A week dedicated to your own websites
+- Week 7: Show off how awesome your website is and get certified!
+- Week 8 (Optional): CV workshop and how to apply to roles
   </br></br>
 
 ## Certification & Badge
