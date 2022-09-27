@@ -18,8 +18,9 @@
 [Jacqueline Jones - Front-end Developer](#Jacqueline)\
 [Cameron McDonna - Associate Full Stack Software Engineer](#Cameron)\
 [Andy Mair - Associate Developer](#Andy)\
+[Dana Românu - Associate Technology Specialist](#Dana)\
 [Henry Mason - Associate Application Developer](#Henry)\
-[Georgia Ingham - Developer](#Georgia)\
+[Georgia Ingham - Developer](#Georgia)
 
 ### Sarah
 
@@ -90,6 +91,10 @@ I’m a recent Computer Science graduate from Demontfort University and made a U
 ### Andy
 
 Hey! I joined the CIC as an Associate Developer in April 2022 after graduating. I studied Mechanical Engineering at the University of Birmingham where I was introduced to coding in the form MATLAB and a short Introduction to Computing module focussing on C. I realised I had more interest in working on software than I did mechanical design. This  lead me to apply for the Associate Developer Role in the CIC. Since I joined I have had abundant opportunities to learn and have particularly enjoyed exploring Vue.js and Node.js to make a variety of full-stack web applications.
+
+### Dana
+
+Joined IBM as an Associate Technical Specialist last October . Passionate about DevOps, VR, AR and medicine. Grounded human , hoping that “beam me up Scotty” will happen during my lifetime :smile:. Working background prior to IBM was in healthcare setting, currently happy with 1 and 0.
 
 ### Henry
 
