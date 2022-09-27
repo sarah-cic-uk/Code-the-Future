@@ -94,7 +94,7 @@ Hey! I joined the CIC as an Associate Developer in April 2022 after graduating. 
 
 ### Dana
 
-Joined IBM as an Associate Technical Specialist last October . Passionate about DevOps, VR, AR and medicine. Grounded human , hoping that “beam me up Scotty” will happen during my lifetime :smile:. Working background prior to IBM was in healthcare setting, currently happy with 1 and 0. HERE!!
+Joined IBM as an Associate Technical Specialist last October . Passionate about DevOps, VR, AR and medicine. Grounded human , hoping that “beam me up Scotty” will happen during my lifetime :smile:. Working background prior to IBM was in healthcare setting, currently happy with 1 and 0.
 
 ### Henry
 
