@@ -12,7 +12,8 @@
 [Aum Desai - Associate Application Developer](#Aum)\
 [Rachel Lemonius - DevOps](#Rachel)\
 [Amber Idumwonyi - Senior Test Specialist](#Amber)\
-[Davina Opong - Managing Project Manager](#Davina)
+[Davina Opong - Managing Project Manager](#Davina)\
+[Jacqueline Jones - Front-end Developer](#Jacqueline)
 
 ### Sarah
 
@@ -68,6 +69,10 @@ I joined IBM CIC as a Senior Test Specialist in October 2021. Before IBM, I stud
 ### Davina
 
 I joined IBM in June 2021 as a Project Manager and I'm currently working as a Scrum Master on my current assignment. I have been in IT since 2004 after graduating in IT with Business Information Systems. Although my career has predominately been on the infrastructure delivery side, developing in java and HTML were a big part of my degree many moons ago! I love working as a Project Manager as I get to work on a variety of projects which pushes you to further develop your understanding of this ever evolving industry. 
+
+### Jacqueline
+
+After leaving school/college I spent a long time in the hairdressing industry, one day I began learning code in my own spare time, very much like this which kickstarted me onto a new career path. I had already had over 10 years experience in UX/UI design and development before I was approached by someone from the CIC who saw my online portfolio and suggested that I attend a CIC assessment centre, that was over 5 and a half years ago now. Since, I have been with the CIC I've pushed myself out of my comfort zone learning new tech, languages and methodologies however being surrounded by such a high calibre of talented peers and the support of the CIC meant those achievements were within reach.
 
 
 <div style="width: 100%">
