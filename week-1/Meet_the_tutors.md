@@ -69,6 +69,10 @@ I joined IBM CIC as a Senior Test Specialist in October 2021. Before IBM, I stud
 
 I joined IBM in June 2021 as a Project Manager and I'm currently working as a Scrum Master on my current assignment. I have been in IT since 2004 after graduating in IT with Business Information Systems. Although my career has predominately been on the infrastructure delivery side, developing in java and HTML were a big part of my degree many moons ago! I love working as a Project Manager as I get to work on a variety of projects which pushes you to further develop your understanding of this ever evolving industry. 
 
+### Kadijah
+
+I joined IBM CIC as an Associate Technology Specialist in August 2022. Before this I studied Accounting and Finance and although I enjoyed it, I realised I enjoyed coding a lot more once I did this Code The Future last year. I was encouraged to apply by my then-tutors and went through the process and ended up here! I've come in with basic HTML and CSS knowledge but I am learning more and more everyday. 
+
 
 <div style="width: 100%">
 <a href='README.md' ><-- Previous Section: Week 1 Introduction</a>
