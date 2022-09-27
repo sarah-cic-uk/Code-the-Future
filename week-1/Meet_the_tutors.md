@@ -12,7 +12,8 @@
 [Aum Desai - Associate Application Developer](#Aum)\
 [Rachel Lemonius - DevOps](#Rachel)\
 [Amber Idumwonyi - Senior Test Specialist](#Amber)\
-[Davina Opong - Managing Project Manager](#Davina)
+[Davina Opong - Managing Project Manager](#Davina)\
+[Lewis Bailey - Associate Application Developer](#Lewis)
 
 ### Sarah
 
@@ -35,7 +36,6 @@ options and the Computer Science course caught my eye. That was where I created 
 and I was hooked from there. Now I have worked for IBM CIC since 2018 and been given the opportunity to work
 as a full stack Developer and Scrum Master. I enjoy the variation of tasks I get in my role, that I am able
 to keep learning during my role and how no two weeks are the same!
-
 
 ### Kristel
 
@@ -67,8 +67,12 @@ I joined IBM CIC as a Senior Test Specialist in October 2021. Before IBM, I stud
 
 ### Davina
 
-I joined IBM in June 2021 as a Project Manager and I'm currently working as a Scrum Master on my current assignment. I have been in IT since 2004 after graduating in IT with Business Information Systems. Although my career has predominately been on the infrastructure delivery side, developing in java and HTML were a big part of my degree many moons ago! I love working as a Project Manager as I get to work on a variety of projects which pushes you to further develop your understanding of this ever evolving industry. 
+I joined IBM in June 2021 as a Project Manager and I'm currently working as a Scrum Master on my current assignment. I have been in IT since 2004 after graduating in IT with Business Information Systems. Although my career has predominately been on the infrastructure delivery side, developing in java and HTML were a big part of my degree many moons ago! I love working as a Project Manager as I get to work on a variety of projects which pushes you to further develop your understanding of this ever evolving industry.
 
+### Lewis
+
+I joined IBM in March 2022 as an Associate Application Developer and I am currently working with a Gov department called DBS to help make it easier for people and organisations to access people's criminal data.
+Before joining IBM I studied a Comp Science MSc at Uni of Birmingham and before that I worked as an international business, even living in Japan for a few years! However the constant flights/travel worn me out and I decided to change careers into IT - one of the best decisions I've ever made!
 
 <div style="width: 100%">
 <a href='README.md' ><-- Previous Section: Week 1 Introduction</a>
