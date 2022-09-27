@@ -12,7 +12,8 @@
 [Aum Desai - Associate Application Developer](#Aum)\
 [Rachel Lemonius - DevOps](#Rachel)\
 [Amber Idumwonyi - Senior Test Specialist](#Amber)\
-[Davina Opong - Managing Project Manager](#Davina)
+[Davina Opong - Managing Project Manager](#Davina)\
+[Anujan Ganeshalingam - Associate Technology Specialist](#Anujan)
 
 ### Sarah
 
@@ -68,6 +69,10 @@ I joined IBM CIC as a Senior Test Specialist in October 2021. Before IBM, I stud
 ### Davina
 
 I joined IBM in June 2021 as a Project Manager and I'm currently working as a Scrum Master on my current assignment. I have been in IT since 2004 after graduating in IT with Business Information Systems. Although my career has predominately been on the infrastructure delivery side, developing in java and HTML were a big part of my degree many moons ago! I love working as a Project Manager as I get to work on a variety of projects which pushes you to further develop your understanding of this ever evolving industry. 
+
+### Anujan
+
+Hi! I joined IBM as an associate full stack developer 2 months ago. Having graduated from a physics degree, I decided to apply the skills I learnt there in a professional setting. During my degree, I learnt the basics of python, from then on, I did more and more projects in different languages. Now I’m coming towards the end of my training at IBM, I’m looking forward to put these skills into action. 
 
 
 <div style="width: 100%">
