@@ -13,6 +13,7 @@
 [Rachel Lemonius - DevOps](#Rachel)\
 [Amber Idumwonyi - Senior Test Specialist](#Amber)\
 [Davina Opong - Managing Project Manager](#Davina)
+[Jacob Boardman - Devloper](#Jacob)
 
 ### Sarah
 
@@ -35,7 +36,6 @@ options and the Computer Science course caught my eye. That was where I created 
 and I was hooked from there. Now I have worked for IBM CIC since 2018 and been given the opportunity to work
 as a full stack Developer and Scrum Master. I enjoy the variation of tasks I get in my role, that I am able
 to keep learning during my role and how no two weeks are the same!
-
 
 ### Kristel
 
@@ -67,8 +67,11 @@ I joined IBM CIC as a Senior Test Specialist in October 2021. Before IBM, I stud
 
 ### Davina
 
-I joined IBM in June 2021 as a Project Manager and I'm currently working as a Scrum Master on my current assignment. I have been in IT since 2004 after graduating in IT with Business Information Systems. Although my career has predominately been on the infrastructure delivery side, developing in java and HTML were a big part of my degree many moons ago! I love working as a Project Manager as I get to work on a variety of projects which pushes you to further develop your understanding of this ever evolving industry. 
+I joined IBM in June 2021 as a Project Manager and I'm currently working as a Scrum Master on my current assignment. I have been in IT since 2004 after graduating in IT with Business Information Systems. Although my career has predominately been on the infrastructure delivery side, developing in java and HTML were a big part of my degree many moons ago! I love working as a Project Manager as I get to work on a variety of projects which pushes you to further develop your understanding of this ever evolving industry.
 
+### Jacob
+
+I joined IBM CIC as a Java Developer in September 2021, bust quickly tranisitnoed into FrontendDevleopement and Javascript. Before IBM I worked as an IT Consulant where I was also contract out to IBM as a Java Deleoper for 2 years, but made myself known and was hired by IBM CIC after my contract ended. I graduated from University studying Computer Science for Games, where i learnt a lot more about the gameing industry, but turned more to software as to not sour the tasteing of gaming. I'm fairly new to tutoring so will have to help me learn as well but always enjoyed helping an teaching others.
 
 <div style="width: 100%">
 <a href='README.md' ><-- Previous Section: Week 1 Introduction</a>
