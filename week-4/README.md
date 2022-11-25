@@ -24,6 +24,6 @@
 
 
 <div style="width: 100%">
-<a href='html_hyperlinks.md'><-- Previous Section: HTML Hyperlinks</a>
+<a href='../week-3/html_hyperlinks.md'><-- Previous Section: HTML Hyperlinks</a>
 <div align="right"><a href='introduction_to_css.md'>Next Section: Introduction to CSS --></a></div>
 </div>
