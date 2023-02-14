@@ -6,14 +6,14 @@
     <title>Jobs at CIC</title>
   </head>
   <body>
-    <img src="./images/cicheader1.png" class="header" />
-    <br/>
-    <br/>
 <div class="page-body">
+  <h1 id="title">Code the Future &lt / &gt</h1>
+
       <div class="topnav">
         <a  href="./index.html">About the course</a>
         <a class="active" href="./jobs.html">Jobs at CIC</a>
       </div> 
+      <div class="text-container">
       <h1>IBM CIC</h1>
       <p>IBM CIC is a fast growing developer community. We are looking for passionate people who want to develop thier career in technology. 
           You do not need to know what specific job role you want to do, and you do not need to be a computer science graduate to join us.</p>
@@ -69,6 +69,7 @@
         <li>A hackathon</li>
 
     </ul>
+    </div>
 </div>
   </body>
 </html>
@@ -98,35 +99,44 @@
     .credly-text {
         font-size: 14px;
     }
-.page-body {
+.text-container {
     width: 80%;
     margin: auto;
 }
-    body {
+    /* body {
         background-image: url('./images/uifooter1.png');
         background-size: 100% 50%;
         background-repeat: no-repeat;
         background-attachment: fixed;
         height: 100%;
         background-position-y: bottom;
+    } */
+
+    #title {
+        text-align: center;
+        font-size: 36pt;
     }
+
 /* Add a black background color to the top navigation */
 .topnav {
   background-color: #333;
   overflow: hidden;
-  width: 80%;
-  margin: auto;
+  /* width: 80%; */
+  /* margin: auto; */
+  display: flex;
+  justify-content: space-around;
+
 }
 
 /* Style the links inside the navigation bar */
 .topnav a {
-  float: left;
+  /* float: left; */
   color: #f2f2f2;
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
   font-size: 17px;
-  width: 45%;
+  /* width: 45%; */
 }
 
 /* Change the color of links on hover */
