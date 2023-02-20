@@ -1,0 +1,71 @@
+* {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+body {
+  margin: 0;
+  background-color: rgb(242, 242, 242);
+}
+
+h5 {
+  color: orange;
+}
+
+.blue-and-bold {
+  color: blue;
+  font-weight: bold;
+  font-size: 14px;
+}
+
+#red-and-italic {
+  color: red;
+  font-style: italic;
+  font-size: 16px;
+}
+
+a {
+  width: 100px;
+  text-decoration: none;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  color: white;
+  width: 140px;
+  padding: 7px;
+  background-color: rgb(123, 176, 236);
+  border-radius: 4px;
+  margin-left: 20px;
+  text-align: center;
+  display: inline-block;
+}
+
+/* Makes all unvisited links purple with no text decoration (i.e. not underlined)*/
+a:link {
+  color: purple;
+  text-decoration: none;
+}
+
+/* Makes all visited links gray and with a line through */
+a:visited {
+  text-decoration: line-through;
+}
+
+/* Makes links purple and bold when hovered over */
+a:hover {
+  color: rgb(245, 189, 245);
+  font-weight: bold;
+  background-color: rgb(100, 144, 195);
+}
+
+a:active {
+  color: rgb(245, 189, 245);
+  font-weight: bold;
+  padding: 4px;
+}
+
+nav {
+  background-color: rgb(245, 245, 222);
+  display: flex;
+  justify-content: center;
+  height: 50px;
+  justify-items: center;
+  align-items: center;
+}

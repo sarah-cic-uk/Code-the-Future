@@ -68,7 +68,7 @@ In this activity, you are going to grow your website from a single page to multi
 You can browse the files that have been udpated in this folder and try to follow the folder structure going forward.<br>
 <a href='./example-finished-activities-week3'>Finished Examples</a>
 
-If you get stuck or would like some inspiration on what to add to you page, you can check out the [example finished activity](example-finished-activities/index.html) for the updated code index file and the newly created [sucess form page](example-finished-activities/html/formSuccess.html) for the hyperlink section.
+If you get stuck or would like some inspiration on what to add to you page, you can check out the [example finished activity](example-finished-activities-week3/index.html) for the updated code index file and the newly created [success form page](example-finished-activities-week3/html/formSuccess.html) for the hyperlink section.
 
 <h2 id=Resources>Resources</h2>
 

@@ -3,8 +3,18 @@
   <head>
     <meta charset="utf-8" />
     <title>My first webpage</title>
+    <link rel="stylesheet" type="text/css" href="./style/myStyleSheet.css" />
+    <style type="text/css">
+      h4 {
+        color: red;
+      }
+    </style>
   </head>
   <body>
+    <nav id="navbar">
+      <a href="./html/flexbox.html">Flexbox Example</a>
+      <a href="./html/grid_sample.html">Grid Example</a>
+    </nav>
     <h1>My name is Henry</h1>
     <p>And I am a cat person</p>
 
@@ -58,6 +68,13 @@
       <input type="text" id="lname" name="lname" value="" />
       <input type="submit" value="Submit" />
     </form>
+
+    <h2>Style Examples</h2>
+    <p style="color: blue">Hello World!! with inline CSS Styleing</p>
+    <h4>A H4 heading being manipulated with Internal CSS Styleing</h4>
+    <h5>A H5 heading being manipulated with External CSS Styleing</h5>
+    <p class="blue-and-bold">Using a class to specify the styleing</p>
+    <p id="red-and-italic">Using a class to specify the styleing</p>
 
     <h2>Image Examples</h2>
     <img src="../images/puppies.jpeg" alt="Puppies in a basket" />
