@@ -51,7 +51,7 @@ Here, we have an example of a stucture, where we have a "Home", an "About me" an
 HTML pages that branch off from the `index.html` page still follows the same structure that we have learnt in this course. Since the `index.html` page is our homepage, we want to be able to navigate to these additional pages that we add. As we have just learnt, these can be done through hyperlinks:
 
 ```
-<a href="html/about.html">About Me<a>
+<a href="html/about.html">About Me</a>
 ```
 
 ## Activity
@@ -65,10 +65,10 @@ In this activity, you are going to grow your website from a single page to multi
 
 ## Example finished activity
 
-You can browse the files that have been udpated in this folder
+You can browse the files that have been udpated in this folder and try to follow the folder structure going forward.<br>
 <a href='./example-finished-activities-week3'>Finished Examples</a>
 
-If you get stuck or would like some inspiration on what to add to you page, you can check out the [example finished activity](example-finished-activities/index.html) for the updated code index file and the newly created [sucess form page](example-finished-activities/formSuccess.html) for the hyperlink section.
+If you get stuck or would like some inspiration on what to add to you page, you can check out the [example finished activity](example-finished-activities/index.html) for the updated code index file and the newly created [sucess form page](example-finished-activities/html/formSuccess.html) for the hyperlink section.
 
 <h2 id=Resources>Resources</h2>
 
