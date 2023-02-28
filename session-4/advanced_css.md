@@ -218,7 +218,7 @@ CSS Frameworks provide an abstraction for common web designs and makes it easier
 You can browse the files that have been udpated in this folder and try to follow the folder structure going forward.<br>
 <a href='./example-finished-activities-session4'>Finished Examples</a>
 
-If you get stuck or would like some inspiration on what to add to you page, you can check out the [example finished activity](example-finished-activities-session4/index.html) for the updated code, here for the [success form page](example-finished-activities-session4/html/formSuccess.html), and here for the new [stylesheet](example-finished-activities-session4/style/myStyleSheet.css) we have created.
+If you get stuck or would like some inspiration on what to add to you page, you can check out the [index file](example-finished-activities-session4/index.html) for the updated code, here for the [success form page](example-finished-activities-session4/html/formSuccess.html), and here for the new [stylesheet](example-finished-activities-session4/style/myStyleSheet.css) we have created.
 
 For the advanced CSS you can follow these links ot the files created in the folder.<br>
 [Flexbox Example](example-finished-activities-session4/html/flexbox.html)<br>

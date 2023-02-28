@@ -176,7 +176,7 @@ Using the skills you've learned for this session, change your `index.html` to im
 
 _BONUS: Use one of the CSS Frameworks of your choice (can be one of the examples mentioned above or something else) and apply it to your web pages._
 
-\*EXTRA ACTIVITY: For testing out oyur knowlwdge on Flexbox and Grid you can visit these sites [Flexbox Froggy](https://flexboxfroggy.com/) and [Grid Garden](https://cssgridgarden.com/)
+_EXTRA ACTIVITY: For testing out oyur knowlwdge on Flexbox and Grid you can visit these sites [Flexbox Froggy](https://flexboxfroggy.com/) and [Grid Garden](https://cssgridgarden.com/)._
 
 <div style="width: 100%">
 <a href='introduction_to_css.md'><-- Previous Section: Advanced CSS</a>
