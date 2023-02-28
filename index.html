@@ -7,17 +7,14 @@
 </head>
 
 <body>
-
-    <img src="./images/cicheader1.png" class="header" />
-    <br/>
-    <br/>
 <div class="page-body">
+    <h1 id="title">Code the Future &lt / &gt</h1>
       <div class="topnav">
         <a class="active" href="./index.html">About the course</a>
         <a href="./jobs.html">Jobs at CIC</a>
       </div> 
-    <div class="body-text">
-        <p>Welcome to the course! This 6 session course will teach you the basics of web development and give you insight
+    <div class="text-container">
+        <p>Welcome to the course! This 6-8 session course will teach you the basics of web development and give you insight
             into the role of a developer. By the end you will have built your own fully functioning website you can use,
             share and add to your web development portfolio.</p>
 
@@ -37,7 +34,9 @@
             <li>Session 3: Add various elements to your webpages (images, tables, hyperlinks etc)</li>
             <li>Session 4: Make your website look great with CSS</li>
             <li>Session 5: Work on your own website with help from the tutors</li>
-            <li>Session 6: Finish your website and show it off!</li>
+            <li>Session 6: Work on your sites with the tutors around to help</li>
+            <li>Session 7: Finish your website and show it off!</li>
+            <li>Session 8: Optional CV workshop</li>
         </ul>
 
         <h2>Certificate & Badge</h2>
@@ -49,7 +48,12 @@
         <p>If you decide to apply for a position at the IBM CIC and let the course tutors know, you will
             automatically be sent through to the telephone interview stage of the recruitment process.</p>
 
-        <br />
+     
+<h2>Sign up to the Priority List</h3>
+<p>You can sign up to the course at anytime by emailing Lilli (<span class='color-link'>lilli.belfield-cic-uk@uk.ibm.com</span>) who will add you 
+    to the priority registration list. This means you will get access to the registration link a week before it is made public. </p>
+
+<br/>
         <h3>Badge Support</h3>
 
         <p class="credly-text"><b>If I pass the course, when do I get the badge?</b><br />
@@ -102,39 +106,49 @@
         width: 80%;
         margin-bottom: 150px
     }
-
+.color-link {
+    color: darkblue;
+}
     .credly-text {
         font-size: 14px;
     }
-    .page-body {
+    .text-container {
     width: 80%;
     margin: auto;
 }
-    body {
+    /* body {
         background-image: url('./images/uifooter1.png');
         background-size: 100% 50%;
         background-repeat: no-repeat;
         background-attachment: fixed;
         height: 100%;
         background-position-y: bottom;
+    } */
+
+    #title {
+        text-align: center;
+        font-size: 36pt;
     }
 /* Add a black background color to the top navigation */
 .topnav {
   background-color: #333;
   overflow: hidden;
-  width: 80%;
-  margin: auto;
+  /* width: 80%; */
+  /* margin: auto; */
+  display: flex;
+  justify-content: space-around;
+
 }
 
 /* Style the links inside the navigation bar */
 .topnav a {
-  float: left;
+  /* float: left; */
   color: #f2f2f2;
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
   font-size: 17px;
-  width: 45%;
+  /* width: 45%; */
 }
 
 /* Change the color of links on hover */

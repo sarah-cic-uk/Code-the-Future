@@ -19,8 +19,10 @@ Each session we will teach you the skills you need to develop your own website:
 - Session 2: Create a basic webpage
 - Session 3: Add various elements to your webpages (images, tables, hyperlinks etc)
 - Session 4: Make your website look great with CSS
-- Session 5: Work on your own website with help from the tutors
-- Session 6: Finish your website and show it off!
+- Session 5: Learn about Accessibility tools and work on your own website with help from the tutors
+- Session 6: A week dedicated to your own websites
+- Session 7: Show off how awesome your website is and get certified!
+- Session 8 (Optional): CV workshop and how to apply to roles
   </br></br>
 
 ## Certification & Badge
