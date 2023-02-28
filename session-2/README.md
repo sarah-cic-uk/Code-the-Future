@@ -7,13 +7,13 @@
 - [Introduction](#Introduction)
 - [Session goals](#Session-goals)
 - [Directory setup](#Directory-set-up)
-- [What HTML is](html_basics_section_00.md)
+- [What HTML is](html_basics.md)
   - The standard HTML DOM
   - Common HTML elements used for text
-- [Using dev tools in Chrome](html_basics_section_01.md)
+- [Using dev tools in Chrome](dev_tools.md)
   - Opening dev tools
   - Inspecting and editing elements in dev tools
-- [Activity: Creating your first webpage](html_basics_section_02.md)
+- [Activity: Creating your first webpage](create_webpage.md)
 
 ### Introduction
 

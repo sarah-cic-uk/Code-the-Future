@@ -7,9 +7,9 @@
 - [Introduction](#Introduction)
 - [Session goals](#Session-goals)
 - HTML elements
-  - Images and tables
-  - Forms and validation
-  - Hyperlinks and creating multiple pages
+  - [Images and tables](html_images_tables.md)
+  - [Forms and validation](html_forms.md)
+  - [Hyperlinks and creating multiple pages](html_hyperlinks.md)
 
 ### Introduction
 
