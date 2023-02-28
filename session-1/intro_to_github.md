@@ -1,6 +1,6 @@
 # Code the Future </>
 
-## Week 1: Git & GitHub Install & Tutorial
+## Session 1: Git & GitHub Install & Tutorial
 
 ### Content covered in this session
 
@@ -163,5 +163,5 @@ You've now created a repository, cloned it down, made a change, committed that c
 
 <div style="width: 100%">
 <a href='intro_to_ide.md'><-- Previous Section: The Developer Environment</a>
-<div align="right"><a  href='../week-2/README.md'>Next Section: Week 2 Introduction --></a></div>
+<div align="right"><a  href='../session-2/README.md'>Next Section: Session 2 Introduction --></a></div>
 </div>

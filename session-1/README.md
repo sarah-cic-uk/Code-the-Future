@@ -1,8 +1,9 @@
 # Code the Future </>
 
-## Week 1: Introductions and Setting up
+## Session 1: Introductions and Setting up
 
 ### Content covered in this session
+
 - [Introduction](#Introduction)
 - [Session goals](#Session-goals)
 - [Meet the Tutors](Meet_the_tutors.md)
@@ -12,10 +13,10 @@
 
 ### Introduction
 
-This week will introduce you to the course, your tutors and the tech industry. 
-We will share stories of how we got to where we are, the work we have done and 
+This session will introduce you to the course, your tutors and the tech industry.
+We will share stories of how we got to where we are, the work we have done and
 what it is like to work for IBM.
-You'll also get your laptops set up to enable software development and learn 
+You'll also get your laptops set up to enable software development and learn
 about version control and keeping your work safe.
 
 ### Session goals
@@ -25,7 +26,6 @@ about version control and keeping your work safe.
 - Learn about the tech industry
 - Set up your laptop for development
 - Learn about Git and how to use Github for version control
-
 
 <div style="width: 100%">
 <a href='../README.md' ><-- Previous Section: Introduction</a>

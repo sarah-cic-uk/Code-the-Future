@@ -1,6 +1,6 @@
 # Code the Future </>
 
-## Week 2: HTML Basics
+## Session 2: HTML Basics
 
 ### Content covered in this session
 
@@ -30,6 +30,6 @@ We will use a terminal for the initial setup before switching to VS Code.
 - To create your own HTML page containing various HTML elements
 
 <div style="width: 100%">
-<a href='../week-1/intro_to_github.md'><-- Previous Section: Introduction to Git & GitHub</a>
+<a href='../session-1/intro_to_github.md'><-- Previous Section: Introduction to Git & GitHub</a>
 <div align="right"><a  href='html_basics.md'>Next Section: HTML Basics --></a></div>
 </div>

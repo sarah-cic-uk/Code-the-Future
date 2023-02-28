@@ -1,6 +1,6 @@
 # Code the Future </>
 
-## Week 2: Create your first webpage!
+## Session 2: Create your first webpage!
 
 ## Activity Walkthrough
 
@@ -100,5 +100,5 @@ If you get stuck or would like some inspiration on what to add to you page, you 
 
 <div style="width: 100%">
 <a href='dev_tools.md'><-- Previous Section: Chrome Dev Tools</a>
-<div align="right"><a href='../week-3/README.md'>Next Section: Week 3 Introduction --></a></div>
+<div align="right"><a href='../session-3/README.md'>Next Section: Session 3 Introduction --></a></div>
 </div>

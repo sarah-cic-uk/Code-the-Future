@@ -1,12 +1,12 @@
 # Code the Future </>
 
-## Week 4: Activities
+## Session 4: Activities
 
 _NOTE: Read through and try to understand the code snippets provided above. Change the values of each property and see how it can impact the elements on the webpage. If you have any questions, reach out to the tutors._
 
 ## Activity 1: Styling your Webpage
 
-In this exercise, you will add styling to your `index.html` page that you've created and updated in Weeks 2 and 3.
+In this exercise, you will add styling to your `index.html` page that you've created and updated in Sessions 2 and 3.
 
 1. In Visual Studio, open the directory where your `index.html` is stored and create a new CSS file called `mystylesheet.css`
 2. Open the `mystylesheet.css`, copy the following text and save the file:
@@ -43,7 +43,7 @@ In this exercise, you will add styling to your `index.html` page that you've cre
 
 For this activity, we are going to create this on a webpage to understand how to use Flexbox.
 
-![image](../images/week4/flexbox_activity1.png)
+![image](../images/session4/flexbox_activity1.png)
 
 1. Open Visual Studio code and create a new HTML file and call it `flexbox_sample.html` and a new CSS file and call it `layout_stylesheet.css`
 2. Open the `flexbox_sample.html` and copy the following and save the file
@@ -113,7 +113,7 @@ For this activity, we are going to create this on a webpage to understand how to
 
 For this activity, we are going to create this on a webpage to understand how to use Grids.
 
-![image](../images/week4/grid_activity1.png)
+![image](../images/session4/grid_activity1.png)
 
 1. Open Visual Studio code and create a new HTML file and call it `grid_sample.html` and copy the following and save the file
 
@@ -172,7 +172,7 @@ For this activity, we are going to create this on a webpage to understand how to
 
 ## Activity 3: Style and Add Layout to your Web Page
 
-Using the skills you've learned for this week, change your `index.html` to improve the appearance of your web page to your preference. You can also change the layout of your page to add headers/footers, navigation bar, etc. Here are some sample [CSS Templates](https://www.w3schools.com/css/css_templates.asp) for inspiration.
+Using the skills you've learned for this session, change your `index.html` to improve the appearance of your web page to your preference. You can also change the layout of your page to add headers/footers, navigation bar, etc. Here are some sample [CSS Templates](https://www.w3schools.com/css/css_templates.asp) for inspiration.
 
 _BONUS: Use one of the CSS Frameworks of your choice (can be one of the examples mentioned above or something else) and apply it to your web pages._
 
@@ -180,5 +180,5 @@ _BONUS: Use one of the CSS Frameworks of your choice (can be one of the examples
 
 <div style="width: 100%">
 <a href='introduction_to_css.md'><-- Previous Section: Advanced CSS</a>
-<div align="right"><a href='../week-5/README.md'>Next Section: Week 5 Accessibility and Personal Project Planning --></a></div>
+<div align="right"><a href='../session-5/README.md'>Next Section: Session 5 Accessibility and Personal Project Planning --></a></div>
 </div>

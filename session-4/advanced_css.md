@@ -1,6 +1,6 @@
 # Code the Future </>
 
-## Week 4: Advanced CSS
+## Session 4: Advanced CSS
 
 ## More CSS Selectors and More Advanced Concepts
 
@@ -93,7 +93,7 @@ There are different ways to align elements on the page easier and the most flexi
 
 CSS Flexible Layout Module (Flexbox) is a new technique to improve the way the element are laid out on a page by managing alignments of items, directions, and order in the container. This avoids the use of floats.
 
-![image](../images/week4/flexbox_components.png)
+![image](../images/session4/flexbox_components.png)
 
 - Main Components of a Flexbox are:
   - _Flex Container_ - it groups the Flex Items
@@ -118,7 +118,7 @@ CSS Flexible Layout Module (Flexbox) is a new technique to improve the way the e
 
 Another modern technique to improve the way the element are laid out on a page which does not make use of floats. Unlike CSS Flexbox, CSS Grid is two-dimensional layout - you can divide rows and columns simultaneously.
 
-![image](../images/week4/grid_components.png)
+![image](../images/session4/grid_components.png)
 
 - Main components of a Grid are:
 
@@ -216,14 +216,14 @@ CSS Frameworks provide an abstraction for common web designs and makes it easier
 ## Example finished activity
 
 You can browse the files that have been udpated in this folder and try to follow the folder structure going forward.<br>
-<a href='./example-finished-activities-week4'>Finished Examples</a>
+<a href='./example-finished-activities-session4'>Finished Examples</a>
 
-If you get stuck or would like some inspiration on what to add to you page, you can check out the [example finished activity](example-finished-activities-week4/index.html) for the updated code, here for the [success form page](example-finished-activities-week4/html/formSuccess.html), and here for the new [stylesheet](example-finished-activities-week4/style/myStyleSheet.css) we have created.
+If you get stuck or would like some inspiration on what to add to you page, you can check out the [example finished activity](example-finished-activities-session4/index.html) for the updated code, here for the [success form page](example-finished-activities-session4/html/formSuccess.html), and here for the new [stylesheet](example-finished-activities-session4/style/myStyleSheet.css) we have created.
 
 For the advanced CSS you can follow these links ot the files created in the folder.<br>
-[Flexbox Example](example-finished-activities-week4/html/flexbox.html)<br>
-[Grid Example](example-finished-activities-week4/html/grid_sample.html)<br>
-[Flex and Gird Stylecheet](example-finished-activities-week4/style/layout_stylesheet.css)<br>
+[Flexbox Example](example-finished-activities-session4/html/flexbox.html)<br>
+[Grid Example](example-finished-activities-session4/html/grid_sample.html)<br>
+[Flex and Gird Stylecheet](example-finished-activities-session4/style/layout_stylesheet.css)<br>
 
 ## Useful Links
 
@@ -233,5 +233,5 @@ For the advanced CSS you can follow these links ot the files created in the fold
 
 <div style="width: 100%">
 <a href='introduction_to_css.md'><-- Previous Section: Introduction to CSS</a>
-<div align="right"><a href='week4-activities.md'>Next Section: Week 4 Activities --></a></div>
+<div align="right"><a href='session4-activities.md'>Next Section: Session 4 Activities --></a></div>
 </div>

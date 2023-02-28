@@ -1,6 +1,6 @@
 # Code the Future </>
 
-## Week 3: HTML Hyperlinks
+## Session 3: HTML Hyperlinks
 
 <h2 id=html-links> HTML Links</h2>
 HTML links, or hyperlinks, allow you to navigate to another location by simply clicking on some anchor. These are particularly useful to jump to specific sections on a webpage, email addresses, other web pages, or anything else a URL can address.
@@ -66,9 +66,9 @@ In this activity, you are going to grow your website from a single page to multi
 ## Example finished activity
 
 You can browse the files that have been udpated in this folder and try to follow the folder structure going forward.<br>
-<a href='./example-finished-activities-week3'>Finished Examples</a>
+<a href='./example-finished-activities-session3'>Finished Examples</a>
 
-If you get stuck or would like some inspiration on what to add to you page, you can check out the [example finished activity](example-finished-activities-week3/index.html) for the updated code index file and the newly created [success form page](example-finished-activities-week3/html/formSuccess.html) for the hyperlink section.
+If you get stuck or would like some inspiration on what to add to you page, you can check out the [example finished activity](example-finished-activities-session3/index.html) for the updated code index file and the newly created [success form page](example-finished-activities-session3/html/formSuccess.html) for the hyperlink section.
 
 <h2 id=Resources>Resources</h2>
 
@@ -76,5 +76,5 @@ If you get stuck or would like some inspiration on what to add to you page, you 
 
 <div style="width: 100%">
 <a href='html_forms.md'><-- Previous Section: HTML Forms</a>
-<div align="right"><a href='../week-4/README.md'>Next Section: Week 4 Introduction --></a></div>
+<div align="right"><a href='../session-4/README.md'>Next Section: Session 4 Introduction --></a></div>
 </div>

@@ -1,12 +1,13 @@
 # Code the Future </>
 
-## Week 5: Accessibility Tools
+## Session 5: Accessibility Tools
 
 ## Accessibility Tools and Tips
 
 Google a few of these and keep them in your arsenal.
 
 For those who cannot see?
+
 - Dynamic Type
 - VoiceOver
 - Voice Control
@@ -14,11 +15,13 @@ For those who cannot see?
 - Camera
 
 For those hard of hearing?
+
 - Haptic feedback
 - Connection to hearing aids
 - Text Telephone
 
 For those who struggle to move?
+
 - Switch Control
 - VoiceOver (again! - most of these help a lot of people)
 - Automatic/manual scroll
@@ -30,20 +33,22 @@ For those who struggle to move?
 For those of another culture?
 \
 (Disability isn't always physical...)
+
 - World Ready Apps
 - Typography
 - Dynamic layouts (right to left or left to right??)
 - Imagery (everyone understands an image)
 
 For people who see the world differently?
+
 - Think about your colours (is red angry or lucky??)
 - Color blindness prompts/patterns
 - Contrast ratios
 - How easy to spot is the cursor?
 
 For people prone to motion sickness?
-- Consider how much your screen is moving!
 
+- Consider how much your screen is moving!
 
 <div style="width: 100%">
 <a href='intro_to_accessibility.md'><-- Previous Section: Accessibility</a>

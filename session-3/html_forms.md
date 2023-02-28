@@ -1,6 +1,6 @@
 # Code the Future </>
 
-## Week 3: HTML Forms
+## Session 3: HTML Forms
 
 ## W3: Text input, forms, validation
 
@@ -9,23 +9,21 @@
 HTML Form is a document which stores information from a user using interactive controls. It is used to collect some data from the user.
 An HTML form can contains elements such as check box, input box, radio buttons, submit buttons etc to gather different kinds of information such as username, password, contact number and email id.
 
-
 For example: When a user wants to purchase items from an online shop, he/she usually has to fill forms with the shipping address and credit/debit card details.
 
 A sample HTML form look like below:
 
 ![form.png](../images/form.png)
 
+The HTML `<form>` element is used to create an HTML form for user input:
 
-The HTML ```<form>``` element is used to create an HTML form for user input:
+`<form></form>`
 
-```<form></form>```
+`<form> ` has the following attributes which can be set:
 
- ```<form> ``` has the following attributes which can be set:
-
-- **accept-charset**:	Specifies the character encodings used for form submission 
+- **accept-charset**: Specifies the character encodings used for form submission
 - **action**: Specifies where to send the form-data when a form is submitted
-- **autocomplete**:	Specifies whether a form should have autocomplete on or off
+- **autocomplete**: Specifies whether a form should have autocomplete on or off
 - **enctype**: Specifies how the form-data should be encoded when submitting it to the server (only for method="post")
 - **method**: Specifies the HTTP method to use when sending form-data
 - **name**: Specifies the name of the form
@@ -33,7 +31,7 @@ The HTML ```<form>``` element is used to create an HTML form for user input:
 - **rel**: Specifies the relationship between a linked resource and the current document
 - **target**: Specifies where to display the response that is received after submitting the form
 
-The HTML ```<form>``` element can contain one or more of the following form elements:
+The HTML `<form>` element can contain one or more of the following form elements:
 
 <table style="border-collapse: collapse;
     border-spacing: 0;
@@ -96,7 +94,7 @@ The HTML ```<form>``` element can contain one or more of the following form elem
 
 ## HTML Input element
 
-The HTML ```<input>``` element is a fundamental element used to create fields in a form to collect user input. Here's some sample HTML code which creates a name field.
+The HTML `<input>` element is a fundamental element used to create fields in a form to collect user input. Here's some sample HTML code which creates a name field.
 
 ```
 <!DOCTYPE html>
@@ -105,7 +103,7 @@ The HTML ```<input>``` element is a fundamental element used to create fields in
 <meta charset="utf-8">
 <title>My login page</title>
 </head>
-<body>  
+<body>
 <h2>Login Page</h2>
   <form  action="./formSuccess.html">
   <label for="fname">First name:</label><br>
@@ -113,21 +111,20 @@ The HTML ```<input>``` element is a fundamental element used to create fields in
   <label for="lname">Last name:</label><br>
   <input type="text" id="lname" name="lname" value="">
   <input type="submit" value="Submit">
-</form> 
-</body>  
+</form>
+</body>
 </html>
 
 ```
- 
- The output of the code snippet looks like this.
 
- ![sampleform.png](../images/sampleform.png)
+The output of the code snippet looks like this.
 
+![sampleform.png](../images/sampleform.png)
 
- The HTML ```<input>``` element is the most used form element. An ```<input>``` element can be displayed in many ways, depending on the type attribute.
- In the example above it is a single-line text input field. 
+The HTML `<input>` element is the most used form element. An `<input>` element can be displayed in many ways, depending on the type attribute.
+In the example above it is a single-line text input field.
 
- Here are some more examples: 
+Here are some more examples:
 
 <table style="border-collapse: collapse;
     border-spacing: 0;
@@ -161,17 +158,15 @@ The HTML ```<input>``` element is a fundamental element used to create fields in
  </tbody>
  </table>
 
+`<input>` field must have a name attribute. Without the name attribute the value of the input field will not be sent.
 
-  ```<input>``` field must have a name attribute. Without the name attribute the value of the input field will not be sent.
+The `<input type="submit">` defines a button for submitting the form data to a form-handler.
+The form-handler is typically a script on the server which processes the input data.
+The form-handler is specified in the form's action attribute.
 
-  The ```<input type="submit">``` defines a button for submitting the form data to a form-handler. 
-  The form-handler is typically a script on the server which processes the input data.
-  The form-handler is specified in the form's action attribute.
+In the above code example the `<label>` tag defines a label for form elements. The "for" attribute of the `<label>` tag should be equal to the "id" attribute of the `<input> ` element to bind them together.
 
-  In the above code example the ```<label>``` tag defines a label for form elements. The "for" attribute of the ```<label>``` tag should be equal to the "id" attribute of the ```<input> ``` element to bind them together.
-
-  ```<input>``` attributes
-
+`<input>` attributes
 
   <table style="border-collapse: collapse;
     border-spacing: 0;
@@ -232,34 +227,34 @@ The HTML ```<input>``` element is a fundamental element used to create fields in
 ## Activity
 
 1. Create a user registartion form. The registration form should:
-    - open up the "./formSuccess.html" page on submission
-    - contain four text fields - User Name, Email, Password and Confirm password (note type="password" for fields you want to mask)
-    - contain one button - Register
-    - All text fields must be mandatory
-    - User Name field must not allow more than 10 characters
 
-    As part of this task you should create a file called formSuccess.html in the same folder as your index.html with the following content:
+   - open up the "./formSuccess.html" page on submission
+   - contain four text fields - User Name, Email, Password and Confirm password (note type="password" for fields you want to mask)
+   - contain one button - Register
+   - All text fields must be mandatory
+   - User Name field must not allow more than 10 characters
 
-    ```
-    <!DOCTYPE html>
-    <html>
-      <head>
-        <meta charset="utf-8">
-        <title>Form Submission</title>
-      </head>
-      <body>
-        <h1>Form Submitted Successfully</h1>
-      </body>
-    </html>
-    ```
+   As part of this task you should create a file called formSuccess.html in the same folder as your index.html with the following content:
 
+   ```
+   <!DOCTYPE html>
+   <html>
+     <head>
+       <meta charset="utf-8">
+       <title>Form Submission</title>
+     </head>
+     <body>
+       <h1>Form Submitted Successfully</h1>
+     </body>
+   </html>
+   ```
 
-2. If time play around with the different input options available and attributes available. 
+2. If time play around with the different input options available and attributes available.
 
 ## Resources
-* [W3 Schools](https://www.w3schools.com/html/html_forms.asp)
-* [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/form)
 
+- [W3 Schools](https://www.w3schools.com/html/html_forms.asp)
+- [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/form)
 
 <div style="width: 100%">
 <a href='html_images_tables.md'><-- Previous Section: HTML Images and Tables</a>

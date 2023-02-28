@@ -2,8 +2,9 @@
 
 ## What is it?
 
-Green coding is a term recently popularized for its environmental intentions and refers to programming code that is written to produce algorithms that have minimal energy consumption. 
-- Structural considerations - encompass the energy measures related to code blocks (units of code). 
+Green coding is a term recently popularized for its environmental intentions and refers to programming code that is written to produce algorithms that have minimal energy consumption.
+
+- Structural considerations - encompass the energy measures related to code blocks (units of code).
 - Behavioural considerations - the energy consumption that is related to user scenarios such as sending an email or checking your Twitter feed.
 
 The more visitors a site has the bigger its carbon footprint, and so green coding can have a large impact on heavy footfall websites. Amazon get 9 billion hits a day!
@@ -34,15 +35,14 @@ To do this we can use the video tag with certain attributes:
 ```
 
 **Avoid overuse of web fonts!**\
-Web fonts from somewhere like Google Fonts (https://fonts.google.com/) allow you to embed fonts in the browser that arent natively supported. These fonts need to be downloaded by the user to allow them to view the page. Built in CSS fonts don't need to be downloaded and so have no carbon cost. 
-
+Web fonts from somewhere like Google Fonts (https://fonts.google.com/) allow you to embed fonts in the browser that arent natively supported. These fonts need to be downloaded by the user to allow them to view the page. Built in CSS fonts don't need to be downloaded and so have no carbon cost.
 
 ## Useful info
-https://shouldiuseacarousel.com/ \
-https://principles.green/ 
 
+https://shouldiuseacarousel.com/ \
+https://principles.green/
 
 <div style="width: 100%">
-<a href='README.md'><-- Previous Section:  Week 6 Introduction</a>
+<a href='README.md'><-- Previous Section:  Session 6 Introduction</a>
 <div align="right"><a href='hosting_on_git.md'>Next Section: Hosting on Git--></a></div>
 </div>

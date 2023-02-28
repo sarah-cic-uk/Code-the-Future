@@ -1,6 +1,6 @@
 # Code the Future </>
 
-## Week 1: Meet the Tutors!
+## Session 1: Meet the Tutors!
 
 [Sarah Neenan - UK CIC Development Practice Leader & Managing Developer](#Sarah)\
 [Vivienne Nenh - Associate Application Developer](#Vivienne)\
@@ -26,7 +26,7 @@ teams and I love my job.
 
 ### Vivienne
 
-I joined IBM CIC as an associate in February 2021. Before IBM, I studied in the field of research in Applied Mathematics and Computational Modelling. After completing a year as a PhD student, I decided I wanted to explore a different aspect of programming. I applied for the Application Developer role at IBM and never expected to get it! Although I had some programming skills, I knew nothing about software development... Luckily, this role included 9 weeks of developer training and, although I have only been in this role for a short amount of time, I am really enjoying it. I am very much still new to the development world and am learning more and more every day at IBM.
+I joined IBM CIC as an associate in February 2021. Before IBM, I studied in the field of research in Applied Mathematics and Computational Modelling. After completing a year as a PhD student, I decided I wanted to explore a different aspect of programming. I applied for the Application Developer role at IBM and never expected to get it! Although I had some programming skills, I knew nothing about software development... Luckily, this role included 9 sessions of developer training and, although I have only been in this role for a short amount of time, I am really enjoying it. I am very much still new to the development world and am learning more and more every day at IBM.
 
 ### Georgia
 
@@ -34,8 +34,7 @@ After finishing my A Levels I wasn't sure what I wanted to do for a career. I lo
 options and the Computer Science course caught my eye. That was where I created my first programme (in C)
 and I was hooked from there. Now I have worked for IBM CIC since 2018 and been given the opportunity to work
 as a full stack Developer and Scrum Master. I enjoy the variation of tasks I get in my role, that I am able
-to keep learning during my role and how no two weeks are the same!
-
+to keep learning during my role and how no two sessions are the same!
 
 ### Kristel
 
@@ -67,10 +66,9 @@ I joined IBM CIC as a Senior Test Specialist in October 2021. Before IBM, I stud
 
 ### Davina
 
-I joined IBM in June 2021 as a Project Manager and I'm currently working as a Scrum Master on my current assignment. I have been in IT since 2004 after graduating in IT with Business Information Systems. Although my career has predominately been on the infrastructure delivery side, developing in java and HTML were a big part of my degree many moons ago! I love working as a Project Manager as I get to work on a variety of projects which pushes you to further develop your understanding of this ever evolving industry. 
-
+I joined IBM in June 2021 as a Project Manager and I'm currently working as a Scrum Master on my current assignment. I have been in IT since 2004 after graduating in IT with Business Information Systems. Although my career has predominately been on the infrastructure delivery side, developing in java and HTML were a big part of my degree many moons ago! I love working as a Project Manager as I get to work on a variety of projects which pushes you to further develop your understanding of this ever evolving industry.
 
 <div style="width: 100%">
-<a href='README.md' ><-- Previous Section: Week 1 Introduction</a>
+<a href='README.md' ><-- Previous Section: Session 1 Introduction</a>
 <div align="right"><a  href='intro_to_ide.md'>Next Section: Developer Environments & IDEs --></a></div>
 </div>
