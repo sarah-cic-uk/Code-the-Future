@@ -1,0 +1,80 @@
+* {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+body {
+  background-color: white;
+  color: black;
+}
+
+/* Styling Flexbox */
+#flexbox-demo-bg {
+  background-color: rgb(251, 243, 226);
+  color: rgb(17, 15, 15);
+}
+
+.flex-container {
+  height: 400px;
+  display: flex;
+  flex-flow: row wrap;
+  background-color: pink;
+  justify-content: space-evenly;
+  align-items: start;
+}
+
+.flex-item {
+  color: aliceblue;
+  background-color: rgb(225, 0, 255);
+  width: 100px;
+  margin: 10px;
+  text-align: center;
+  line-height: 75px;
+  font-size: 30px;
+}
+
+#itemA {
+  height: 200px;
+}
+
+#itemB {
+  align-self: flex-end;
+  height: 100px;
+}
+
+/* Styling Grid */
+.grid-container {
+  display: grid;
+  /* grid-template-rows: repeat(4, 100px); */
+  /* grid-template-columns: 100px 100px 100px 100px; */
+  grid-template: repeat(4, 100px) / 100px 100px 100px 100px;
+  /* row-gap: 10px; */
+  /* column-gap: 20px; */
+  gap: 10px 40px;
+  justify-items: center;
+  align-items: center;
+  justify-content: space-evenly;
+  align-content: space-between;
+  background-color: rgb(251, 243, 226);
+  margin-bottom: 50px;
+  padding: 15px;
+  width: 500px;
+}
+.grid-item {
+  background-color: rgb(161, 161, 239);
+  color: white;
+  border: 3px solid rgb(80, 47, 80);
+  width: 50px;
+  text-align: center;
+  line-height: 50px;
+  font-size: 30px;
+}
+
+#grid1 {
+  /* grid-column-start: 2; */
+  /* grid-column-end: 4; */
+  grid-column: 2 / 4;
+  grid-row: 2 / 4;
+  /* justify-self: center;
+  align-self: center; */
+  place-self: center end;
+}
