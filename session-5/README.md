@@ -21,6 +21,6 @@ We will help you create an app that you will host publicly on GitHub pages.
 - To create your own application!
 
 <div style="width: 100%">
-<a href='session4-activities.md'><-- Previous Section: Session 4 Activities</a>
+<a href='../session4/session4-activities.md'><-- Previous Section: Session 4 Activities</a>
 <div align="right"><a href='intro_to_accessibility.md'>Next Section: Accessibility --></a></div>
 </div>
