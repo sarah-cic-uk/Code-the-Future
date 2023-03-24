@@ -51,6 +51,6 @@ For people prone to motion sickness?
 - Consider how much your screen is moving!
 
 <div style="width: 100%">
-<a href='intro_to_accessibility.md'><-- Previous Section: Accessibility</a>
-<div align="right"><a href='project_planning.md'>Next Section: Personal Project Planning --></a></div>
+<a href='intro_to_accessibility.md'><-- Previous section: Accessibility</a>
+<div align="right"><a href='project_planning.md'>Next section: Personal Project Planning --></a></div>
 </div>

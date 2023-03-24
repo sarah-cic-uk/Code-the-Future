@@ -21,6 +21,6 @@ This session you will have an introduction to Green Coding and learn how to host
 - Build your network
 
 <div style="width: 100%">
-<a href='../session-5/project_planning.md'><-- Previous Section: Personal Project Planning</a>
-<div align="right"><a href='green_coding.md'>Next Section: Green Coding--></a></div>
+<a href='../session-5/project_planning.md'><-- Previous section: Personal Project Planning</a>
+<div align="right"><a href='green_coding.md'>Next section: Green Coding--></a></div>
 </div>

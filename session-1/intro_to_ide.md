@@ -40,7 +40,7 @@ The interface is divided into five areas:
 - Editor - The main area to edit your files. You can open as many editors as you like side by side vertically and horizontally.
 - Side Bar - Contains different views like the Explorer to assist you while working on your project.
 - Status Bar - Information about the opened project and the files you edit.
-- Activity Bar - Located on the far left-hand side, this lets you switch between views and gives you additional context-specific indicators, like the number of outgoing changes when Git is enabled. You'll learn more about git in the next section.
+- Activity Bar - Located on the far left-hand side, this lets you switch between views and gives you additional context-specific indicators, like the number of outgoing changes when Git is enabled. You'll learn more about git in the Next section.
 - Panels - You can display different panels below the editor region for output or debug information, errors and warnings, or an integrated terminal. Panel can also be moved to the right for more vertical space.
 
 #### Opening and creating folders and files
@@ -71,7 +71,7 @@ You can also use the keyboard shortcut ⌘K ⌘T to display the picker.
 Use the cursor keys to preview the colors of the theme.
 Select the theme you want and press Enter.
 
-You can find the perfect theme for you on the [VSCode martket place](https://marketplace.visualstudio.com/search?target=VSCode&category=Themes&sortBy=Installs)!
+You can find the perfect theme for you on the [VSCode marketplace](https://marketplace.visualstudio.com/search?target=VSCode&category=Themes&sortBy=Installs)!
 
 Some of my favourites are:
 
@@ -86,6 +86,6 @@ Some of my favourites are:
 - [VSCode intro videos](https://code.visualstudio.com/docs/getstarted/introvideos)
 
 <div style="width: 100%">
-<a href='Meet_the_tutors.md' ><-- Previous Section: Meet the Tutors</a>
-<div align="right"><a  href='intro_to_github.md'>Next Section: Introduction to Git & GitHub --></a></div>
+<a href='Meet_the_tutors.md' ><-- Previous section: Meet the Tutors</a>
+<div align="right"><a  href='intro_to_github.md'>Next section: Introduction to Git & GitHub --></a></div>
 </div>

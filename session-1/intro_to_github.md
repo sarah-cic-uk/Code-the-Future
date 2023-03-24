@@ -78,7 +78,7 @@ Currently, GitHub Desktop doesn't support any GNU/Linux distribution, so you'll 
 
 The goal of this tutorial is to teach you:
 
-- How to make your first repository (sometimes refered to as a repo)
+- How to make your first repository (sometimes referred to as a repo)
 - Clone it to your local computer
 - Make a change,
 - Push it back up to GitHub.
@@ -129,7 +129,7 @@ You've now created a repository, cloned it down, made a change, committed that c
 
 <dl>
   <dt> Repository</dt>
-  <dd>A file holding all of your code. Everyone can have a local copy on their own systems, with one stored safely on GitHub, that only you and anyone you choose can change.</dd>
+  <dd>A repository contains all of your project’s files and each file’s revision history. Everyone can have a local copy on their own systems, with one stored safely on GitHub, that only you and anyone you choose can change.</dd>
 
   <dt>Clone</dt>
   <dd>Means copying a repository to your local system to let you change without making changes to the safe repository on GitHub.</dd>
@@ -153,15 +153,15 @@ You've now created a repository, cloned it down, made a change, committed that c
 
 ![Git Branches](git-branches.png)
 
-  <dt>RollBack</dt>
-  <dd>Made a mistake and accidentally pushed it to GitHub? No problem, you can simply rollback your code to a state where</dd>
+  <dt>Rollback</dt>
+  <dd>Made a mistake and accidentally pushed it to GitHub? No problem, Git lets you rollback to the previous commit where everything was working properly so that those instances of the code can be deployed for the website and you (or your peers) don't face any problems. And during that time, you can fix the issue, and when it works properly, you can again deploy the new feature.</dd>
 </dl>
 
 ---
 
-[Click Here for a Git cheatsheet](https://education.github.com/git-cheat-sheet-education.pdf)
+[Git cheatsheet](https://education.github.com/git-cheat-sheet-education.pdf)
 
 <div style="width: 100%">
-<a href='intro_to_ide.md'><-- Previous Section: The Developer Environment</a>
-<div align="right"><a  href='../session-2/README.md'>Next Section: Session 2 Introduction --></a></div>
+<a href='intro_to_ide.md'><-- Previous section: The Developer Environment</a>
+<div align="right"><a  href='../session-2/README.md'>Next section: Session 2 Introduction --></a></div>
 </div>

@@ -25,6 +25,6 @@ a full application. We will also share the basics of making your app accessible 
 - To create multiple pages to make a application.
 
 <div style="width: 100%">
-<a href='../session-2/create_webpage.md'><-- Previous Section: Create your first webpage</a>
-<div align="right"><a href='html_images_tables.md'>Next Section: HTML Images and Tables --></a></div>
+<a href='../session-2/create_webpage.md'><-- Previous section: Create your first webpage</a>
+<div align="right"><a href='html_images_tables.md'>Next section: HTML Images and Tables --></a></div>
 </div>

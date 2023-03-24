@@ -58,7 +58,7 @@ I joined IBM CIC as an Associate Technology Specialist in August 2022. Before th
 
 ### Sam
 
-I joined IBM in February 2021 as an Associate Developer. Before joining IBM I studied artificial intelligence, with a focus on autonomous robotics, wanting to create robots that could help people and make their lives easier. I really enjoy the work I do here, creatively problem solving on tools that will make peoples lives easier. I'm currently training in new tools to move my career towards artificical intelligence research, as that's where I believe I can best help.
+I joined IBM in February 2021 as an Associate Developer. Before joining IBM I studied artificial intelligence, with a focus on autonomous robotics, wanting to create robots that could help people and make their lives easier. I really enjoy the work I do here, creatively problem solving on tools that will make peoples lives easier. I'm currently training in new tools to move my career towards artificial intelligence research, as that's where I believe I can best help.
 
 ### Aum
 
@@ -86,11 +86,11 @@ Hi! I joined IBM as an associate full stack developer 2 months ago. Having gradu
 
 ### Jacob
 
-I joined IBM CIC as a Java Developer in September 2021, bust quickly tranisitnoed into FrontendDevleopement and Javascript. Before IBM I worked as an IT Consulant where I was also contract out to IBM as a Java Deleoper for 2 years, but made myself known and was hired by IBM CIC after my contract ended. I graduated from University studying Computer Science for Games, where i learnt a lot more about the gameing industry, but turned more to software as to not sour the tasteing of gaming. I'm fairly new to tutoring so will have to help me learn as well but always enjoyed helping an teaching others.
+I joined IBM CIC as a Java Developer in September 2021, bust quickly transitioned into Front-end development and Javascript. Before IBM I worked as an IT Consultant where I was also contract out to IBM as a Java developer for 2 years, but made myself known and was hired by IBM CIC after my contract ended. I graduated from University studying Computer Science for Games, where i learnt a lot more about the gaming industry, but turned more to software as to not sour the tasting of gaming. I'm fairly new to tutoring so will have to help me learn as well but always enjoyed helping an teaching others.
 
 ### Jacqueline
 
-After leaving school/college I spent a long time in the hairdressing industry, one day I began learning code in my own spare time, very much like this which kickstarted me onto a new career path. I had already had over 10 years experience in UX/UI design and development before I was approached by someone from the CIC who saw my online portfolio and suggested that I attend a CIC assessment centre, that was over 5 and a half years ago now. Since, I have been with the CIC I've pushed myself out of my comfort zone learning new tech, languages and methodologies however being surrounded by such a high calibre of talented peers and the support of the CIC meant those achievements were within reach.
+After leaving school/college I spent a long time in the hairdressing industry, one day I began learning code in my own spare time, very much like this which kick-started me onto a new career path. I had already had over 10 years experience in UX/UI design and development before I was approached by someone from the CIC who saw my online portfolio and suggested that I attend a CIC assessment centre, that was over 5 and a half years ago now. Since, I have been with the CIC I've pushed myself out of my comfort zone learning new tech, languages and methodologies however being surrounded by such a high calibre of talented peers and the support of the CIC meant those achievements were within reach.
 
 ### Cameron
 
@@ -106,7 +106,7 @@ Joined IBM as an Associate Technical Specialist last October . Passionate about 
 
 ### Henry
 
-I joined IBM as an Associate Developer in February 2021. Before IBM, I studied Economics at the University of Exeter with the aim of working in ethical finance. I took a job at Monzo Bank but quickly realised that I wanted to be a developer, designing the amazing tools I was using to help millions of people. So I enrolled on an MSc conversion course in Computer Science at Birkbeck University and applied for a role here at IBM. I'm already loving the job which, most importantly, gives me almost unlimited scope for creativity and many oportunities to contribute to the causes I care about.
+I joined IBM as an Associate Developer in February 2021. Before IBM, I studied Economics at the University of Exeter with the aim of working in ethical finance. I took a job at Monzo Bank but quickly realised that I wanted to be a developer, designing the amazing tools I was using to help millions of people. So I enrolled on an MSc conversion course in Computer Science at Birkbeck University and applied for a role here at IBM. I'm already loving the job which, most importantly, gives me almost unlimited scope for creativity and many opportunities to contribute to the causes I care about.
 
 ### Georgia
 
@@ -117,6 +117,6 @@ as a full stack Developer and Scrum Master. I enjoy the variation of tasks I get
 to keep learning during my role and how no two weeks are the same!
 
 <div style="width: 100%">
-<a href='README.md' ><-- Previous Section: Session 1 Introduction</a>
-<div align="right"><a  href='intro_to_ide.md'>Next Section: Developer Environments & IDEs --></a></div>
+<a href='README.md' ><-- Previous section: Session 1 Introduction</a>
+<div align="right"><a  href='intro_to_ide.md'>Next section: Developer Environments & IDEs --></a></div>
 </div>
