@@ -35,7 +35,7 @@ To do this we can use the video tag with certain attributes:
 ```
 
 **Avoid overuse of web fonts!**\
-Web fonts from somewhere like Google Fonts (https://fonts.google.com/) allow you to embed fonts in the browser that arent natively supported. These fonts need to be downloaded by the user to allow them to view the page. Built in CSS fonts don't need to be downloaded and so have no carbon cost.
+Web fonts from somewhere like Google Fonts (https://fonts.google.com/) allow you to embed fonts in the browser that aren't natively supported. These fonts need to be downloaded by the user to allow them to view the page. Built in CSS fonts don't need to be downloaded and so have no carbon cost.
 
 ## Useful info
 
@@ -43,6 +43,6 @@ https://shouldiuseacarousel.com/ \
 https://principles.green/
 
 <div style="width: 100%">
-<a href='README.md'><-- Previous Section:  Session 6 Introduction</a>
-<div align="right"><a href='hosting_on_git.md'>Next Section: Hosting on Git--></a></div>
+<a href='README.md'><-- Previous section:  Session 6 Introduction</a>
+<div align="right"><a href='hosting_on_git.md'>Next section: Hosting on Git--></a></div>
 </div>

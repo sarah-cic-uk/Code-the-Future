@@ -4,7 +4,7 @@
 
 ## What is HTML
 
-HTML (Hypertext Markup Language) is the code that is used to structure a web page and its content.
+HTML (Hypertext Markup Language) is the code that is used to structure a web page and how its content is displayed online and is known as the backbone of the internet.
 
 HTML consists of a series of elements, which you use to enclose, or wrap, different parts of the content to make it appear a certain way, or act a certain way.
 
@@ -22,11 +22,11 @@ HTML consists of a series of elements, which you use to enclose, or wrap, differ
 
 `<!DOCTYPE html>`
 
-- This the doctype, this is required at the top of the document and it makes sure your document behaves correctly
+- This the HTML5 doctype, it is required at the top of every HTML document and it makes sure your document behaves correctly.
 
 `<html></html>`
 
-- The html element, also know as the root element, wraps all the content that is in the page
+- The html element, also know as the root element, wraps all the content that is in the page.
 
 `<head></head>`
 
@@ -34,11 +34,11 @@ HTML consists of a series of elements, which you use to enclose, or wrap, differ
 
 `<meta charset="utf-8">`
 
-- This element sets the character set your document should use, here we set the charset="uft-8" which includes most characters from the vast majority of written languages
+- This element sets the character set your document should use, here we set the charset="uft-8" which includes most characters from the vast majority of written languages.
 
 `<title></title>`
 
-- The title element. This sets the title of your page, which is the title that appears in the browser tab the page is loaded in
+- The title element. This sets the title of your page, which is the title that appears in the browser tab the page is loaded in.
 
 `<body></body>`
 
@@ -107,6 +107,6 @@ The most common list types are ordered and unordered lists:
 - [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/HTML/Element)
 
 <div style="width: 100%">
-<a href='README.md'><-- Previous Section: Session 2 Introduction</a>
-<div align="right"><a  href='dev_tools.md'>Next Section: Chrome Dev Tools --></a></div>
+<a href='README.md'><-- Previous section: Session 2 Introduction</a>
+<div align="right"><a  href='dev_tools.md'>Next section: Chrome Dev Tools --></a></div>
 </div>

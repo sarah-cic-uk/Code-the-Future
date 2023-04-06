@@ -15,7 +15,7 @@
 
 ![repository](../images/Repository.png)
 
-3. Enter the repository name, discription (it is optional), click create repository button.
+3. Enter the repository name, description (it is optional), click create repository button.
 
 ![createrepository](../images/createRepository.png)
 
@@ -87,5 +87,5 @@ It can take as long as 48 hours for your domain to resolve to your GitHub page. 
 [2]: http://windows.github.com/
 
 <div style="width: 100%">
-<a href='README.md'><-- Previous Section:  Session 6 Introduction</a>
+<a href='README.md'><-- Previous section:  Session 6 Introduction</a>
 </div>

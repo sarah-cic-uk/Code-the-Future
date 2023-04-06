@@ -4,8 +4,8 @@
 
 It can be hard to know where to start with a project, so here's some tips to help you plan:
 
-- Plan out what pages you want
-- Plan out the content/images you want on the pages
+- Plan out what pages you want.
+- Plan out the content/images you want on the pages.
 - Are there any features you know you want, like a gallery or social media buttons?
   - Is there any learning/research you need to do to be able to do this?
 
@@ -29,7 +29,7 @@ The meta data is information about your site that you want search engines like G
 
 Using HTML, you can give Google a description of your site (which they may or may not use in the search entry for your site, but will certainly use when categorizing it) as well as some keywords relevant to your site.
 
-The code for adding meta data is simple, you put the follwing in the `<head></head>` of your page:
+The code for adding meta data is simple, you put the following in the `<head></head>` of your page:
 
 ```
 <meta name="description" content="Used auto parts for sale">
@@ -47,6 +47,6 @@ The code for adding meta data is simple, you put the follwing in the `<head></he
 - [Social Media Buttons](https://www.w3schools.com/howto/howto_css_social_media_buttons.asp)
 
 <div style="width: 100%">
-<a href='../session-5/accessibility_tools_tips.md'><-- Previous Section: Accessibility Tools</a>
-<div align="right"><a href='../session-6/README.md'>Next Section: Session 6 Introduction --></a></div>
+<a href='../session-5/accessibility_tools_tips.md'><-- Previous section: Accessibility Tools</a>
+<div align="right"><a href='../session-6/README.md'>Next section: Session 6 Introduction --></a></div>
 </div>

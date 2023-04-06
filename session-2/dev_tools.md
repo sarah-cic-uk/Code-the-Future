@@ -54,6 +54,6 @@ There will likely some elements you're not familiar with yet but don't worry! Ta
 - [Dev tools docs - Editing HTML](https://developer.chrome.com/docs/devtools/dom/)
 
 <div style="width: 100%">
-<a href='html_basics.md'><-- Previous Section: HTML Basics</a>
-<div align="right"><a href='create_webpage.md'>Next Section: Create your first webpage --></a></div>
+<a href='html_basics.md'><-- Previous section: HTML Basics</a>
+<div align="right"><a href='create_webpage.md'>Next section: Create your first webpage --></a></div>
 </div>

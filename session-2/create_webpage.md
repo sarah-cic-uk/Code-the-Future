@@ -24,13 +24,13 @@ Now we are going to focus on the tags themselves and how they can ben used to bu
 
 ### Adding content
 
-- Open up the file and simply type `My first website, my name is [name] and I am a [cat or dog person]`
+- Open up the file and simply type `My first website, my name is [name] and I am a [cat or dog person].`
 
 ## How to view your changes.
 
 Visual Code offers a really useful extension which will allow you to see you app and it will even update as you make changes and save them.
 
-![Open the exentsion panel in VSCode](../images/extensions_1.png)
+![Open the extension panel in VSCode](../images/extensions_1.png)
 
 - In the search bar type `live server` and click on the top option which is published by Ritwick Dey.
 
@@ -46,7 +46,7 @@ Visual Code offers a really useful extension which will allow you to see you app
 
 ### Adding the basic structure
 
-We will start off with adding the code you saw in the previous section on line two which is a good place to start with any index.html file!
+We will start off with adding the code you saw in the Previous section on line two which is a good place to start with any index.html file!
 
     <!DOCTYPE html>
     <html>
@@ -58,13 +58,11 @@ We will start off with adding the code you saw in the previous section on line t
         </body>
     </html>
 
-Just to quickly recap, `<!DOCTYPE html>` is not strictly a HTML tag but "informs" the browser of the type of language to expect.
-
-Here we are telling the browser to expect HTML 5.
+Just to quickly recap, `<!DOCTYPE html>` is the HTML declaration and not strictly a HTML tag but "informs" the browser of the type of language to expect. Here we are telling the browser to expect HTML 5.
 
 Next have the `<html>` which tells the browser where the code itself is.
 
-and finally we have the `<head>` and `<body>` tags. The head tag includes all of the additional information about the webpage and the body includes all of the content which will be displayed on the screen.
+And finally we have the `<head>` and `<body>` tags. The head tag includes all of the additional information about the webpage and the body includes all of the content which will be displayed on the screen.
 
 ## Step Four
 
@@ -99,6 +97,6 @@ If you get stuck or would like some inspiration on what to add to you page, you 
 - [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/HTML/Element)
 
 <div style="width: 100%">
-<a href='dev_tools.md'><-- Previous Section: Chrome Dev Tools</a>
-<div align="right"><a href='../session-3/README.md'>Next Section: Session 3 Introduction --></a></div>
+<a href='dev_tools.md'><-- Previous section: Chrome Dev Tools</a>
+<div align="right"><a href='../session-3/README.md'>Next section: Session 3 Introduction --></a></div>
 </div>
