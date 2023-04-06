@@ -4,7 +4,7 @@
 
 ## Accessibility
 
-In this section we are going to talk about why you need to strive to make accessible applications, how to make your applications more accessibile and explain some good practices you can follow.
+In this section we are going to talk about why you need to strive to make accessible applications, how to make your applications more accessible and explain some good practices you can follow.
 
 So what do we mean when we say 'accessible'? It means making your web or mobile applications in such a way so that it can be used by as many people as possible.
 
@@ -27,7 +27,7 @@ Making your website more accessible not only benefits those who need the additio
 
 - Text-to-speech: Reads out textual information from a page to the user
 - Voice Command: Lets the user control the application using their voice
-- Colour Contrasting: Reads out textual information from a page to the user
+- High Contrast: Themes present in a users operating system can change or invert the web page background and text colours.
 
 ## Providing equivalent alternative text
 
@@ -37,15 +37,15 @@ You can do this by adding alt tags to your images like we showed before!
 
 ## Have semantic HTML
 
-Structuring your web application in using semantic tags is one of the most important steps in creating an accessible application because they clearly describes elements meaning to both the browser and any assitive technologies being used.
+Structuring your web application in using semantic tags is one of the most important steps in creating an accessible application because they clearly describes elements meaning to both the browser and any assistive technologies being used.
 
 Examples of non-semantic elements: `<div> and <span>` - They tell us nothing about its content.
 
 Examples of semantic elements: `<form>, <table>, and <article>` - These clearly define its content.
 
-Another important part of a logical and semantic document structure is making sure your heading are in the correct order! Only have 1 `<h1></h1>` per page so assistive technolgies know this is the main page title and try not to skip heading levels because these are very helpful when navigating in a non-visual way.
+Another important part of a logical and semantic document structure is making sure your heading are in the correct order! Only have 1 `<h1></h1>` per page so assistive technologies know this is the main page title and try not to skip heading levels because these are very helpful when navigating in a non-visual way.
 
-Have a look at all the [semantic elements avaliable](https://www.w3schools.com/html/html5_semantic_elements.asp).
+Have a look at all the [semantic elements available](https://www.w3schools.com/html/html5_semantic_elements.asp).
 
 See [this page on HTML Semantics](http://web-accessibility.carnegiemuseums.org/foundations/semantic/) for more information.
 
@@ -53,7 +53,7 @@ See [this page on HTML Semantics](http://web-accessibility.carnegiemuseums.org/f
 
 To ensure applications are accessible we need to provide semantic information about components, structures, and expected behaviors, so that assistive technologies can provide relevant information to their users, where this isn't already provided by semantic mark up.
 
-The Accesible Rich Internet Application (ARIA) specification provides a series of roles and properties that can help with this. It helps defines accessible user interface elements which allow you to describe behaviors and structural information to assistive technologies in document-level markup.
+The Accessible Rich Internet Application (ARIA) specification provides a series of roles and properties that can help with this. It helps defines accessible user interface elements which allow you to describe behaviors and structural information to assistive technologies in document-level markup.
 
 ### Aria Roles
 
@@ -67,9 +67,9 @@ There a variety of [aria roles](https://developer.mozilla.org/en-US/docs/Web/Acc
 
 - **Tab, tablist and tabpanel**: used when creating interactive tab groups.
 
-- **Tooltip**: A contextual text bubble that displays a description for an element that appears on pointer hover or keyboard focus
+- **Tooltip**: A contextual text bubble that displays a description for an element that appears on pointer hover or keyboard focus.
 
-Example of setting a role, we have an input here that we want to add a tooltip to, we can set the role of a div to tooltip so assistive technologies know that is the usage of this element and give it an id so they know that this is what to use to describe the input
+Example of setting a role, we have an input here that we want to add a tooltip to, we can set the role of a div to tooltip so assistive technologies know that is the usage of this element and give it an id so they know that this is what to use to describe the input.
 
 ```
 <label for="password">Password:</label>
@@ -79,8 +79,8 @@ Example of setting a role, we have an input here that we want to add a tooltip t
       Password Rules:
   </p>
   <ul>
-    <li> Minimum of 8 characters</li>
-    <li> Include at least one lowercase letter, one uppercase letter, one number and one special character</li>
+    <li>Minimum of 8 characters</li>
+    <li>Include at least one lowercase letter, one uppercase letter, one number and one special character</li>
     <li>Unique to this website</li>
   </ul>
 </div>
@@ -105,26 +105,38 @@ Check out [Google's info on Aria Labelling](https://developers.google.com/web/fu
 
 ## Best practice tips to remember!
 
-- Use Semantic HTML5 in Favour of ARIA
-- Use ARIA when HTML elements aren't avaliable
-- Add alt tags to all of your images
+- Use Semantic HTML5 in Favour of ARIA.
+- Use ARIA when HTML elements aren't available.
+- Add alt tags to all of your images.
 - Interactive elements must be accessible by all mediums, including mouse, keyboard, screenreaders and more!
 - Over-using aria can be bad too!
 - Always remember to update your labels when you change your UI!
+
+To recap on all of the above valuable tips read an article on [Bad vs. Good Accessible Designs](https://usabilitygeek.com/bad-vs-good-accessible-designs/) to reinforce whats been discussed.
 
 <br>
 
 ## Activity
 
-1. Download the Chrome Accessibility Plugins
+Whether you work at IBM or not, we all have to consider the accessibility guidelines and consider the parts we can play to make accessibility achievable as a _team_.
+
+[IBM Accessibility](https://www.ibm.com/able/) provides well written documentation for all to use. It also comes with an Equal Access Toolkit to help you plan, design, develop and verify your websites whilst maintaining the requirements you need to achieve an accessible website.
+
+_IBM Equal Access Accessibility Checker_ is FREE to use; add the extension to your browser and use it as you're developing your website.
+<br><br>
+
+1. View the video to understand how to use the IBM Equal Access Accessibility Checker Plugin
+
+- [Develop video](https://www.ibm.com/able/toolkit/tools)
+
+<br>
+
+2. Download and try the Accessibility Plugins
+
+- IBM Equal Access Accessibility Checker: [Chrome extension](https://chrome.google.com/webstore/detail/ibm-equal-access-accessib/lkcagbfjnkomcinoddgooolagloogehp) OR [Firefox extension](https://addons.mozilla.org/en-US/firefox/addon/accessibility-checker/)
 
 - [Screen Reader](https://chrome.google.com/webstore/detail/screen-reader/kgejglhpjiefppelpmljglcjbhoiplfn)
-
-- [Aria DevTools Chrome Plugin](https://chrome.google.com/webstore/detail/aria-devtools/dneemiigcbbgbdjlcdjjnianlikimpck?hl=en/)
-
-- [axe DevTools - Web Accessibility Testing](https://chrome.google.com/webstore/detail/axe-devtools-web-accessib/lhdoppojpmngadmnindnejefpokejbdd)
-
-  You will have to enable these Plugins from the Extension menu if disabled. You can do this if you go to chrome://extensions/ and hit the toggle icon so that all the necessary plugins are blue.
+- [Colour Contrast checker](https://webaim.org/resources/contrastchecker/)
 
   There is also:
 
@@ -132,7 +144,7 @@ Check out [Google's info on Aria Labelling](https://developers.google.com/web/fu
 
 <br>
 
-2. Open up different webpages and explore with the Dev Tools
+3. Open up different webpages and explore with the Dev Tools
 
    The best way to understand how the tools work is to open up a few websites and try interacting with the pages.
 
@@ -148,20 +160,23 @@ Check out [Google's info on Aria Labelling](https://developers.google.com/web/fu
 
 <br>
 
-3. Add more content to your webpage
+4. Add more content to your webpage
 
    In this section you can play around with different elements and see how to make them more accessibility friendly. Some examples of what you can:
 
-   - Add a list of URLS to your webpage, maybe you could use a few semantic elements here like `<nav></nav> and <ul></ul>`
+   - Add a list of URLs to your webpage, maybe you could use a few semantic elements here like `<nav></nav> and <ul></ul>`
    - Divide your content into multiple sections, using appropriate semantic tags like `<header></header>, <section></section> and more`
    - See if you can find out how to mark up a photo using `<figure></figure> and <figcaption></figcaption>`
 
 <br>
 
-4. Check your site using the accessibility tools
+5. Check your site using the accessibility tools
    - Go through the rest of your website using the accessibility tools and see where there are any accessibility issues. Using the resources already shared attempt to fix those issues.
+     <br><br>
 
 ## Resources
+
+- [The A11y Project](https://www.a11yproject.com/) is a community-driven effort to make digital accessibility easier.
 
 - [Public Sector Accessibility Requirements](https://www.gov.uk/guidance/accessibility-requirements-for-public-sector-websites-and-apps)
 
@@ -170,8 +185,9 @@ Check out [Google's info on Aria Labelling](https://developers.google.com/web/fu
 - [Aria Roles, States and Properties](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/ARIA_Techniques#landmark_roles)
 
 - [W3 Schools Accessibility Documentation](https://www.w3schools.com/html/html_accessibility.asp)
+  <br><br>
 
 <div style="width: 100%">
-<a href='../session-5/README.md'><-- Previous Section:  Session 5 Introduction</a>
-<div align="right"><a href='accessibility_tools_tips.md'>Next Section: Accessibility Tools --></a></div>
+<a href='../session-5/README.md'><-- Previous section:  Session 5 Introduction</a>
+<div align="right"><a href='accessibility_tools_tips.md'>Next section: Accessibility Tools --></a></div>
 </div>

@@ -18,7 +18,7 @@
 
 To open Terminal on Mac you can use the CMD+SPACE shortcut and type terminal in the search box.
 
-Terminals can have different themes, the default being white with black text. Screenshots here are my own custom theme so dont worry if your terminal looks different!
+Terminals can have different themes, the default being white with black text. Screenshots here are my own custom theme so don't worry if your terminal looks different!
 
 Terminal:
 
@@ -45,7 +45,7 @@ Git Bash can be downloaded from https://git-scm.com/. There is a page with more 
 **git clone** - this allows you to close a url from GitHub
 **git add** - this adds your local files to the git staging area. `git add .` and `git add -A` are two different ways to add all files. `git add filename` will add a specific file (you may sometimes needs the full path e.g. `/codeTheFuture/filename`)\
 **git commit -m "message"** - this command commits the changes with a useful message. make the message as useful as you can in case you need to refer back to what was in the commit at a later date!\
-**git push** - this will push all the commited changes up to the repo. They will then be available for others to pull down and see.\
+**git push** - this will push all the committed changes up to the repo. They will then be available for others to pull down and see.\
 **git pull** - pulls down the latest code from the repo.\
 
 ---
@@ -97,6 +97,6 @@ Have a play with Git GUI!
 ![Git Gui](../images/session1/gitgui.png)
 
 <div style="width: 100%">
-<a href='intro_to_github.md'><-- Previous Section: Git & GitHub Install & Tutorial</a>
-<div align="right"><a  href='../session-2/README.md'>Next Section: Session 2 Introduction --></a></div>
+<a href='intro_to_github.md'><-- Previous section: Git & GitHub Install & Tutorial</a>
+<div align="right"><a  href='../session-2/README.md'>Next section: Session 2 Introduction --></a></div>
 </div>

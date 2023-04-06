@@ -111,6 +111,6 @@ In your `index.html` file, add the following to your webpage:
 - [W3 Schools - Tables](https://www.w3schools.com/html/html_tables.asp)
 
 <div style="width: 100%">
-<a href='README.md'><-- Previous Section: Session 3 Introduction</a>
-<div align="right"><a href='html_forms.md'>Next Section: HTML Forms --></a></div>
+<a href='README.md'><-- Previous section: Session 3 Introduction</a>
+<div align="right"><a href='html_forms.md'>Next section: HTML Forms --></a></div>
 </div>

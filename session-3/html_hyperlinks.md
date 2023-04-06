@@ -44,9 +44,9 @@ So far, we have built a basic single page HTML website with an `index.html` file
 
 ### Example
 
-Here, we have an example of a stucture, where we have a "Home", an "About me" and a "Contact" page:
+Here, we have an example of a structure, where we have a "Home", an "About me" and a "Contact" page:
 
-<img src="../images/html-pages.png" alt="HTML website stucture">
+<img src="../images/html-pages.png" alt="HTML website structure">
 
 HTML pages that branch off from the `index.html` page still follows the same structure that we have learnt in this course. Since the `index.html` page is our homepage, we want to be able to navigate to these additional pages that we add. As we have just learnt, these can be done through hyperlinks:
 
@@ -65,7 +65,7 @@ In this activity, you are going to grow your website from a single page to multi
 
 ## Example finished activity
 
-You can browse the files that have been udpated in this folder and try to follow the folder structure going forward.<br>
+You can browse the files that have been updated in this folder and try to follow the folder structure going forward.<br>
 <a href='./example-finished-activities-session3'>Finished Examples</a>
 
 If you get stuck or would like some inspiration on what to add to you page, you can check out the example finished activity for the updated code [index file](example-finished-activities-session3/index.html) and the newly created [success form page](example-finished-activities-session3/html/formSuccess.html) for the hyperlink section.
@@ -75,6 +75,6 @@ If you get stuck or would like some inspiration on what to add to you page, you 
 - [MDN Web Docs - HTML Links](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/a)
 
 <div style="width: 100%">
-<a href='html_forms.md'><-- Previous Section: HTML Forms</a>
-<div align="right"><a href='../session-4/README.md'>Next Section: Session 4 Introduction --></a></div>
+<a href='html_forms.md'><-- Previous section: HTML Forms</a>
+<div align="right"><a href='../session-4/README.md'>Next section: Session 4 Introduction --></a></div>
 </div>

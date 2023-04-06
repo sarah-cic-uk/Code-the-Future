@@ -13,8 +13,8 @@ In this exercise, you will add styling to your `index.html` page that you've cre
 
    ```css
    .greentext {
-     font-family: Arial, Helvetica, sans-serif;
-     color: green;
+   	font-family: Arial, Helvetica, sans-serif;
+   	color: green;
    }
    ```
 
@@ -51,23 +51,23 @@ For this activity, we are going to create this on a webpage to understand how to
    ```html
    <!DOCTYPE html>
    <html>
-     <head>
-       <title>Flexbox Example</title>
-       <link rel="stylesheet" href="layout_stylesheet.css" />
-     </head>
-     <body id="flexbox-demo-bg">
-       <h1>Flexbox Example</h1>
-       <div class="flex-container">
-         <div class="flex-item">F</div>
-         <div class="flex-item">L</div>
-         <div class="flex-item">E</div>
-         <div class="flex-item">X</div>
-         <div class="flex-item">B</div>
-         <div class="flex-item">O</div>
-         <div class="flex-item">X</div>
-       </div>
-       <p>I just created my first flexbox.</p>
-     </body>
+   	<head>
+   		<title>Flexbox Example</title>
+   		<link rel="stylesheet" href="layout_stylesheet.css" />
+   	</head>
+   	<body id="flexbox-demo-bg">
+   		<h1>Flexbox Example</h1>
+   		<div class="flex-container">
+   			<div class="flex-item">F</div>
+   			<div class="flex-item">L</div>
+   			<div class="flex-item">E</div>
+   			<div class="flex-item">X</div>
+   			<div class="flex-item">B</div>
+   			<div class="flex-item">O</div>
+   			<div class="flex-item">X</div>
+   		</div>
+   		<p>I just created my first flexbox.</p>
+   	</body>
    </html>
    ```
 
@@ -77,33 +77,33 @@ For this activity, we are going to create this on a webpage to understand how to
 
    ```css
    * {
-     font-family: Arial, Helvetica, sans-serif;
+   	font-family: Arial, Helvetica, sans-serif;
    }
 
    body {
-     background-color: white;
-     color: black;
+   	background-color: white;
+   	color: black;
    }
 
    /* Styling Flexbox */
    #flexbox-demo-bg {
-     background-color: purple;
-     color: white;
+   	background-color: purple;
+   	color: white;
    }
 
    .flex-container {
-     display: flex;
-     flex-wrap: nowrap;
-     background-color: pink;
+   	display: flex;
+   	flex-wrap: nowrap;
+   	background-color: pink;
    }
 
    .flex-item {
-     background-color: blue;
-     width: 100px;
-     margin: 10px;
-     text-align: center;
-     line-height: 75px;
-     font-size: 30px;
+   	background-color: blue;
+   	width: 100px;
+   	margin: 10px;
+   	text-align: center;
+   	line-height: 75px;
+   	font-size: 30px;
    }
    ```
 
@@ -120,25 +120,25 @@ For this activity, we are going to create this on a webpage to understand how to
    ```html
    <!DOCTYPE html>
    <html>
-     <head>
-       <title>Grid Example</title>
-       <link rel="stylesheet" href="layout_stylesheet.css" />
-     </head>
-     <body>
-       <h1>Grid Example</h1>
-       <p>I just created my very first CSS Grid.</p>
-       <div class="grid-container">
-         <div class="grid-item">1</div>
-         <div class="grid-item">2</div>
-         <div class="grid-item">3</div>
-         <div class="grid-item">4</div>
-         <div class="grid-item">5</div>
-         <div class="grid-item">6</div>
-         <div class="grid-item">7</div>
-         <div class="grid-item">8</div>
-         <div class="grid-item">9</div>
-       </div>
-     </body>
+   	<head>
+   		<title>Grid Example</title>
+   		<link rel="stylesheet" href="layout_stylesheet.css" />
+   	</head>
+   	<body>
+   		<h1>Grid Example</h1>
+   		<p>I just created my very first CSS Grid.</p>
+   		<div class="grid-container">
+   			<div class="grid-item">1</div>
+   			<div class="grid-item">2</div>
+   			<div class="grid-item">3</div>
+   			<div class="grid-item">4</div>
+   			<div class="grid-item">5</div>
+   			<div class="grid-item">6</div>
+   			<div class="grid-item">7</div>
+   			<div class="grid-item">8</div>
+   			<div class="grid-item">9</div>
+   		</div>
+   	</body>
    </html>
    ```
 
@@ -149,20 +149,20 @@ For this activity, we are going to create this on a webpage to understand how to
    ```css
    /* Styling Grid */
    .grid-container {
-     display: grid;
-     grid-template-rows: 100px 100px 100px;
-     grid-template-columns: 100px 100px 100px;
-     row-gap: 10px;
-     column-gap: 20px;
+   	display: grid;
+   	grid-template-rows: 100px 100px 100px;
+   	grid-template-columns: 100px 100px 100px;
+   	row-gap: 10px;
+   	column-gap: 20px;
    }
    .grid-item {
-     background-color: blue;
-     color: white;
-     border: 3px solid purple;
-     width: 100px;
-     text-align: center;
-     line-height: 100px;
-     font-size: 30px;
+   	background-color: blue;
+   	color: white;
+   	border: 3px solid purple;
+   	width: 100px;
+   	text-align: center;
+   	line-height: 100px;
+   	font-size: 30px;
    }
    ```
 
@@ -179,6 +179,6 @@ _BONUS: Use one of the CSS Frameworks of your choice (can be one of the examples
 _EXTRA ACTIVITY: For testing out oyur knowlwdge on Flexbox and Grid you can visit these sites [Flexbox Froggy](https://flexboxfroggy.com/) and [Grid Garden](https://cssgridgarden.com/)._
 
 <div style="width: 100%">
-<a href='introduction_to_css.md'><-- Previous Section: Advanced CSS</a>
-<div align="right"><a href='../session-5/README.md'>Next Section: Session 5 Accessibility and Personal Project Planning --></a></div>
+<a href='introduction_to_css.md'><-- Previous section: Advanced CSS</a>
+<div align="right"><a href='../session-5/README.md'>Next section: Session 5 Accessibility and Personal Project Planning --></a></div>
 </div>

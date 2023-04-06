@@ -226,7 +226,7 @@ In the above code example the `<label>` tag defines a label for form elements. T
 
 ## Activity
 
-1. Create a user registartion form. The registration form should:
+1. Create a user registration form. The registration form should:
 
    - open up the "./formSuccess.html" page on submission
    - contain four text fields - User Name, Email, Password and Confirm password (note type="password" for fields you want to mask)
@@ -257,6 +257,6 @@ In the above code example the `<label>` tag defines a label for form elements. T
 - [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/form)
 
 <div style="width: 100%">
-<a href='html_images_tables.md'><-- Previous Section: HTML Images and Tables</a>
-<div align="right"><a href='html_hyperlinks.md'>Next Section: HTML Hyperlinks --></a></div>
+<a href='html_images_tables.md'><-- Previous section: HTML Images and Tables</a>
+<div align="right"><a href='html_hyperlinks.md'>Next section: HTML Hyperlinks --></a></div>
 </div>

@@ -41,5 +41,5 @@ To create a developer environment we will need to set up some tools. Before your
 - Install git - [using the download link](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git) or [via the command line](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
 
 <div style="width: 100%">
-<div align="right"><a href='session-1/README.md'>Next Section: Session 1 Introduction --></a></div>
+<div align="right"><a href='session-1/README.md'>Next section: Session 1 Introduction --></a></div>
 </div>
