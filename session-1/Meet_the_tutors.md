@@ -14,13 +14,15 @@
 [Davina Opong - Managing Project Manager](#Davina)\
 [Lewis Bailey - Associate Application Developer](#Lewis)\
 [Anujan Ganeshalingam - Associate Technology Specialist](#Anujan)\
-[Jacob Boardman - Devloper](#Jacob)\
+[Jacob Boardman - Developer](#Jacob)\
 [Jacqueline Jones - Front-end Developer](#Jacqueline)\
 [Cameron McDonna - Associate Full Stack Software Engineer](#Cameron)\
 [Andy Mair - Associate Developer](#Andy)\
 [Dana Românu - Associate Technology Specialist](#Dana)\
 [Henry Mason - Associate Application Developer](#Henry)\
-[Georgia Ingham - Developer](#Georgia)
+[Georgia Ingham - Developer](#Georgia)\
+[Obelema Wodike - Senior Business Analyst](#Bells)
+
 
 ### Sarah
 
@@ -115,6 +117,10 @@ options and the Computer Science course caught my eye. That was where I created 
 and I was hooked from there. Now I have worked for IBM CIC since 2018 and been given the opportunity to work
 as a full stack Developer and Scrum Master. I enjoy the variation of tasks I get in my role, that I am able
 to keep learning during my role and how no two weeks are the same!
+
+### Bells (Obelema)
+
+I joined IBM in 2022 as an experienced higher (Senior Business Analyst (BA)). Before IBM I have worked as an agile BA, a digital transformation BA, a software developer, freelance graphic designer, Associate Lecturer in computing (Human Computer Interaction) and several other computing area. I am also a trained teacher in information technology and secondary computer science which I took on because of my passion to reach out to more girls to join the computing career and technology industry. Currently at IBM, I work as a Senior Business Analyst/Business Architect and I enjoy what I do in IBM and look forward to tutor in trainings like code the future so I could leverage the platform to tutor more girls in computing, debias them of the myth that this industry are for boys only and encourage them to take on computer science / informaton technology as a career.
 
 <div style="width: 100%">
 <a href='README.md' ><-- Previous section: Session 1 Introduction</a>
