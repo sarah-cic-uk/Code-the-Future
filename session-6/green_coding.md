@@ -44,5 +44,5 @@ https://principles.green/
 
 <div style="width: 100%">
 <a href='README.md'><-- Previous section:  Session 6 Introduction</a>
-<div align="right"><a href='hosting_on_git.md'>Next section: Hosting on Git--></a></div>
+<div align="right"><a href='addtional_help.md'>Next section: Addtional Help--></a></div>
 </div>

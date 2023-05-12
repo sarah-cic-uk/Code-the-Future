@@ -22,7 +22,7 @@ GitHub Pages is a static site hosting service that takes HTML, CSS, and JavaScri
 
 The purpose of GitHub Pages is to provide the GitHub user a way to create personal websites for themselves and websites for their projects / repositories. For each registered GitHub account (representing a user or an organization) you can register one User Page, but an unlimited Project pages.
 
-Github pages can be used to host more complex projects that might use a framework such as React, VueJS or Angualr, but woudl require a but more setup for us to acheive, but would be great to research in your own time if you are interested.
+Github pages can be used to host more complex projects that mightuse a framework such as React, VueJS or Angualr, but woudl require a but more setup for us to acheive, but would be great to research in your own time if you are interested.
 
 ### Setting up your repository
 
@@ -60,13 +60,25 @@ Next on the left hand side you want to cliock on Pages under the Code and automa
 
 Then once located ont hat page you want to keep the source as `Deploy from a branch`, under that we set the branhc settings. Set the left box (The branch box) `as main`, and set the next box a long to `/(root)`, and click on `Save`.
 
-Here is an image below showing the settings set in the pages section. If you have a custom domain sorted already you can use this custom domain name.
+Here is an image below showing the settings set in the pages section. [If you have a custom domain sorted already you can use this custom domain name.](#using-a-custom-domain-name)
 ![repository](../images/session1/pages-settings.png)
 
-After a few minuets your page should now be hosted on Github pages ready for you to share. Once the page is done you you will have section at the top that will appear showing you the name/url of the page and if you want to stop hosting it.
+After a few minuets your page should now be hosted on Github pages ready for you to share. Once the page is done you you will have section at the top that will appear showing you the name of the page and if you want to stop hosting it.
 ![repository](../images/session1/site-url.png)
 
 This will be nice progressing further in the course as when you make changes and push your changes to this repository a build is ran in the background that will we build the site with your updated code.
+
+## Using a custom domain name
+
+You can just leave your website at that address (it'll give you some serious street cred in the developer world), but if you have a custom domain you would like to use, it is very simple to make GitHub redirect your page.
+
+1. Log in to your domain registrar and find where to change your host records. If you don't know, you can usually Google "(domain registrar) change host records", and your registrar will have an explainer telling you how to do it.
+2. Change your domain's A Record to 204.232.175.78. This is GitHub's IP address, which allows GitHub to resolve your URL and serve the correct files.
+3. In your website's directory folder on your computer, create a file called "CNAME". On the first line, type your domain name. Save the file.
+4. In your GitHub application, you should see the file in the left column. Make sure it is checked and enter your commit message. Have it say something like "Adding CNAME file."
+5. Click "Sync branches."
+
+It can take as long as 48 hours for your domain to resolve to your GitHub page. However, it is usually pretty quick, so check back in an hour or so.
 
 ## References
 

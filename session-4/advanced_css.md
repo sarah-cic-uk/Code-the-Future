@@ -11,20 +11,20 @@
     ```css
     /* Makes all unvisited links purple with no text decoration (i.e. not underlined)*/
     a:link {
-    	color: purple;
-    	text-decoration: none;
+      color: purple;
+      text-decoration: none;
     }
 
     /* Makes all visited links gray and with a line through */
     a:visited {
-    	color: gray;
-    	text-decoration: line-through;
+      color: gray;
+      text-decoration: line-through;
     }
 
     /* Makes links purple and bold when hovered over */
     a:hover {
-    	color: purple;
-    	font-weight: bold;
+      color: purple;
+      font-weight: bold;
     }
     ```
 
@@ -34,7 +34,7 @@
     ```css
     /* makes all the text to use Arial or any sans-serif text available and to to be 15px */
     * {
-    	font: 15px Arial, sans-serif;
+      font: 15px Arial, sans-serif;
     }
     ```
 - **Inheritance**
@@ -52,14 +52,14 @@
     ol,
     dl,
     li {
-    	font-family: Arial, Helvetica, sans-serif;
-    	color: green;
+      font-family: Arial, Helvetica, sans-serif;
+      color: green;
     }
 
     /* alternatively, using inheritance, you can simply use: */
     body {
-    	font-family: Arial, Helvetica, sans-serif;
-    	color: green;
+      font-family: Arial, Helvetica, sans-serif;
+      color: green;
     }
     ```
 
@@ -171,9 +171,9 @@ It is also possible to use a different stylesheet for different media. The diffe
 
 ```html
 <link
-	rel="stylesheet"
-	media="mediatype and|not|only (expressions)"
-	href="screen.css"
+  rel="stylesheet"
+  media="mediatype and|not|only (expressions)"
+  href="screen.css"
 />
 ```
 
@@ -187,6 +187,87 @@ CSS Frameworks provide an abstraction for common web designs and makes it easier
   - It comes with pre-defined components - which are built using HTML, SASS, and JavaScript and has a large community support.
   - It provides a very detailed documentation with layouts that are easy to understand.
   - Check out [https://getbootstrap.com/](https://getbootstrap.com/) for more information and also see some live-demos.
+
+  Example Setup for using Bootstrap followed below:
+
+  - Add this script section to your page. It's blank inside as the src of the scripts is being hosted by Bootstrap
+
+  ```html
+  <script
+    src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha3/dist/js/bootstrap.bundle.min.js"
+    integrity="sha384-ENjdO4Dr2bkBIFxQpeoTz1HIcje39Wm4jDKdf19U8gI4ddQ3GYNS7NTKfAdVQSZe"
+    crossorigin="anonymous"
+  ></script>
+  ```
+
+  - In you `<head></head>` section add this part inside. this sets up a link to the styling elements/css files hosted by Bootstrap.
+
+  ```html
+  <link
+    href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha3/dist/css/bootstrap.min.css"
+    rel="stylesheet"
+    integrity="sha384-KK94CHFLLe+nY2dmCWGMq91rCGa5gtU4mk92HdvYe+M/SXH301p5ILy+dN9+nJOZ"
+    crossorigin="anonymous"
+  />
+  ```
+
+  - Next you can add this html inside your `<body></body>` section to try out this little navigation pill bar.
+
+  ```html
+  <ul
+    class="nav nav-pills nav-fill gap-2 p-1 small bg-primary rounded-5 shadow-sm"
+    id="pillNav2"
+    role="tablist"
+    style="
+        --bs-nav-link-color: var(--bs-white);
+        --bs-nav-pills-link-active-color: var(--bs-primary);
+        --bs-nav-pills-link-active-bg: var(--bs-white);
+      "
+  >
+    <li class="nav-item" role="presentation">
+      <button
+        class="nav-link active rounded-5"
+        id="home-tab2"
+        data-bs-toggle="tab"
+        type="button"
+        role="tab"
+        aria-selected="true"
+      >
+        Home
+      </button>
+    </li>
+    <li class="nav-item" role="presentation">
+      <button
+        class="nav-link rounded-5"
+        id="profile-tab2"
+        data-bs-toggle="tab"
+        type="button"
+        role="tab"
+        aria-selected="false"
+      >
+        Profile
+      </button>
+    </li>
+    <li class="nav-item" role="presentation">
+      <button
+        class="nav-link rounded-5"
+        id="contact-tab2"
+        data-bs-toggle="tab"
+        type="button"
+        role="tab"
+        aria-selected="false"
+      >
+        Contact
+      </button>
+    </li>
+  </ul>
+  ```
+
+    <iframe src="https://giphy.com/embed/Ms31ceyYA0l4XqAKeS" width="480" height="28" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/Ms31ceyYA0l4XqAKeS">via GIPHY</a></p>
+
+  - What the above peice of code is doing is mainly setting classes that are being set or edited with CSS that is coming from Bootstrap, similar to how we have shown you to select the classes you added to certain elements.
+
+  - Reference to the page of usable Bootstrap classes - [https://getbootstrap.com/docs/5.3/getting-started/introduction/](https://getbootstrap.com/docs/5.3/getting-started/introduction/)
 
 - **Tailwind CSS**
 
