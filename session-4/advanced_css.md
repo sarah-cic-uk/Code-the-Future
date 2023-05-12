@@ -265,9 +265,9 @@ CSS Frameworks provide an abstraction for common web designs and makes it easier
 
   ![image](../images/session4/Pill-navbar.png)
 
-- What the above peice of code is doing is mainly setting classes that are being set or edited with CSS that is coming from Bootstrap, similar to how we have shown you to select the classes you added to certain elements.
+What the above peice of code is doing is mainly setting classes that are being set or edited with CSS that is coming from Bootstrap, similar to how we have shown you to select the classes you added to certain elements.
 
-- Reference to the page of usable Bootstrap classes - [https://getbootstrap.com/docs/5.3/getting-started/introduction/](https://getbootstrap.com/docs/5.3/getting-started/introduction/)
+Reference to the page of usable Bootstrap classes - [https://getbootstrap.com/docs/5.3/getting-started/introduction/](https://getbootstrap.com/docs/5.3/getting-started/introduction/)
 
 - **Tailwind CSS**
 
