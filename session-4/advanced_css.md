@@ -263,7 +263,7 @@ CSS Frameworks provide an abstraction for common web designs and makes it easier
   </ul>
   ```
 
-    <iframe src="https://giphy.com/embed/Ms31ceyYA0l4XqAKeS" width="480" height="28" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/Ms31ceyYA0l4XqAKeS">via GIPHY</a></p>
+  <iframe src="https://giphy.com/embed/Ms31ceyYA0l4XqAKeS" width="480" height="28" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/Ms31ceyYA0l4XqAKeS">via GIPHY</a></p>
 
   - What the above peice of code is doing is mainly setting classes that are being set or edited with CSS that is coming from Bootstrap, similar to how we have shown you to select the classes you added to certain elements.
 
