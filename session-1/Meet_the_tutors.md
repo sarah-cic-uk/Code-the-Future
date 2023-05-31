@@ -22,7 +22,7 @@
 [Henry Mason - Associate Application Developer](#Henry)\
 [Georgia Ingham - Developer](#Georgia)\
 [Obelema Wodike - Senior Business Analyst](#Bells)
-
+[Michael Weller - Application Developer](#Michael)
 
 ### Sarah
 
@@ -121,6 +121,10 @@ to keep learning during my role and how no two weeks are the same!
 ### Bells (Obelema)
 
 I joined IBM in 2022 as an experienced higher (Senior Business Analyst (BA)). Before IBM I have worked as an agile BA, a digital transformation BA, a software developer, freelance graphic designer, Associate Lecturer in computing (Human Computer Interaction) and several other computing area. I am also a trained teacher in information technology and secondary computer science which I took on because of my passion to reach out to more girls to join the computing career and technology industry. Currently at IBM, I work as a Senior Business Analyst/Business Architect and I enjoy what I do in IBM and look forward to tutor in trainings like code the future so I could leverage the platform to tutor more girls in computing, debias them of the myth that this industry are for boys only and encourage them to take on computer science / informaton technology as a career.
+
+### Michael
+
+I joined the CIC in early December 2020 as an application developer. I've worked on a wide range of roles and accounts, working in L2 support, cloud solutions, app development and finally web development since the start of this year. I've had spinkles of experience throughout my career from using HTML/CSS to JavaScript/TypeScript with frameworks like React and Angular. I hope now to try to apply my web development knowledge through tutoring.
 
 <div style="width: 100%">
 <a href='README.md' ><-- Previous section: Session 1 Introduction</a>
