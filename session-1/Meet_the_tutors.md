@@ -124,7 +124,7 @@ I joined IBM in 2022 as an experienced higher (Senior Business Analyst (BA)). Be
 
 ### Michael
 
-I joined the CIC in early December 2021 as an application developer. I've worked on a wide range of roles and accounts, working in L2 support, cloud solutions, app development and finally web development since the start of this year. I've had spinkles of experience throughout my career from using HTML/CSS to JavaScript/TypeScript with frameworks like React and Angular. I hope now to try to apply my web development knowledge through tutoring.
+I joined the CIC in early December 2020 as an application developer. I've worked on a wide range of roles and accounts, working in L2 support, cloud solutions, app development and finally web development since the start of this year. I've had spinkles of experience throughout my career from using HTML/CSS to JavaScript/TypeScript with frameworks like React and Angular. I hope now to try to apply my web development knowledge through tutoring.
 
 <div style="width: 100%">
 <a href='README.md' ><-- Previous section: Session 1 Introduction</a>
