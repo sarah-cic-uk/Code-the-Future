@@ -42,7 +42,7 @@ Second edit the Repository name under the general settings tab to match the nami
 Second is the structure of the page. below is an example of the structure.
 ![repository](../images/session1/folder-structure.png)
 
-Here we can see what is needed at what is called the top we want out index.html and README.md file, below this we would want to create folders for the other pages, the style, and images we would use within out webpage.
+Here we can see what is needed at what is called the top we want our index.html and README.md file, below this we would want to create folders for the other pages, the style, and images we would use within out webpage.
 
 **_THE BASE FILE NEEDS TO BE NAMED/KEPT AS `index.html`_**
 
@@ -50,7 +50,7 @@ The reason that this file needs to stay named the way it is, is because GitHub P
 
 ### Hosting your Repository
 
-Once all your files are correctly setup and is named correctly, we can start hosting our website.
+Once all your files are correctly setup and are named correctly, we can start hosting our website.
 
 Firstly, go to your repository on GitHub.com and click on the settings section at the top.
 ![repository](../images/session1/settings.png)
@@ -61,13 +61,13 @@ Next on the left hand side you want to click on Pages under the Code and automat
 
 Then once located on that page you want to keep the source as `Deploy from a branch`, under that we set the branch settings. Set the left box (The branch box) `as main` and set the next box along to `/(root)`, and click on `Save`.
 
-Here is an image below showing the settings set in the pages section. [If you have a custom domain sorted already you can use this custom domain name.](#using-a-custom-domain-name)
+Below is an image of the settings you should have in the pages section. [If you have a custom domain sorted already you can use this custom domain name.](#using-a-custom-domain-name)
 ![repository](../images/session1/pages-settings.png)
 
 After a few minutes your page should now be hosted on GitHub pages ready for you to share. Once the page is done you will have section at the top that will appear showing you the name of the page and if you want to stop hosting it.
 ![repository](../images/session1/site-url.png)
 
-This will be nice progressing further in the course as when you make changes and push your changes to this repository a build is ran in the background that will we build the site with your updated code.
+When progressing through the course any changes you push to your repository will trigger a build to run in the backgroun and deploy your site with the updated code.
 
 ## Using a custom domain name
 
