@@ -15,7 +15,6 @@ This session you will have an introduction to Green Coding and learn how to host
 ### Session goals
 
 - Learn what Green Coding is
-- To host your application on GitHub so its available to the public
 - Showcase your work
 - Build your network
 
