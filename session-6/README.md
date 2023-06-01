@@ -7,7 +7,6 @@
 - [Introduction](#Introduction)
 - [Session goals](#Session-goals)
 - [Green Coding](green_coding.md)
-- [GitHub Hosting](hosting_on_git.md)
 
 ### Introduction
 
