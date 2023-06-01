@@ -25,6 +25,6 @@ Great job for completing the 6-session course and building your own website! You
     - [#WebDevs](https://discord.me/webdevs) - They provide HTML and CSS support along with several other languages.
 
 <div style="width: 100%">
-<a href='hosting_on_git.md'><-- Previous section:  Hosting on GitHub</a>
+<a href='green_coding.md'><-- Previous section: Green Coding</a>
 <div align="right"><a href='../Intro-To-Code-Course/README.md'>Go back Home --></a></div>
 </div>

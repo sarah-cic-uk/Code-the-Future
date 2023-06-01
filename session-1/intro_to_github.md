@@ -163,5 +163,6 @@ You've now created a repository, cloned it down, made a change, committed that c
 
 <div style="width: 100%">
 <a href='intro_to_ide.md'><-- Previous section: The Developer Environment</a>
-<div align="right"><a  href='../session-2/README.md'>Next section: Session 2 Introduction --></a></div>
+<div align="right"><a  href='hosting_on_github_pages.md'>Next section: Hosting on Github Pages --></a></div>
+</div>
 </div>
