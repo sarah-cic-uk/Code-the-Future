@@ -21,8 +21,8 @@
 [Dana Românu - Associate Technology Specialist](#Dana)\
 [Henry Mason - Associate Application Developer](#Henry)\
 [Georgia Ingham - Developer](#Georgia)\
-[Obelema Wodike - Senior Business Analyst](#Bells)
-[Michael Weller - Application Developer](#Michael)
+[Obelema Wodike - Senior Business Analyst](#Bells)\
+[Michael Weller - Application Developer](#Michael)\
 [Sophie Pink - Senior Developer](#Sophie)
 
 ### Sarah
