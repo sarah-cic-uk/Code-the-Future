@@ -37,7 +37,7 @@ First go to the Settings section of your repository.
 ![repository](../images/session1/settings.png)
 
 Second edit the Repository name under the general settings tab to match the naming convention needed.
-![repository](../images/session1/repo-name.png)
+![repository](../images/session1/Repo-name.png)
 
 Second is the structure of the page. below is an example of the structure.
 ![repository](../images/session1/folder-structure.png)
