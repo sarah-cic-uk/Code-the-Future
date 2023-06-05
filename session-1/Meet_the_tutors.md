@@ -2,29 +2,30 @@
 
 ## Session 1: Meet the Tutors!
 
-[Sarah Neenan - UK CIC Development Practice Leader & Managing Developer](#Sarah)\
+[Sarah Neenan - UK CIC Development Practice Leader & Managing Software Engineer](#Sarah)\
 [Jacqueline Jones - Front-end Developer](#Jacqueline)\
-[Jacob Boardman - Developer](#Jacob)\
-[Obelema Wodike - Senior Business Analyst](#Bells)
-[Zubaida Abdulla - Engineer](#Zubaida)\
-[Sophie Pink - ](#Sophie)\
+[Jacob Boardman - Software Engineer](#Jacob)\
+[Obelema Wodike - Senior Business Analyst](#Bells)\
+[Zubaida Abdulla - Software Engineer](#Zubaida)\
+[Sophie Pink - Senior Software Engineer](#Sophie)\
 [Abdul Shaker - DevOps Engineer](#Abdul)\
+[Michael Weller - Software Engineer](#Michael)\
 [Rachel Lemonius - DevOps](#Rachel)\
 [Amber Idumwonyi - Senior Test Specialist](#Amber)\
 [Davina Opong - Managing Project Manager](#Davina)\
-[Lewis Bailey - Associate Application Developer](#Lewis)\
+[Lewis Bailey - Associate Software Engineer](#Lewis)\
 [Georgia Ingham - Developer](#Georgia)\
-[Vivienne Nenh - Associate Application Developer](#Vivienne)\
+[Vivienne Nenh - Associate Software Engineer](#Vivienne)\
 [Anujan Ganeshalingam - Associate Technology Specialist](#Anujan)\
-[Kristel Caisip - Developer](#Kristel)\
-[Remya Muraleedharan - Application Developer](#Remya)\
+[Kristel Caisip - Software Engineer](#Kristel)\
+[Remya Muraleedharan - Software Engineer](#Remya)\
 [Kadijah Allarakhiya - Associate Technology Specialist](#Kadijah)\
-[Sam Asquith - Associate Application Developer](#Sam)\
-[Aum Desai - Associate Application Developer](#Aum)\
-[Cameron McDonna - Associate Full Stack Software Engineer](#Cameron)\
-[Andy Mair - Associate Developer](#Andy)\
+[Sam Asquith - Associate Software Engineer](#Sam)\
+[Aum Desai - Associate Software Engineer](#Aum)\
+[Cameron McDonna - Associate Software Engineer](#Cameron)\
+[Andy Mair - Associate Software Engineer](#Andy)\
 [Dana Românu - Associate Technology Specialist](#Dana)\
-[Henry Mason - Associate Application Developer](#Henry)
+[Henry Mason - Software Engineer](#Henry)
 
 ### Sarah
 
@@ -56,16 +57,18 @@ Hi! I joined as an Associate Technology Specialist in August 2021. I studied Com
 ### Sophie
 
 I’ve always had an interest in computers and video games. When I eventually went to university, my bachelors degree was in Games Technology, where I got to make several games and worked with some other students to publish a game to Xbox Live as part of a final year project. It was here that I learned the basics of programming and software development.
-After graduating, I then joined my university as a lecturer, teaching newer students the same courses that I had just been studying. After a few years, I took up a PhD scholarship, studying a mixture of computer science and psychology, but I didn’t manage to quite finish it. I got to work with the Microsoft Kinect and 3D avatars in a robotics lab, though!
-I joined IBM in March 2017 and have been working in the public sector ever since. I’m now a senior software engineer, and have worked on many different technologies, including Java, Javascript, C# and a bunch of backend systems. I’ve enjoyed my time, but I will be moving into a security role very soon.
 
+After graduating, I then joined my university as a lecturer, teaching newer students the same courses that I had just been studying. After a few years, I took up a PhD scholarship, studying a mixture of computer science and psychology, but I didn’t manage to quite finish it. I got to work with the Microsoft Kinect and 3D avatars in a robotics lab, though!
+
+I joined IBM in March 2017 and have been working in the public sector ever since. I’m now a senior software engineer, and have worked on many different technologies, including Java, Javascript, C# and a bunch of backend systems. I’ve enjoyed my time, but I will be moving into a security role very soon.
 
 ### Abdul
 
 Hi everyone, I joined IBM in February 2021 as an Application Developer. Before Joining IBM I was studying Computer systems engineering, so I have hands on experience in software and hardware. During my degree I have build hardware related projects such as: A smart walking stick (assistive technology) designed for visually impaired individuals, which used sensors and vibrations to notify the individual of any obstructions in their path. It also had thermal imaging for health care providers to see what the individual was able to see in real time. I have also done extensive research in 5G wave propagation as part of my dissertation, which optimised the way self driving vehicles communicate with each other. Since joining IBM I have worked on several projects building applications where I have worked on the development side and operations side. I am an advocate for learning and love the idea of learning something new every day!
 
+### Michael
 
-
+I joined the CIC in early December 2020 as an application developer. I've worked on a wide range of roles and accounts, working in L2 support, cloud solutions, app development and finally web development since the start of this year. I've had spinkles of experience throughout my career from using HTML/CSS to JavaScript/TypeScript with frameworks like React and Angular. I hope now to try to apply my web development knowledge through tutoring.
 
 
 ### Rachel
@@ -100,13 +103,6 @@ to keep learning during my role and how no two weeks are the same!
 
 I joined IBM CIC as an associate in February 2021. Before IBM, I studied in the field of research in Applied Mathematics and Computational Modelling. After completing a year as a PhD student, I decided I wanted to explore a different aspect of programming. I applied for the Application Developer role at IBM and never expected to get it! Although I had some programming skills, I knew nothing about software development... Luckily, this role included 9 sessions of developer training and, although I have only been in this role for a short amount of time, I am really enjoying it. I am very much still new to the development world and am learning more and more every day at IBM.
 
-### Georgia
-
-After finishing my A Levels I wasn't sure what I wanted to do for a career. I looked at different University
-options and the Computer Science course caught my eye. That was where I created my first programme (in C)
-and I was hooked from there. Now I have worked for IBM CIC since 2018 and been given the opportunity to work
-as a full stack Developer and Scrum Master. I enjoy the variation of tasks I get in my role, that I am able
-to keep learning during my role and how no two sessions are the same!
 
 ### Kristel
 
@@ -143,7 +139,6 @@ Joined IBM as an Associate Technical Specialist last October . Passionate about 
 ### Henry
 
 I joined IBM as an Associate Developer in February 2021. Before IBM, I studied Economics at the University of Exeter with the aim of working in ethical finance. I took a job at Monzo Bank but quickly realised that I wanted to be a developer, designing the amazing tools I was using to help millions of people. So I enrolled on an MSc conversion course in Computer Science at Birkbeck University and applied for a role here at IBM. I'm already loving the job which, most importantly, gives me almost unlimited scope for creativity and many opportunities to contribute to the causes I care about.
-
 
 <div style="width: 100%">
 <a href='README.md' ><-- Previous section: Session 1 Introduction</a>
