@@ -23,6 +23,7 @@
 [Georgia Ingham - Developer](#Georgia)\
 [Obelema Wodike - Senior Business Analyst](#Bells)
 [Michael Weller - Application Developer](#Michael)
+[Sophie Pink - Senior Developer](#Sophie)
 
 ### Sarah
 
@@ -125,6 +126,14 @@ I joined IBM in 2022 as an experienced higher (Senior Business Analyst (BA)). Be
 ### Michael
 
 I joined the CIC in early December 2020 as an application developer. I've worked on a wide range of roles and accounts, working in L2 support, cloud solutions, app development and finally web development since the start of this year. I've had spinkles of experience throughout my career from using HTML/CSS to JavaScript/TypeScript with frameworks like React and Angular. I hope now to try to apply my web development knowledge through tutoring.
+
+### Sophie
+
+I’ve always had an interest in computers and video games. When I eventually went to university, my bachelors degree was in Games Technology, where I got to make several games and worked with some other students to publish a game to Xbox Live as part of a final year project. It was here that I learned the basics of programming and software development.
+
+After graduating, I then joined my university as a lecturer, teaching newer students the same courses that I had just been studying. After a few years, I took up a PhD scholarship, studying a mixture of computer science and psychology, but I didn’t manage to quite finish it. I got to work with the Microsoft Kinect and 3D avatars in a robotics lab, though!
+
+I joined IBM in March 2017 and have been working in the public sector ever since. I’m now a senior software engineer, and have worked on many different technologies, including Java, Javascript, C# and a bunch of backend systems. I’ve enjoyed my time, but I will be moving into a security role very soon.
 
 <div style="width: 100%">
 <a href='README.md' ><-- Previous section: Session 1 Introduction</a>
