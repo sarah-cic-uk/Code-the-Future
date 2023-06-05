@@ -87,6 +87,6 @@ It can take as long as 48 hours for your domain to resolve to your GitHub page. 
 - [VueJS Framework Tutorial](https://learnvue.co/articles/deploy-vue-to-GitHub-pages)
 
 <div style="width: 100%">
-<a href='intro_to_GitHub.md'><-- Previous section: Introduction to Git & GitHub</a>
+<a href='intro_to_github.md'><-- Previous section: Introduction to Git & GitHub</a>
 <div align="right"><a  href='../session-2/README.md'>Next section: Session 2 Introduction --></a></div>
 </div>
