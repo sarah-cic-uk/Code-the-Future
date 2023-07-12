@@ -4,6 +4,7 @@
 
 Content covered in this session:
 
+- Find out what the course will teach you
 * [Introduction](#Introduction)
 * [Session goals](#Session-goals)
 * [Meet the Tutors](Meet_the_tutors.md)
