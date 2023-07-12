@@ -3,10 +3,6 @@
 ## Session 1: Introductions and Setting up
 
 ### Content covered in this session
-### Introduction
-
-### Introduction
-
 
 - [Introduction](#Introduction)
 - [Session goals](#Session-goals)
