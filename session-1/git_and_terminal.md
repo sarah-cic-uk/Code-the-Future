@@ -34,11 +34,11 @@ Git Bash can be downloaded from https://git-scm.com/. There is a page with more 
 
 #### Terminal/Git Bash:
 
-**clear** - clears all the text from the screen to start fresh (doesn't undo anything, just bumps it off the screen).
-**pwd** - prints the working directory. Helps you navigate and know where you are in the file system!\
-**ls** - lists all files in the folder you are sat in\
-**mkdir** - creates a new folder. add the name of the new folder afterwards: `mkdir codeTheFuture`\
-**cd** - change directory. `cd codeTheFuture` will move you into the folder called codeTheFuture\
+**clear** - clears all the text from the screen to start fresh (doesn't undo anything, just bumps it off the screen).   
+**pwd** - prints the working directory. Helps you navigate and know where you are in the file system!   
+**ls** - lists all files in the folder you are sat in   
+**mkdir** - creates a new folder. add the name of the new folder afterwards: `mkdir codeTheFuture`   
+**cd** - change directory. `cd codeTheFuture` will move you into the folder called codeTheFuture   
 
 #### Git:
 
