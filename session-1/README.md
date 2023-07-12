@@ -1,6 +1,6 @@
 # Code the Future </>
 
-## Session 1: Introductions and Setting up TEST
+## Session 1: Introductions and Setting up
 
 ### Content covered in this session
 
