@@ -2,7 +2,7 @@
 
 ## Session 1: Introductions and Setting up
 
-### Content covered in this session
+## Content covered in this session
 
 - [Introduction](#Introduction)
 - [Session goals](#Session-goals)
@@ -12,13 +12,13 @@
 - [Hosting on Github](hosting_on_github_pages.md)
 - [Git using Terminal](git_and_terminal.md)
 
-### Introduction
+## Introduction
 
 This session will introduce you to the course, your tutors and the tech industry.
 We will share stories of how we got to where we are, the work we have done and what it is like to work for IBM.
 You'll also get your laptops set up to enable software development and learn about version control and keeping your work safe.
 
-### Session goals
+## Session goals
 
 - Find out what the course will teach you
 - Meet the tutors
