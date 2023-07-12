@@ -4,6 +4,14 @@
 
 ### Content covered in this session
 
+* [Introduction](#Introduction)
+* [Session goals](#Session-goals)
+* [Meet the Tutors](Meet_the_tutors.md)
+* [Intro to IDEs](intro_to_ide.md)
+* [Introduction to Git, Github & GitHub Desktop](intro_to_github.md)
+* [Hosting on Github](hosting_on_github_pages.md)
+* [Git using Terminal](git_and_terminal.md)
+
 ### Introduction
 
 This session will introduce you to the course, your tutors and the tech industry.
