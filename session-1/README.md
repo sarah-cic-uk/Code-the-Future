@@ -2,7 +2,7 @@
 
 ## Session 1: Introductions and Setting up
 
-## Content covered in this session:
+### Content covered in this session:
 
 [Intro](#Introduction)\
 [Introduction](#Introduction)\
@@ -11,7 +11,7 @@
 [Intro to IDEs](intro_to_ide.md)\
 [Introduction to Git, Github & GitHub Desktop](intro_to_github.md)\
 [Hosting on Github](hosting_on_github_pages.md)\
-[Git using Terminal](git_and_terminal.md)\
+[Git using Terminal](git_and_terminal.md)
 
 ### Introduction
 
