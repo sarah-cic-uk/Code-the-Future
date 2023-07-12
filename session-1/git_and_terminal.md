@@ -60,19 +60,19 @@ Git Bash can be downloaded from https://git-scm.com/. There is a page with more 
 1. Open github and create a new repo:
 
 Navigate to the repositories tab and hit 'New':
-![GitHub Dashboard](https://raw.githubusercontent.com/sarah-cic-uk/Code-the-Future/main/images/session1/github_dashboard.png)
+<img src="https://raw.githubusercontent.com/sarah-cic-uk/Code-the-Future/main/images/session1/github_dashboard.png" alt="github dashboard" width="800"/>
 
 Create your repo with a README file:
-![Create Repo](https://raw.githubusercontent.com/sarah-cic-uk/Code-the-Future/main/images/session1/create_repo.png)
+<img src="https://raw.githubusercontent.com/sarah-cic-uk/Code-the-Future/main/images/session1/create_repo.png" alt="create repo" width="800"/>
 
 Now your repo exists, click the 'Code' button and select HTTPS (or SSH if you have set up an ssh key) and copy the url:
-![Clone Repo URL](https://raw.githubusercontent.com/sarah-cic-uk/Code-the-Future/main/images/session1/clone_url.png)
+<img src="https://raw.githubusercontent.com/sarah-cic-uk/Code-the-Future/main/images/session1/clone_url.png" alt="clone repo" width="800"/>
 
 Next, return to your terminal and clone the repo using the url you have copied:
-![Clone Repo In Terminal](https://raw.githubusercontent.com/sarah-cic-uk/Code-the-Future/main/images/session1/clone.png)
+<img src="https://raw.githubusercontent.com/sarah-cic-uk/Code-the-Future/main/images/session1/clone.png" alt="clone Repo In Terminal" width="800"/>
 
 1. move into your newly cloned repo: `cd code-the-future-demo` and list the files using `ls`. You should see your README.md
-   ![Navigate into repo folder](https://raw.githubusercontent.com/sarah-cic-uk/Code-the-Future/main/images/session1/open_repo_folder.png)
+   <img src="https://raw.githubusercontent.com/sarah-cic-uk/Code-the-Future/main/images/session1/open_repo_folder.png" alt="Navigate into repo folder" width="800"/>
 
 1. Open your repo folder in VScode and edit the README.md
 1. Add your changes to the staging area: `git add .`
@@ -94,7 +94,7 @@ Have a play with Git GUI!
 1. Hit Push
 1. Return to the browser and look for your changes
 
-![Git Gui](https://raw.githubusercontent.com/sarah-cic-uk/Code-the-Future/main/images/session1/gitgui.png)
+<img src="https://raw.githubusercontent.com/sarah-cic-uk/Code-the-Future/main/images/session1/gitgui.png" alt="Git Gui" width="800"/>
 
 <div style="width: 100%">
 <a href='intro_to_github.md'><-- Previous section: Git & GitHub Install & Tutorial</a>
