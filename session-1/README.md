@@ -4,14 +4,14 @@
 
 ## Content covered in this session:
 
-- [Intro](#Introduction)/
-- [Introduction](#Introduction)/
-- [Session goals](#Session-goals)/
-- [Meet the Tutors](Meet_the_tutors.md)/
-- [Intro to IDEs](intro_to_ide.md)
-- [Introduction to Git, Github & GitHub Desktop](intro_to_github.md)
-- [Hosting on Github](hosting_on_github_pages.md)
-- [Git using Terminal](git_and_terminal.md)
+[Intro](#Introduction)\
+[Introduction](#Introduction)\
+[Session goals](#Session-goals)\
+[Meet the Tutors](Meet_the_tutors.md)\
+[Intro to IDEs](intro_to_ide.md)\
+[Introduction to Git, Github & GitHub Desktop](intro_to_github.md)\
+[Hosting on Github](hosting_on_github_pages.md)\
+[Git using Terminal](git_and_terminal.md)\
 
 ### Introduction
 
