@@ -68,7 +68,7 @@ Create your repo with a README file:
 Now your repo exists, click the 'Code' button and select HTTPS (or SSH if you have set up an ssh key) and copy the url:
 <img src="https://raw.githubusercontent.com/sarah-cic-uk/Code-the-Future/main/images/session1/clone_url.png" alt="clone repo" width="800"/>
 
-Next, return to your terminal and clone the repo using the url you have copied:
+Next, return to your terminal and clone the repo using the url you have copied:   
 <img src="https://raw.githubusercontent.com/sarah-cic-uk/Code-the-Future/main/images/session1/clone.png" alt="clone Repo In Terminal" width="800"/>
 
 1. move into your newly cloned repo: `cd code-the-future-demo` and list the files using `ls`. You should see your README.md
