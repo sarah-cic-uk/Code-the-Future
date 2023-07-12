@@ -22,7 +22,7 @@ Terminals can have different themes, the default being white with black text. Sc
 
 Terminal:
 
-![Terminal](../images/session1/terminal.png)
+![Terminal](/images/session1/terminal.png)
 
 ### Windows
 
