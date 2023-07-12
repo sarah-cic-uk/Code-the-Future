@@ -42,11 +42,11 @@ Git Bash can be downloaded from https://git-scm.com/. There is a page with more 
 
 #### Git:
 
-**git clone** - this allows you to close a url from GitHub
-**git add** - this adds your local files to the git staging area. `git add .` and `git add -A` are two different ways to add all files. `git add filename` will add a specific file (you may sometimes needs the full path e.g. `/codeTheFuture/filename`)\
-**git commit -m "message"** - this command commits the changes with a useful message. make the message as useful as you can in case you need to refer back to what was in the commit at a later date!\
-**git push** - this will push all the committed changes up to the repo. They will then be available for others to pull down and see.\
-**git pull** - pulls down the latest code from the repo.\
+**git clone** - this allows you to close a url from GitHub   
+**git add** - this adds your local files to the git staging area. `git add .` and `git add -A` are two different ways to add all files. `git add filename` will add a specific file (you may sometimes needs the full path e.g. `/codeTheFuture/filename`)   
+**git commit -m "message"** - this command commits the changes with a useful message. make the message as useful as you can in case you need to refer back to what was in the commit at a later date!   
+**git push** - this will push all the committed changes up to the repo. They will then be available for others to pull down and see.   
+**git pull** - pulls down the latest code from the repo.   
 
 ---
 
