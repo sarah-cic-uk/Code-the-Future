@@ -22,7 +22,7 @@ Terminals can have different themes, the default being white with black text. Sc
 
 Terminal:
 
-<img src="https://raw.githubusercontent.com/sarah-cic-uk/Code-the-Future/main/images/session1/terminal.png" alt="drawing" width="600"/>
+<img src="https://raw.githubusercontent.com/sarah-cic-uk/Code-the-Future/main/images/session1/terminal.png" alt="drawing" width="800"/>
 
 ### Windows
 
