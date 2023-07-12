@@ -4,7 +4,7 @@
 
 ### Content covered in this session
 
- *  [Introduction](#Introduction)
+ * word first [Introduction](#Introduction)
  * [Session goals](#Session-goals)
 * [Meet the Tutors](Meet_the_tutors.md)
 * [Intro to IDEs](intro_to_ide.md)
