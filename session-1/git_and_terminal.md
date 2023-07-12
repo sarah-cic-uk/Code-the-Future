@@ -60,19 +60,19 @@ Git Bash can be downloaded from https://git-scm.com/. There is a page with more 
 1. Open github and create a new repo:
 
 Navigate to the repositories tab and hit 'New':
-![GitHub Dashboard](../images/session1/github_dashboard.png)
+![GitHub Dashboard](https://raw.githubusercontent.com/sarah-cic-uk/Code-the-Future/main/images/session1/github_dashboard.png)
 
 Create your repo with a README file:
-![Create Repo](../images/session1/create_repo.png)
+![Create Repo](https://raw.githubusercontent.com/sarah-cic-uk/Code-the-Future/main/images/session1/create_repo.png)
 
 Now your repo exists, click the 'Code' button and select HTTPS (or SSH if you have set up an ssh key) and copy the url:
-![Clone Repo URL](../images/session1/clone_url.png)
+![Clone Repo URL](https://raw.githubusercontent.com/sarah-cic-uk/Code-the-Future/main/images/session1/clone_url.png)
 
 Next, return to your terminal and clone the repo using the url you have copied:
-![Clone Repo In Terminal](../images/session1/clone.png)
+![Clone Repo In Terminal](https://raw.githubusercontent.com/sarah-cic-uk/Code-the-Future/main/images/session1/clone.png)
 
 1. move into your newly cloned repo: `cd code-the-future-demo` and list the files using `ls`. You should see your README.md
-   ![Navigate into repo folder](../images/session1/open_repo_folder.png)
+   ![Navigate into repo folder](https://raw.githubusercontent.com/sarah-cic-uk/Code-the-Future/main/images/session1/open_repo_folder.png)
 
 1. Open your repo folder in VScode and edit the README.md
 1. Add your changes to the staging area: `git add .`
@@ -94,7 +94,7 @@ Have a play with Git GUI!
 1. Hit Push
 1. Return to the browser and look for your changes
 
-![Git Gui](../images/session1/gitgui.png)
+![Git Gui](https://raw.githubusercontent.com/sarah-cic-uk/Code-the-Future/main/images/session1/gitgui.png)
 
 <div style="width: 100%">
 <a href='intro_to_github.md'><-- Previous section: Git & GitHub Install & Tutorial</a>
