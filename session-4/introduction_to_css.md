@@ -31,18 +31,18 @@
   ```html
   ...
   <html>
-  	<head>
-  		<title>My First Website</title>
+    <head>
+      <title>My First Website</title>
 
-  		<style type="text/css">
-  			h1 {
-  				color: blue;
-  			}
-  		</style>
-  	</head>
-  	<body>
-  		<h1>This text is blue</h1>
-  	</body>
+      <style type="text/css">
+        h1 {
+          color: blue;
+        }
+      </style>
+    </head>
+    <body>
+      <h1>This text is blue</h1>
+    </body>
   </html>
   ```
 
@@ -56,15 +56,15 @@
   ...
 
   <head>
-  	<title>My First Website</title>
-  	<link rel="stylesheet" type="text/css" href="myStyleSheet.css" />
+    <title>My First Website</title>
+    <link rel="stylesheet" type="text/css" href="myStyleSheet.css" />
   </head>
   ```
 
   ```css
   /* CSS File located in the same directory as index.html (myStyleSheet.css) */
   p {
-  	color: blue;
+    color: blue;
   }
   ```
 
@@ -80,9 +80,9 @@ White spaces are ignored - declarations can be written in separate lines to make
 
 ```css
 p {
-	color: blue;
-	font-weight: bold;
-	font-size: 14px;
+  color: blue;
+  font-weight: bold;
+  font-size: 14px;
 }
 ```
 
@@ -132,5 +132,5 @@ For this example, we will use Chrome. To view the styles applied on the page, se
 
 <div style="width: 100%">
 <a href='README.md'><-- Previous section: Session 4 Introduction</a>
-<div align="right"><a href='advanced_css.md'>Next section: Advanced CSS --></a></div>
+<div align="right"><a href='layouts.md'>Next section: Advanced CSS --></a></div>
 </div>
