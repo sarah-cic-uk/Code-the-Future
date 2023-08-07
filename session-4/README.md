@@ -4,13 +4,19 @@
 
 ### Content Covered in this Session
 
-- What is CSS?
-- How to Use CSS with HTML?
-- CSS Selectors
-- Introduction to Responsive Web Design
-- Explore CSS Advanced Topics
-- CSS Pre-processors
-- CSS Frameworks
+- [Introduction to CSS](introduction_to_css.md)
+  - What is CSS?
+  - How to Use CSS with HTML?
+  - CSS Syntax
+- [Layouts in CSS](layouts.md)
+  - Float
+  - Flexbox
+  - Grid
+- [Advanced CSS](advacnced_css.md)
+  - Advanced Concepts
+  - CSS Pre-processors
+  - Responsive Web Design
+  - CSS Frameworks
 
 ### Session Goals
 
