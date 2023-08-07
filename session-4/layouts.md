@@ -57,3 +57,8 @@ Another modern technique to improve the way the element are laid out on a page w
   - _Grid Lines_ - horizontal and vertical lines that separate rows and columns in a Grid container
 
 - More complete information about CSS Grids can be found in [Complete Guide to CSS Grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
+
+<div style="width: 100%">
+<a href='introduction_to_css.md'><-- Previous section: Introduction to CSS</a>
+<div align="right"><a href='advanced_css.md'>Next section: Advanced CSS --></a></div>
+</div>
