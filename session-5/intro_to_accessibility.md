@@ -118,39 +118,30 @@ To recap on all of the above valuable tips read an article on [Bad vs. Good Acce
 
 ## Activity
 
-Whether you work at IBM or not, we all have to consider the accessibility guidelines and consider the parts we can play to make accessibility achievable as a _team_.
+No matter where you work or what role you play in the development process, we all have to consider the accessibility guidelines and what things we need to use in our code to make accessibility achievable as a global _team_ for all diverse users.
 
-[IBM Accessibility](https://www.ibm.com/able/) provides well written documentation for all to use. It also comes with an Equal Access Toolkit to help you plan, design, develop and verify your websites whilst maintaining the requirements you need to achieve an accessible website.
+[WAVE](https://wave.webaim.org/) Our activity involves watching an online video from WAVE - Web Accessibility Evaluation Tools. It will help you to understand what we've previously discussed in session 5 and also how to implement the correct changes if they are needed to make your website pages compliant.
 
-_IBM Equal Access Accessibility Checker_ is FREE to use; add the extension to your browser and use it as you're developing your website.
-<br><br>
+1. View the Introduction to WAVE video - it's full length is 11:20 minutes.
 
-1. View the video to understand how to use the IBM Equal Access Accessibility Checker Plugin
-
-- [Develop video](https://www.ibm.com/able/toolkit/tools)
+- [Introduction to WAVE video](https://wave.webaim.org/)
 
 <br>
 
-2. Download and try the Accessibility Plugins
+2. Download and try the WAVE Browser Extensions (with your own or any other website).
 
-- IBM Equal Access Accessibility Checker: [Chrome extension](https://chrome.google.com/webstore/detail/ibm-equal-access-accessib/lkcagbfjnkomcinoddgooolagloogehp) OR [Firefox extension](https://addons.mozilla.org/en-US/firefox/addon/accessibility-checker/)
-
-- [Screen Reader](https://chrome.google.com/webstore/detail/screen-reader/kgejglhpjiefppelpmljglcjbhoiplfn)
-- [Colour Contrast checker](https://webaim.org/resources/contrastchecker/)
-
-  There is also:
-
-  - [Google Dev Tools Lighthouse Accessibility Audit](https://developers.google.com/web/tools/lighthouse#devtools)
+- [WAVE Browser Extensions](https://wave.webaim.org/extension/)
 
 <br>
 
-3. Open up different webpages and explore with the Dev Tools
+3. Open up different webpages and explore with the Dev Tools.
 
    The best way to understand how the tools work is to open up a few websites and try interacting with the pages.
 
    Try viewing the pages both with the dev tools, and without, so you can get a feel for how content has been structured.
 
-   You can use the **tab** button to cycle through the items shown on a page in the dev tools, use **enter** to select an option or fire a button and **Alt + tab** will let you move backwards. You can see some more examples of in-depth controls [here](https://webaim.org/techniques/keyboard/).
+   You can use the **tab** button to cycle through the items shown on a page in the dev tools, use **enter** to select an option or fire a button and **Alt + tab** will let you move backwards.
+   You can see some more examples of in-depth controls in the WebAIM keyboard techniques [website](https://webaim.org/techniques/keyboard/).
 
    Some example websites you can open up:
 
@@ -170,8 +161,9 @@ _IBM Equal Access Accessibility Checker_ is FREE to use; add the extension to yo
 
 <br>
 
-5. Check your site using the accessibility tools
-   - Go through the rest of your website using the accessibility tools and see where there are any accessibility issues. Using the resources already shared attempt to fix those issues.
+5. Check your site using the WAVE Browser Extension (specific to your browser of choice)
+   - Go through the rest of your website using the WAVE Browser Extensions and see where there are any accessibility issues.<br/>
+     Using the resources already shared attempt to fix those issues.
      <br><br>
 
 ## Resources
