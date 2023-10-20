@@ -18,7 +18,7 @@ In this example you will see a few different ways that you can implement hyperli
 ```
 
 - To link to another webpage though an image, eg.
-  <a href="https://www.ibm.com/employment/ciceurope/uk-en"> <img src="../images/ibm-logo.png" alt="IBM logo" height=50> </a>
+  <a href="https://www.ibm.com/employment/ciceurope/uk-en"> <img src="https://raw.githubusercontent.com/sarah-cic-uk/Code-the-Future/main/images/ibm-logo.png" alt="IBM logo" height=50> </a>
 
 ```
 <a href="https://www.ibm.com/employment/ciceurope/uk-en"> <img src="../images/ibm-logo.png" alt="IBM logo" height=50> </a>
@@ -46,7 +46,7 @@ So far, we have built a basic single page HTML website with an `index.html` file
 
 Here, we have an example of a structure, where we have a "Home", an "About me" and a "Contact" page:
 
-<img src="../images/html-pages.png" alt="HTML website structure">
+<img src="https://raw.githubusercontent.com/sarah-cic-uk/Code-the-Future/main/images/html-pages.png" alt="HTML website structure">
 
 HTML pages that branch off from the `index.html` page still follows the same structure that we have learnt in this course. Since the `index.html` page is our homepage, we want to be able to navigate to these additional pages that we add. As we have just learnt, these can be done through hyperlinks:
 

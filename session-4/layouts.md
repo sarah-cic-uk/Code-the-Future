@@ -21,7 +21,7 @@ Here we will be going over the three ways that this can be done.
 
 CSS Flexible Layout Module (Flexbox) is a new technique to improve the way the element are laid out on a page by managing alignments of items, directions, and order in the container. This avoids the use of floats.
 
-![image](../images/session4/flexbox_components.png)
+<img src="https://raw.githubusercontent.com/sarah-cic-uk/Code-the-Future/main/images/session4/flexbox_components.png" alt="components for a flexbox layout" width="800"/>
 
 - Main Components of a Flexbox are:
   - _Flex Container_ - it groups the Flex Items
@@ -46,7 +46,7 @@ CSS Flexible Layout Module (Flexbox) is a new technique to improve the way the e
 
 Another modern technique to improve the way the element are laid out on a page which does not make use of floats. Unlike CSS Flexbox, CSS Grid is two-dimensional layout - you can divide rows and columns simultaneously.
 
-![image](../images/session4/grid_components.png)
+<img src="https://raw.githubusercontent.com/sarah-cic-uk/Code-the-Future/main/images/session4/grid_components.png" alt="components of a grid layout" width="800"/>
 
 - Main components of a Grid are:
 

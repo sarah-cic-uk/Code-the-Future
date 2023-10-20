@@ -72,7 +72,7 @@
 
 CSS syntax consists of a plain text called a _Style Sheet_ which are separated into blocks of code containing _rules_.
 
-![img](../images/session4/css_format.png)
+<img src="https://raw.githubusercontent.com/sarah-cic-uk/Code-the-Future/main/images/session4/css_format.png" alt="CSS format" width="700"/>
 
 It has [_Selectors_](#selector) that declare the elements in the HTML Document where the style is applied. This is followed by a [_Declaration Block_](#declaration) enclosed by curly braces that contains one or more [_Declarations_](#declaration), separated by a semicolon. Each _Declaration_ includes a [_Property_](#property), a colon, and its [_Value_](#value).
 
@@ -93,12 +93,11 @@ p {
 
   > **Class Attribute** <br/>
   > This attribute allows you to define style rules that apply to _more than one element_.<br/>
-  > The example below shows a `class` called `blue-and-bold` applied to a paragraph `<p>` selector. <br/> > ![img](../images/session4/class_separator_html.png)<br/>
-  > To declare rules in your CSS for that `class`, write a separator prefixed with a `"."`. The style defined here is applied to any HTML element with `class="blue-and-bold"`.
-  > ![img](../images/session4/class_separator_css.png) > <br/><br/> > **ID Attribute** <br/>
+  > The example below shows a `class` called `blue-and-bold` applied to a paragraph `<p>` selector. <br/> <img src="https://raw.githubusercontent.com/sarah-cic-uk/Code-the-Future/main/images/session4/class_separator_html.png" alt="class seperator in HTML" width="800"/><br/>
+  > To declare rules in your CSS for that `class`, write a separator prefixed with a `"."`. The style defined here is applied to any HTML element with `class="blue-and-bold"`.<br> <img src="https://raw.githubusercontent.com/sarah-cic-uk/Code-the-Future/main/images/session4/class_separator_css.png" alt="class seperator in CSS" width="800"/> > <br/><br/> **ID Attribute** <br/>
   > This attribute only allows you to define style rules that apply to _a single element_. The `id` attribute is a unique identifier within the document and cannot share the same `id` value in the same web page.<br/>
-  > The example below shows multiple Paragraph `<p>` elements with different `id`'s. <br/> > ![img](../images/session4/id_separator_html.png)<br/>
-  > To declare rules in your CSS for each `id`, write a separator prefixed with a `"#"`.<br/> > ![img](../images/session4/id_separator_css.png)<br/>
+  > The example below shows multiple Paragraph `<p>` elements with different `id`'s. <br/> <img src="https://raw.githubusercontent.com/sarah-cic-uk/Code-the-Future/main/images/session4/id_separator_html.png" alt="id seperator in HTML" width="800"/><br/>
+  > To declare rules in your CSS for each `id`, write a separator prefixed with a `"#"`.<br/> <img src="https://raw.githubusercontent.com/sarah-cic-uk/Code-the-Future/main/images/session4/id_separator_html.png" alt="is seperator in CSS" width="800"/><br/>
 
 ### Declaration
 
@@ -128,7 +127,7 @@ Modern web browsers have support for web developer tools (_devtools_) that will 
 
 For this example, we will use Chrome. To view the styles applied on the page, select an element and the styles defined for that element will be displayed in the tab called **Styles**.
 
-![image](../images/session4/css_devtools.png)
+<img src="https://raw.githubusercontent.com/sarah-cic-uk/Code-the-Future/main/images/session4/css_devtools.png" alt="inspect element css development tools" width="800"/>
 
 <div style="width: 100%">
 <a href='README.md'><-- Previous section: Session 4 Introduction</a>

@@ -46,7 +46,7 @@ HTML consists of a series of elements, which you use to enclose, or wrap, differ
 
 ## What does an HTML element look like
 
-![html tag example](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics/grumpy-cat-small.png)
+<img src="https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics/grumpy-cat-small.png" alt="HTML example element" width="800"/>
 
 There are many different HTML elements that can be used for different things, some good resources to find out about different ones you can use are:
 

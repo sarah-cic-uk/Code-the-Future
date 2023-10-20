@@ -13,7 +13,7 @@ For example: When a user wants to purchase items from an online shop, he/she usu
 
 A sample HTML form look like below:
 
-![form.png](../images/form.png)
+  <img src="https://raw.githubusercontent.com/sarah-cic-uk/Code-the-Future/main/images/form.png" alt="HTML form exmaple" width="600"/>
 
 The HTML `<form>` element is used to create an HTML form for user input:
 
@@ -119,7 +119,7 @@ The HTML `<input>` element is a fundamental element used to create fields in a f
 
 The output of the code snippet looks like this.
 
-![sampleform.png](../images/sampleform.png)
+<img src="https://raw.githubusercontent.com/sarah-cic-uk/Code-the-Future/main/images/sampleform.png" alt="sample form" width="500"/>
 
 The HTML `<input>` element is the most used form element. An `<input>` element can be displayed in many ways, depending on the type attribute.
 In the example above it is a single-line text input field.

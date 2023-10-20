@@ -209,7 +209,7 @@ CSS Frameworks provide an abstraction for common web designs and makes it easier
   </ul>
   ```
 
-  ![image](../images/session4/Pill-navbar.png)
+  <img src="https://raw.githubusercontent.com/sarah-cic-uk/Code-the-Future/main/images/session4/Pill-navbar.png" alt="Bootstrap pill navigation example" width="800"/>
 
 What the above peice of code is doing is mainly setting classes that are being set or edited with CSS that is coming from Bootstrap, similar to how we have shown you to select the classes you added to certain elements.
 
