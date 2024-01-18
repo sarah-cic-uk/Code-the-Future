@@ -2,31 +2,31 @@
 
 ## Session 1: Meet the Tutors!
 
-[Sarah Neenan - UK CIC Development Practice Leader &amp; Managing Software Engineer](#Sarah)
-[Jacqueline Jones - Front-end Developer](#Jacqueline)
-[Jacob Boardman - Software Engineer](#Jacob)
-[Obelema Wodike - Senior Business Analyst](#Bells)
-[Zubaida Abdulla - Software Engineer](#Zubaida)
-[Sophie Pink - Senior Software Engineer](#Sophie)
-[Abdul Shaker - DevOps Engineer](#Abdul)
-[Michael Weller - Software Engineer](#Michael)
-[Rachel Lemonius - DevOps](#Rachel)
-[Amber Idumwonyi - Senior Test Specialist](#Amber)
-[Davina Opong - Managing Project Manager](#Davina)
-[Lewis Bailey - Associate Software Engineer](#Lewis)
-[Georgia Ingham - Developer](#Georgia)
-[Vivienne Nenh - Associate Software Engineer](#Vivienne)
-[Anujan Ganeshalingam - Associate Technology Specialist](#Anujan)
-[Kristel Caisip - Software Engineer](#Kristel)
-[Remya Muraleedharan - Software Engineer](#Remya)
-[Kadijah Allarakhiya - Associate Technology Specialist](#Kadijah)
-[Sam Asquith - Associate Software Engineer](#Sam)
-[Aum Desai - Associate Software Engineer](#Aum)
-[Cameron McDonna - Associate Software Engineer](#Cameron)
-[Andy Mair - Associate Software Engineer](#Andy)
-[Dana Românu - Associate Technology Specialist](#Dana)
-[Henry Mason - Software Engineer](#Henry)
-[Doaa Radwan - Full Stack Engineer](#Doaa)
+[Sarah Neenan - UK CIC Development Practice Leader &amp; Managing Software Engineer](#Sarah)\
+[Jacqueline Jones - Front-end Developer](#Jacqueline)\
+[Jacob Boardman - Software Engineer](#Jacob)\
+[Obelema Wodike - Senior Business Analyst](#Bells)\
+[Zubaida Abdulla - Software Engineer](#Zubaida)\
+[Sophie Pink - Senior Software Engineer](#Sophie)\
+[Abdul Shaker - DevOps Engineer](#Abdul)\
+[Michael Weller - Software Engineer](#Michael)\
+[Rachel Lemonius - DevOps](#Rachel)\
+[Amber Idumwonyi - Senior Test Specialist](#Amber)\
+[Davina Opong - Managing Project Manager](#Davina)\
+[Lewis Bailey - Associate Software Engineer](#Lewis)\
+[Georgia Ingham - Developer](#Georgia)\
+[Vivienne Nenh - Associate Software Engineer](#Vivienne)\
+[Anujan Ganeshalingam - Associate Technology Specialist](#Anujan)\
+[Kristel Caisip - Software Engineer](#Kristel)\
+[Remya Muraleedharan - Software Engineer](#Remya)\
+[Kadijah Allarakhiya - Associate Technology Specialist](#Kadijah)\
+[Sam Asquith - Associate Software Engineer](#Sam)\
+[Aum Desai - Associate Software Engineer](#Aum)\
+[Cameron McDonna - Associate Software Engineer](#Cameron)\
+[Andy Mair - Associate Software Engineer](#Andy)\
+[Dana Românu - Associate Technology Specialist](#Dana)\
+[Henry Mason - Software Engineer](#Henry)\
+[Doaa Radwan - Full Stack Engineer](#Doaa)\
 
 ### Sarah
 
