@@ -231,14 +231,18 @@ In the above code example the `<label>` tag defines a label for form elements. T
 
 ## Activity
 <ul>
-1. Create a user registration form. The registration form should:
-
-   * open up the "./formSuccess.html" page on submission
-   * contain four text fields - User Name, Email, Password and Confirm password (note type="password" for fields you want to mask)
-   * contain one button - Register
-   * All text fields must be mandatory
-   * User Name field must not allow more than 10 characters
+    <ol>
+        <li>Create a user registration form. The registration form should:</li>
+    </ol>
+    <ul>
+        <li>open up the "./formSuccess.html" page on submission</li>
+        <li>contain four text fields - User Name, Email, Password and Confirm password (note type="password" for fields you want to mask)</li>
+        <li>contain one button - Register</li>
+        <li>All text fields must be mandatory</li>
+        <li>User Name field must not allow more than 10 characters</li>
+    </ul>
 </ul>
+
    As part of this task you should create a file called formSuccess.html in the same folder as your index.html with the following content:
 
    ```
