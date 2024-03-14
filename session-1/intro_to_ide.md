@@ -33,9 +33,7 @@ Visual Studio Code is a lightweight but powerful source code editor which runs o
 
 #### VSCode Layout
 
-```
 <img src="../images/vscode-layout.png" alt="VSCode layout">
-```
 
 The interface is divided into five areas:
 
@@ -47,9 +45,7 @@ The interface is divided into five areas:
 
 #### Opening and creating folders and files
 
-```
 <img src="../images/vscode-welcome.png" alt="VSCode welcome">
-```
 
 When opening VSCode, you'll see a welcome screen that has options for 'New file' and 'Open folder'. You can use these to create new files/folders or open existing ones.
 
