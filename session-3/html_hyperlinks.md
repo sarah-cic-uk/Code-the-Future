@@ -46,7 +46,7 @@ So far, we have built a basic single page HTML website with an `index.html` file
 
 Here, we have an example of a structure, where we have a "Home", an "About me" and a "Contact" page:
 
-<img src="https://raw.githubusercontent.com/sarah-cic-uk/Code-the-Future/main/images/session3/html-pages.jpeg" alt="HTML website structure" width="100%">
+<img src="https://raw.githubusercontent.com/sarah-cic-uk/Code-the-Future/main/images/session3/html-pages.jpeg" alt="HTML website structure" width="80%">
 
 
 HTML pages that branch off from the `index.html` page still follows the same structure that we have learnt in this course. Since the `index.html` page is our homepage, we want to be able to navigate to these additional pages that we add. As we have just learnt, these can be done through hyperlinks:

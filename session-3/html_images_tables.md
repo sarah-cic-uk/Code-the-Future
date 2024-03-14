@@ -28,7 +28,7 @@ You can link to images that are saved on your local computer:
 <img src="../images/puppies.jpeg" alt="Puppies in a basket">
 ```
 
-<img src="https://raw.githubusercontent.com/sarah-cic-uk/Code-the-Future/main/images/session3/puppies.jpeg" alt="Puppies in a basket" width="100%">
+<img src="https://raw.githubusercontent.com/sarah-cic-uk/Code-the-Future/main/images/session3/puppies.jpeg" alt="Puppies in a basket" width="80%">
 
 
 Or from a webpage:

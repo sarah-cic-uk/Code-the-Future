@@ -72,7 +72,7 @@
 
 CSS syntax consists of a plain text called a _Style Sheet_ which are separated into blocks of code containing _rules_.
 
-<img src="https://raw.githubusercontent.com/sarah-cic-uk/Code-the-Future/main/images/session4/css_format.png" alt="Css format" width="100%">
+<img src="https://raw.githubusercontent.com/sarah-cic-uk/Code-the-Future/main/images/session4/css_format.png" alt="Css format" width="80%">
 
 
 It has [_Selectors_](#selector) that declare the elements in the HTML Document where the style is applied. This is followed by a [_Declaration Block_](#declaration) enclosed by curly braces that contains one or more [_Declarations_](#declaration), separated by a semicolon. Each _Declaration_ includes a [_Property_](#property), a colon, and its [_Value_](#value).
@@ -95,18 +95,18 @@ p {
    **Class Attribute** <br/>
   This attribute allows you to define style rules that apply to _more than one element_.<br/>
   The example below shows a `class` called `blue-and-bold` applied to a paragraph `<p>` selector. <br/>
-  <img src="https://raw.githubusercontent.com/sarah-cic-uk/Code-the-Future/main/images/session4/class_separator_html.png" alt="class separator html" width="100%">
+  <img src="https://raw.githubusercontent.com/sarah-cic-uk/Code-the-Future/main/images/session4/class_separator_html.png" alt="class separator html" width="80%">
   <br/>
   To declare rules in your CSS for that `class`, write a separator prefixed with a `"."`. The style defined here is applied to any HTML element with `class="blue-and-bold"`.
-  <img src="https://raw.githubusercontent.com/sarah-cic-uk/Code-the-Future/main/images/session4/class_separator_css.png" alt="class separator css" width="100%">
+  <img src="https://raw.githubusercontent.com/sarah-cic-uk/Code-the-Future/main/images/session4/class_separator_css.png" alt="class separator css" width="80%">
   <br/><br/>
    **ID Attribute** <br/>
   This attribute only allows you to define style rules that apply to _a single element_. The `id` attribute is a unique identifier within the document and cannot share the same `id` value in the same web page.<br/>
   The example below shows multiple Paragraph `<p>` elements with different `id`'s. <br/>
-  <img src="https://raw.githubusercontent.com/sarah-cic-uk/Code-the-Future/main/images/session4/id_separator_html.png" alt="id separator html" width="100%">
+  <img src="https://raw.githubusercontent.com/sarah-cic-uk/Code-the-Future/main/images/session4/id_separator_html.png" alt="id separator html" width="80%">
    <br/>
   To declare rules in your CSS for each `id`, write a separator prefixed with a `"#"`.<br/>
-  <img src="https://raw.githubusercontent.com/sarah-cic-uk/Code-the-Future/main/images/session4/id_separator_css.png" alt="id separator css" width="100%">
+  <img src="https://raw.githubusercontent.com/sarah-cic-uk/Code-the-Future/main/images/session4/id_separator_css.png" alt="id separator css" width="80%">
   <br/>
 
 ### Declaration
@@ -137,7 +137,7 @@ Modern web browsers have support for web developer tools (_devtools_) that will 
 
 For this example, we will use Chrome. To view the styles applied on the page, select an element and the styles defined for that element will be displayed in the tab called **Styles**.
 
-  <img src="https://raw.githubusercontent.com/sarah-cic-uk/Code-the-Future/main/images/session4/css_devtools.png" alt="css dev tools" width="100%">
+  <img src="https://raw.githubusercontent.com/sarah-cic-uk/Code-the-Future/main/images/session4/css_devtools.png" alt="css dev tools" width="80%">
 
 
 <div style="width: 100%">

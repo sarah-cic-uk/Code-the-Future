@@ -156,7 +156,7 @@ You've now created a repository, cloned it down, made a change, committed that c
   <br/>
 
    
-<img src="https://raw.githubusercontent.com/sarah-cic-uk/Code-the-Future/main/images/session1/git-branches.png" alt="Git Branches" width="100%">
+<img src="https://raw.githubusercontent.com/sarah-cic-uk/Code-the-Future/main/images/session1/git-branches.png" alt="Git Branches" width="80%">
 
   <br/>
   <dt><b> Rollback </b></dt>

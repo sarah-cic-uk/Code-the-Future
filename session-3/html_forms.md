@@ -7,13 +7,16 @@
 ## HTML Form
 
 HTML Form is a document which stores information from a user using interactive controls. It is used to collect some data from the user.
-An HTML form can contains elements such as check box, input box, radio buttons, submit buttons etc to gather different kinds of information such as username, password, contact number and email id.
+An HTML form can contain elements such as check box, input box, radio buttons, submit buttons etc to gather different kinds of information such as username, password, contact number and email id.
+
+<img src="https://raw.githubusercontent.com/sarah-cic-uk/Code-the-Future/main/images/session3/form_inputs.png" alt="example input fields" width="80%">
+
 
 For example: When a user wants to purchase items from an online shop, he/she usually has to fill forms with the shipping address and credit/debit card details.
 
-A sample HTML form look like below:
+Here is a sample HTML form:
 
-<img src="https://raw.githubusercontent.com/sarah-cic-uk/Code-the-Future/main/images/session3/form.png" alt="form example" width="100%">
+<img src="https://raw.githubusercontent.com/sarah-cic-uk/Code-the-Future/main/images/session3/form.png" alt="form example" width="50%">
 
 
 The HTML `<form>` element is used to create an HTML form for user input:
@@ -36,8 +39,8 @@ The HTML `<form>` element can contain one or more of the following form elements
 
 <table style="border-collapse: collapse;
     border-spacing: 0;
-    width: 100%;
     display: table;
+    margin: auto;
     border: 1px solid #ccc;">
 <tbody><tr>
 <th>Tag</th>
@@ -120,7 +123,7 @@ The HTML `<input>` element is a fundamental element used to create fields in a f
 
 The output of the code snippet looks like this.
 
-<img src="https://raw.githubusercontent.com/sarah-cic-uk/Code-the-Future/main/images/session3/sampleform.png" alt="sample form" width="100%">
+<img src="https://raw.githubusercontent.com/sarah-cic-uk/Code-the-Future/main/images/session3/sampleform.png" alt="sample form" width="50%">
 
 
 The HTML `<input>` element is the most used form element. An `<input>` element can be displayed in many ways, depending on the type attribute.
@@ -130,7 +133,7 @@ Here are some more examples:
 
 <table style="border-collapse: collapse;
     border-spacing: 0;
-    width: 100%;
+    margin: auto;
     display: table;
     border: 1px solid #ccc;">
  <tbody><tr>
@@ -172,7 +175,7 @@ In the above code example the `<label>` tag defines a label for form elements. T
 
   <table style="border-collapse: collapse;
     border-spacing: 0;
-    width: 100%;
+    margin: auto;
     display: table;
     border: 1px solid #ccc;">
  <tbody><tr>
@@ -230,11 +233,11 @@ In the above code example the `<label>` tag defines a label for form elements. T
 
 1. Create a user registration form. The registration form should:
 
-   - open up the "./formSuccess.html" page on submission
-   - contain four text fields - User Name, Email, Password and Confirm password (note type="password" for fields you want to mask)
-   - contain one button - Register
-   - All text fields must be mandatory
-   - User Name field must not allow more than 10 characters
+   * open up the "./formSuccess.html" page on submission
+   * contain four text fields - User Name, Email, Password and Confirm password (note type="password" for fields you want to mask)
+   * contain one button - Register
+   * All text fields must be mandatory
+   * User Name field must not allow more than 10 characters
 
    As part of this task you should create a file called formSuccess.html in the same folder as your index.html with the following content:
 
