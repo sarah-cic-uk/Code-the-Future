@@ -230,10 +230,10 @@ In the above code example the `<label>` tag defines a label for form elements. T
  </table>
 
 ## Activity
+<ol>
+    <li>Create a user registration form. The registration form should:</li>
+</ol>
 <ul>
-    <ol>
-        <li>Create a user registration form. The registration form should:</li>
-    </ol>
     <ul>
         <li>open up the "./formSuccess.html" page on submission</li>
         <li>contain four text fields - User Name, Email, Password and Confirm password (note type="password" for fields you want to mask)</li>
