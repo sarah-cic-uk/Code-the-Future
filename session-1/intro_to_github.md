@@ -158,12 +158,16 @@ You've now created a repository, cloned it down, made a change, committed that c
    
 <img src="https://raw.githubusercontent.com/sarah-cic-uk/Code-the-Future/main/images/session1/git-branches.png" alt="Git Branches" width="80%">
 
+
   <br/>
+
   <dt><b> Rollback </b></dt>
   <dd>Made a mistake and accidentally pushed it to GitHub? No problem, Git lets you rollback to the previous commit where everything was working properly so that those instances of the code can be deployed for the website and you (or your peers) don't face any problems. And during that time, you can fix the issue, and when it works properly, you can again deploy the new feature.</dd>
 </dl>
 
 ---
+
+### Resources
 
 [Git cheatsheet](https://education.github.com/git-cheat-sheet-education.pdf)
 

@@ -188,7 +188,7 @@ In the above code example the `<label>` tag defines a label for form elements. T
  </tr>
  <tr>
   <td>disabled</td>
-  <td>DSpecifies that an input field should be disabled</td>
+  <td>Specifies that an input field should be disabled</td>
  </tr>
  <tr>
   <td>max</td>
@@ -230,7 +230,7 @@ In the above code example the `<label>` tag defines a label for form elements. T
  </table>
 
 ## Activity
-
+<ul>
 1. Create a user registration form. The registration form should:
 
    * open up the "./formSuccess.html" page on submission
@@ -238,7 +238,7 @@ In the above code example the `<label>` tag defines a label for form elements. T
    * contain one button - Register
    * All text fields must be mandatory
    * User Name field must not allow more than 10 characters
-
+</ul>
    As part of this task you should create a file called formSuccess.html in the same folder as your index.html with the following content:
 
    ```

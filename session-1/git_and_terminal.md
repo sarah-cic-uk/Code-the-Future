@@ -60,18 +60,23 @@ Git Bash can be downloaded from https://git-scm.com/. There is a page with more 
 1. Open github and create a new repo:
 
 Navigate to the repositories tab and hit 'New':
+
 <img src="https://raw.githubusercontent.com/sarah-cic-uk/Code-the-Future/main/images/session1/github_dashboard.png" alt="github dashboard" width="80%"/>
 
 Create your repo with a README file:
+
 <img src="https://raw.githubusercontent.com/sarah-cic-uk/Code-the-Future/main/images/session1/create_repo.png" alt="create repo" width="80%"/>
 
 Now your repo exists, click the 'Code' button and select HTTPS (or SSH if you have set up an ssh key) and copy the url:
+
 <img src="https://raw.githubusercontent.com/sarah-cic-uk/Code-the-Future/main/images/session1/clone_url.png" alt="clone repo" width="80%"/>
 
 Next, return to your terminal and clone the repo using the url you have copied:   
+
 <img src="https://raw.githubusercontent.com/sarah-cic-uk/Code-the-Future/main/images/session1/clone.png" alt="clone Repo In Terminal" width="80%"/>
 
-1. move into your newly cloned repo: `cd code-the-future-demo` and list the files using `ls`. You should see your README.md
+1. move into your newly cloned repo: `cd code-the-future-demo` and list the files using `ls`. You should see your README.md   
+
    <img src="https://raw.githubusercontent.com/sarah-cic-uk/Code-the-Future/main/images/session1/open_repo_folder.png" alt="Navigate into repo folder" width="80%"/>
 
 1. Open your repo folder in VScode and edit the README.md
