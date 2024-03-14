@@ -21,7 +21,7 @@ An IDE, or Integrated Development Environment, enables programmers to consolidat
 
 IDEs increase programmer productivity by combining common activities of writing software into a single application: editing source code, building executables, and debugging.
 
-An IDE can help you with many aspects of programming, for example, an IDE that knows the syntax of your language can provide visual cues to highlight specific features of a language and in some cases it can anticipate what you’re going to type next!
+An IDE can help you with many aspects of programming, for example, an IDE that knows the syntax of your language can provide visual cues to highlight specific features of a language and in some cases it can anticipate what you're going to type next!
 
 ### Using VSCode
 
@@ -33,7 +33,7 @@ Visual Studio Code is a lightweight but powerful source code editor which runs o
 
 #### VSCode Layout
 
-![VSCode layout](../images/vscode-layout.png)
+<img src="https://raw.githubusercontent.com/sarah-cic-uk/Code-the-Future/main/images/vscode-layout.png" alt="VSCode layout" width="800">
 
 The interface is divided into five areas:
 
@@ -45,7 +45,7 @@ The interface is divided into five areas:
 
 #### Opening and creating folders and files
 
-![VSCode welcome](../images/vscode-welcome.png)
+<img src="https://raw.githubusercontent.com/sarah-cic-uk/Code-the-Future/main/images/vscode-welcome.png" alt="VSCode welcome" width="800">
 
 When opening VSCode, you'll see a welcome screen that has options for 'New file' and 'Open folder'. You can use these to create new files/folders or open existing ones.
 
@@ -67,7 +67,7 @@ Here are some extensions we'll be using
 #### Selecting the Color Theme
 
 In VS Code, open the Color Theme picker with File > Preferences > Color Theme. (Code > Preferences > Color Theme on macOS).
-You can also use the keyboard shortcut ⌘K ⌘T to display the picker.
+You can also use the keyboard shortcut cmd+K cmd+T to display the picker.
 Use the cursor keys to preview the colors of the theme.
 Select the theme you want and press Enter.
 
