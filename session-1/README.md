@@ -25,7 +25,7 @@ You'll also get your laptops set up to enable software development and learn abo
 - Set up your laptop for development
 - Learn about Git and how to use Github for version control
 
-<div style="width: 100%">
+<div class="nav-links" style="width: 100%">
 <a href='../README.md' ><-- Previous section: Introduction</a>
 <div align="right"><a  href='Meet_the_tutors.md'>Next section: Meet the Tutors --></a></div>
 </div>

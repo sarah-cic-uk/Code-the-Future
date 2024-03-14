@@ -34,13 +34,13 @@ To set up our repository there are a couple things to look out for:
 First off with the repository that name, there is a certain convention you must use so that GitHub pages can properly be hosted. This convention is {_your GitHub username_}.GitHub.io e.g., `joe.blogs.github.io` or `persion142.github.io`. The username section must be spelled exactly how your username is so that it can link you user with the repository and host the page correctly. If the repository you have made doesn't follow this you can change the name of an existing repository to match this is you wanted.
 
 First go to the Settings section of your repository.
-![repository](../images/session1/settings.png)
+<img src="https://raw.githubusercontent.com/sarah-cic-uk/Code-the-Future/main/images/session1/settings.png" alt="repository" width="100%">
 
 Second edit the Repository name under the general settings tab to match the naming convention needed.
-![repository](../images/session1/Repo-name.png)
+<img src="https://raw.githubusercontent.com/sarah-cic-uk/Code-the-Future/main/images/session1/Repo-name.png" alt="repository" width="100%">
 
 Second is the structure of the page. below is an example of the structure.
-![repository](../images/session1/folder-structure.png)
+<img src="https://raw.githubusercontent.com/sarah-cic-uk/Code-the-Future/main/images/session1/folder-structure.png" alt="repository" width="100%">
 
 Here we can see what is needed at what is called the top we want our index.html and README.md file, below this we would want to create folders for the other pages, the style, and images we would use within out webpage.
 
@@ -53,19 +53,19 @@ The reason that this file needs to stay named the way it is, is because GitHub P
 Once all your files are correctly setup and are named correctly, we can start hosting our website.
 
 Firstly, go to your repository on GitHub.com and click on the settings section at the top.
-![repository](../images/session1/settings.png)
+<img src="https://raw.githubusercontent.com/sarah-cic-uk/Code-the-Future/main/images/session1/settings.png" alt="repository" width="100%">
 
 Next on the left hand side you want to click on Pages under the Code and automation tab.
 
-![repository](../images/session1/setting-sections.png)
+<img src="https://raw.githubusercontent.com/sarah-cic-uk/Code-the-Future/main/images/session1/setting-sections.png" alt="repository" width="100%">
 
 Then once located on that page you want to keep the source as `Deploy from a branch`, under that we set the branch settings. Set the left box (The branch box) `as main` and set the next box along to `/(root)`, and click on `Save`.
 
 Below is an image of the settings you should have in the pages section. [If you have a custom domain sorted already you can use this custom domain name.](#using-a-custom-domain-name)
-![repository](../images/session1/pages-settings.png)
+<img src="https://raw.githubusercontent.com/sarah-cic-uk/Code-the-Future/main/images/session1/pages-settings.png" alt="repository" width="100%">
 
 After a few minutes your page should now be hosted on GitHub pages ready for you to share. Once the page is done you will have section at the top that will appear showing you the name of the page and if you want to stop hosting it.
-![repository](../images/session1/site-url.png)
+<img src="https://raw.githubusercontent.com/sarah-cic-uk/Code-the-Future/main/images/session1/site-url.png" alt="repository" width="100%">
 
 When progressing through the course any changes you push to your repository will trigger a build to run in the backgroun and deploy your site with the updated code.
 
