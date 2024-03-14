@@ -30,7 +30,7 @@ Now we are going to focus on the tags themselves and how they can ben used to bu
 
 Visual Code offers a really useful extension which will allow you to see you app and it will even update as you make changes and save them.
 
-![Open the extension panel in VSCode](../images/extensions_1.png)
+<img src="https://raw.githubusercontent.com/sarah-cic-uk/Code-the-Future/main/images/session2/extensions_1.png" alt="Open the extension panel in VSCode" width="100%">
 
 - In the search bar type `live server` and click on the top option which is published by Ritwick Dey.
 
@@ -40,7 +40,7 @@ Visual Code offers a really useful extension which will allow you to see you app
 
 - This should then open a new window in your default browser and you should see something like this:
 
-![A basic webpage with a some text on it](../images/initial_website_1.png)
+<img src="https://raw.githubusercontent.com/sarah-cic-uk/Code-the-Future/main/images/session2/initial_website_1.png" alt="A basic webpage with a some text on it" width="100%">
 
 ## Step Three
 

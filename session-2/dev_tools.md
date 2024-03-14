@@ -7,7 +7,8 @@
 ### In Chrome
 
 - Right-click the element and select Inspect
-  ![Open in Chrome](../images/open-dev-tools.png)
+  <img src="https://raw.githubusercontent.com/sarah-cic-uk/Code-the-Future/main/images/session2/open-dev-tools.png" alt="Open in Chrome" width="100%">
+
 - Or press Command+Option+C (Mac) or Control+Shift+C (Windows, Linux, Chrome OS).
 
 ## Using Dev tools
@@ -16,7 +17,8 @@
 
 The DOM Tree of the Elements panel is where you do can see all the HTML elements used on a page in DevTools.
 
-![Viewing elements](../images/view-elements.png)
+<img src="https://raw.githubusercontent.com/sarah-cic-uk/Code-the-Future/main/images/session2/view-elements.png" alt="Viewing elements" width="100%">
+
 
 ### Inspect an element
 
@@ -24,7 +26,8 @@ When you're interested in a part of the page, Inspect is a fast way to open DevT
 
 If you select the arrow icon in the top left corner of Devtools, you will then be able to select elements in the page and the will be highlighted in the elements panel.
 
-![Inspect an element](../images/inspect-element.png)
+<img src="https://raw.githubusercontent.com/sarah-cic-uk/Code-the-Future/main/images/session2/inspect-element.png" alt="Inspect an element" width="100%">
+
 
 ### Editing HTML
 
@@ -32,7 +35,8 @@ To edit attributes, double-click the element name or value, the text will be hig
 
 When you edit elements inside dev tools these changes won't be saved in your codebase, but it's a great way of prototyping changes.
 
-![Edit an element](../images/edit-element.png)
+<img src="https://raw.githubusercontent.com/sarah-cic-uk/Code-the-Future/main/images/session2/edit-element.png" alt="Edit an element" width="100%">
+
 
 ## Quick Activity
 

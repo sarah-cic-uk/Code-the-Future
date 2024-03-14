@@ -123,37 +123,43 @@ You've now created a repository, cloned it down, made a change, committed that c
 10. Click the blue "Commit to Main" button, then the "Push Origin" button on the top of the program.
 11. Head back to the GitHub website and take a look at your new repository, from here you should be able to see your name.
 
+
 ---
 
 ### Git Terms
 
 <dl>
-  <dt> Repository</dt>
+  <dt><b> Repository </b></dt>
   <dd>A repository contains all of your project’s files and each file’s revision history. Everyone can have a local copy on their own systems, with one stored safely on GitHub, that only you and anyone you choose can change.</dd>
 
-  <dt>Clone</dt>
+  <dt><b> Clone </b></dt>
   <dd>Means copying a repository to your local system to let you change without making changes to the safe repository on GitHub.</dd>
 
-  <dt>Commit</dt>
+  <dt><b> Commit </b></dt>
   <dd>Saving the changes that have been made, think of it as a stage of changes. It will look for anything that has been changed in the repository, package it up for you, ready to be pushed up to GitHub.</dd>
 
-  <dt>Push</dt>
+  <dt><b> Push </b></dt>
   <dd>The process of adding your commits to GitHub. Git will look for any commits that haven't already been pushed, then push up what remains.</dd>
 
-  <dt>Pull</dt>
+  <dt><b> Pull </b></dt>
   <dd>Useful when working with others on the same repository. The pull function lets you update your local copy of the repository, if there are any changes to the copy on GitHub.</dd>
 
-  <dt>Branch</dt>
-  <dd>Beyond the scope of this tutorial, branches allow for you to work on your code and push it to GitHub, without making changes to any code that you know is working. 
-  When you made your repository, you might've seen GitHub mention something called "Main Branch". This name was changed recently, so if you see references to "Master Branch", know that it means the "Main Branch".  
+  <dt><b> Branch </b></dt>
+  <dd>Beyond the scope of this tutorial, branches allow for you to work on your code and push it to GitHub, without making changes to any code that you know is working.
+  
+  When you made your repository, you might've seen GitHub mention something called "Main Branch". This name was changed recently, so if you see references to "Master Branch", know that it means the "Main Branch".
+
  You can make as many branches as you want, make sure the code works, then merge it into the Main Branch.</dd>
 
-  <dt>Pull Request</dt>
-  <dd>A pull request is when we want to pull the code of one branch into another.</dd>
+  <dt><b> Pull Request </b></dt>
+  <dd>A pull request is when we want to pull the code of one branch into another.</dd>   
+  <br/>
 
+   
 <img src="https://raw.githubusercontent.com/sarah-cic-uk/Code-the-Future/main/images/session1/git-branches.png" alt="Git Branches" width="100%">
 
-  <dt>Rollback</dt>
+  <br/>
+  <dt><b> Rollback </b></dt>
   <dd>Made a mistake and accidentally pushed it to GitHub? No problem, Git lets you rollback to the previous commit where everything was working properly so that those instances of the code can be deployed for the website and you (or your peers) don't face any problems. And during that time, you can fix the issue, and when it works properly, you can again deploy the new feature.</dd>
 </dl>
 
