@@ -94,7 +94,7 @@ If you get stuck or would like some inspiration on what to add to you page, you 
 ## Resources
 
 <ul>
-<li><a href='https://www.w3schools.com/tags/default.asp'>W3 Schools</a></li>
+<li><a href='https://www.w3schools.com/tags/default.asp' target='_blank'>W3 Schools</a></li>
 <li><a href='https://developer.mozilla.org/en-US/docs/Web/HTML/Element'>MDN Web Docs</a></li>
 </ul>
 
