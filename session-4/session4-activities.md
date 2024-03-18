@@ -2,7 +2,7 @@
 
 ## Session 4: Activities
 
-_NOTE: Read through and try to understand the code snippets provided above. Change the values of each property and see how it can impact the elements on the webpage. If you have any questions, reach out to the tutors._
+_NOTE: Read through and try to understand the code snippets from the previous sections. Change the values of each property and see how it can impact the elements on the webpage. If you have any questions, reach out to the tutors._
 
 ## Activity 1: Styling your Webpage
 
