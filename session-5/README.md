@@ -1,4 +1,6 @@
-# Session 5: Accessibility and Personal Project Planning
+# Code the Future </>
+
+## Session 5: Accessibility and Personal Project Planning
 
 ## Content Covered in this Session
 

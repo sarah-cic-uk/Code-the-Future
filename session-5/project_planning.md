@@ -16,9 +16,13 @@ and dive deeper into web development with the tutors support.
 
 There are some examples of first websites:
 
-- [Sarah's site from a free evening Intro to HTML/CSS course](http://neenan.github.io/sarah/)
-- [Darren's website from Code The Future Cohort October 2021](https://darrenfaleiro.github.io/Tech-Deals/)
-- [Kadijah's website from Code The Future Cohort October 2021](https://kay0218.github.io/RED/index.html)
+<ul>
+<li>
+<a href='http://neenan.github.io/sarah/'>Sarah's site from a free evening Intro to HTML/CSS course</a></li>
+<li>
+<a href='https://darrenfaleiro.github.io/Tech-Deals/'>Darren's website from Code The Future Cohort October 2021</a></li>
+<li>
+<a href='https://kay0218.github.io/RED/index.html'>Kadijah's website from Code The Future Cohort October 2021</a></li>
 
 ## Extra HTML Tips
 
