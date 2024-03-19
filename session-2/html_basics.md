@@ -50,8 +50,10 @@ HTML consists of a series of elements, which you use to enclose, or wrap, differ
 
 There are many different HTML elements that can be used for different things, some good resources to find out about different ones you can use are:
 
-- [W3 Schools](https://www.w3schools.com/tags/default.asp)
-- [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/HTML/Element)
+<ul>
+<li><a href='https://www.w3schools.com/tags/default.asp' target='_blank'>W3 Schools</a></li>
+<li><a href='https://developer.mozilla.org/en-US/docs/Web/HTML/Element' target='_blank'>MDN Web Docs</a></li>
+</ul>
 
 ## Common elements for marking up text
 
@@ -103,8 +105,10 @@ The most common list types are ordered and unordered lists:
 
 ## Resources
 
-- [W3 Schools](https://www.w3schools.com/tags/default.asp)
-- [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/HTML/Element)
+<ul>
+<li><a href='https://www.w3schools.com/tags/default.asp' target='_blank'>W3 Schools</a></li>
+<li><a href='https://developer.mozilla.org/en-US/docs/Web/HTML/Element' target='_blank'>MDN Web Docs</a></li>
+</ul>
 
 <div style="width: 100%">
 <a href='README.md'><-- Previous section: Session 2 Introduction</a>

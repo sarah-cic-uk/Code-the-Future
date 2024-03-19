@@ -75,15 +75,20 @@ You can find the perfect theme for you on the [VSCode marketplace](https://marke
 
 Some of my favourites are:
 
-- [Dracula](https://marketplace.visualstudio.com/items?itemName=dracula-theme.theme-dracula)
-- [Rainglow](https://marketplace.visualstudio.com/items?itemName=daylerees.rainglow)
-- [Pink cat boo](https://marketplace.visualstudio.com/items?itemName=ftsamoyed.theme-pink-cat-boo)
+<ul>
+<li><a href='https://marketplace.visualstudio.com/items?itemName=dracula-theme.theme-dracula' target='_blank'>Dracula</a></li>
+<li><a href='https://marketplace.visualstudio.com/items?itemName=daylerees.rainglow' target='_blank'>Rainglow</a></li>
+<li><a href='https://marketplace.visualstudio.com/items?itemName=ftsamoyed.theme-pink-cat-boo' target='_blank'>Pink cat boo</a></li>
+</ul>
+
 
 ## Resources
 
-- [VSCode keyboard shortcuts](https://code.visualstudio.com/assets/docs/getstarted/tips-and-tricks/KeyboardReferenceSheet.png)
-- [VSCode tips and trips](https://code.visualstudio.com/docs/getstarted/tips-and-tricks)
-- [VSCode intro videos](https://code.visualstudio.com/docs/getstarted/introvideos)
+<ul>
+<li><a href='https://code.visualstudio.com/assets/docs/getstarted/tips-and-tricks/KeyboardReferenceSheet.png' target='_blank'>VSCode keyboard shortcuts</a></li>
+<li><a href='https://code.visualstudio.com/docs/getstarted/tips-and-tricks' target='_blank'>VSCode tips and trips</a></li>
+<li><a href='https://code.visualstudio.com/docs/getstarted/introvideos' target='_blank'>VSCode intro videos</a></li>
+</ul>
 
 <div style="width: 100%">
 <a href='Meet_the_tutors.md' ><-- Previous section: Meet the Tutors</a>

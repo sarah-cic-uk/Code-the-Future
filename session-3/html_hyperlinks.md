@@ -73,7 +73,9 @@ If you get stuck or would like some inspiration on what to add to you page, you 
 
 <h2 id=Resources>Resources</h2>
 
-- [MDN Web Docs - HTML Links](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/a)
+<ul>
+<li><a href='https://developer.mozilla.org/en-US/docs/Web/HTML/Element/a' target='_blank'>MDN Web Docs - HTML Links</a></li>
+</ul>
 
 <div style="width: 100%">
 <a href='html_forms.md'><-- Previous section: HTML Forms</a>

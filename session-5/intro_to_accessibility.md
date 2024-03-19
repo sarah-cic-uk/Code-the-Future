@@ -168,16 +168,14 @@ No matter where you work or what role you play in the development process, we al
 
 ## Resources
 
-- [The A11y Project](https://www.a11yproject.com/) is a community-driven effort to make digital accessibility easier.
+<ul>
+<li><a href='https://www.a11yproject.com/' target='_blank'>The A11y Project</a> is a community-driven effort to make digital accessibility easier.</li>
+<li><a href='https://www.gov.uk/guidance/accessibility-requirements-for-public-sector-websites-and-apps' target='_blank'>Public Sector Accessibility Requirements</a></li>
+<li><a href='https://www.w3.org/TR/wai-aria-1.1/' target='_blank'>WAI Aria Recommendation</a></li>
+<li><a href='https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/ARIA_Techniques#landmark_roles' target='_blank'>Aria Roles, States and Properties</a></li>
+<li><a href='https://www.w3schools.com/html/html_accessibility.asp' target='_blank'>W3 Schools Accessibility Documentation</a></li>
+</ul>
 
-- [Public Sector Accessibility Requirements](https://www.gov.uk/guidance/accessibility-requirements-for-public-sector-websites-and-apps)
-
-- [WAI Aria Recommendation](https://www.w3.org/TR/wai-aria-1.1/)
-
-- [Aria Roles, States and Properties](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/ARIA_Techniques#landmark_roles)
-
-- [W3 Schools Accessibility Documentation](https://www.w3schools.com/html/html_accessibility.asp)
-  <br><br>
 
 <div style="width: 100%">
 <a href='../session-5/README.md'><-- Previous section:  Session 5 Introduction</a>

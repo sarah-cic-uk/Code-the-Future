@@ -89,13 +89,13 @@ And finally we have the `<head>` and `<body>` tags. The head tag includes all of
 
 ## Example finished activity
 
-If you get stuck or would like some inspiration on what to add to you page, you can check out the <a href='https://raw.githubusercontent.com/sarah-cic-uk/Code-the-Future/main/session-2/example-finished-activities/index_section_02_example.html'>example finished activity</a>
+If you get stuck or would like some inspiration on what to add to you page, you can check out the <a href='https://raw.githubusercontent.com/sarah-cic-uk/Code-the-Future/main/session-2/example-finished-activities/index_section_02_example.html' target='_blank'>example finished activity</a>
 
 ## Resources
 
 <ul>
 <li><a href='https://www.w3schools.com/tags/default.asp' target='_blank'>W3 Schools</a></li>
-<li><a href='https://developer.mozilla.org/en-US/docs/Web/HTML/Element'>MDN Web Docs</a></li>
+<li><a href='https://developer.mozilla.org/en-US/docs/Web/HTML/Element' target='_blank'>MDN Web Docs</a></li>
 </ul>
 
 <div style="width: 100%">

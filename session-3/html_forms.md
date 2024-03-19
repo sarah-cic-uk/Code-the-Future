@@ -262,8 +262,10 @@ In the above code example the `<label>` tag defines a label for form elements. T
 
 ## Resources
 
-- [W3 Schools](https://www.w3schools.com/html/html_forms.asp)
-- [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/form)
+<ul>
+<li><a href='https://www.w3schools.com/html/html_forms.asp' target='_blank'>W3 Schools - Forms</a></li>
+<li><a href='https://developer.mozilla.org/en-US/docs/Web/HTML/Element/form' target='_blank'>MDN Web Docs</a></li>
+</ul>
 
 <div style="width: 100%">
 <a href='html_images_tables.md'><-- Previous section: HTML Images and Tables</a>

@@ -46,16 +46,20 @@ There will likely some elements you're not familiar with yet but don't worry! Ta
 
 1. Go to one of your favourite pages and inspect the page. If you're not sure where to look, here's some sites you can take a look at:
 
-- [FreeCodeCamp](https://www.freecodecamp.org/)
-- [Codecademy](https://www.codecademy.com/)
+<ul>
+<li><a href='https://www.freecodecamp.org/' target='_blank'>FreeCodeCamp</a></li>
+<li><a href='https://www.codecademy.com/' target='_blank'>Codecademy</a></li>
+</ul>
 
 2. See what elements they are using, inspect some of them and see if you can change any of the content.
-3. Pick out a few of the elements that they have used that you've not seen before and see if you can use [W3 Schools](https://www.w3schools.com/tags/default.asp) to find out what they are.
+3. Pick out a few of the elements that they have used that you've not seen before and see if you can use <a href='https://www.w3schools.com/tags/default.asp' target='_blank'>W3 Schools</a> to find out what they are.
 
 ## Resources
 
-- [Dev tools docs - Overview](https://developer.chrome.com/docs/devtools/overview/)
-- [Dev tools docs - Editing HTML](https://developer.chrome.com/docs/devtools/dom/)
+<ul>
+<li><a href='https://developer.chrome.com/docs/devtools/overview/' target='_blank'>Dev tools docs - Overview</a></li>
+<li><a href='https://developer.chrome.com/docs/devtools/dom/' target='_blank'>Dev tools docs - Editing HTML</a></li>
+</ul>
 
 <div style="width: 100%">
 <a href='html_basics.md'><-- Previous section: HTML Basics</a>

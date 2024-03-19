@@ -169,7 +169,9 @@ You've now created a repository, cloned it down, made a change, committed that c
 
 ### Resources
 
-[Git cheatsheet](https://education.github.com/git-cheat-sheet-education.pdf)
+<ul>
+<li><a href='https://education.github.com/git-cheat-sheet-education.pdf' target='_blank'>Git cheatsheet</a></li>
+</ul>
 
 <div style="width: 100%">
 <a href='intro_to_ide.md'><-- Previous section: The Developer Environment</a>
