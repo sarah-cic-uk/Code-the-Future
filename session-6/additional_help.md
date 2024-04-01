@@ -19,12 +19,13 @@ Great job for completing the 6-session course and building your own website! You
 <ul><li>Tutorials Point originated from the idea that there exists a class of readers who respond better to online content and prefer to learn new skills at their own pace from the comforts of their drawing rooms.</li></ul>
 <li><a href='https://discord.com/' target='_blank'>Discord</a></li>
 <ul><li>This is a group-chatting app originally built for gamers that has since become a general use platform that allows you to directly connect with other people within your niche. Just download and install this on to your machine and you would be able to join communities and discuss or ask questions about anything!</li></ul>
-<ul><li>There are many <a href='https://medium.com/cbblog/understanding-discord-channels-and-categories-431a77f31abe' target='_blank'>channels</a> available for web development that you can join:</li></ul>
+<ul><li>There are many <a href='https://medium.com/cbblog/understanding-discord-channels-and-categories-431a77f31abe' target='_blank'>channels</a> available for web development that you can join:</li>
 <ul>
 <li><a href='https://discord.me/wdnf' target='_blank'>#wdnf</a> Web Developers & Friends is a friendly community of web developers, designers, and programmers. This is mainly focused on helping junior web developers with their code problems and giving them advise. It is made to be easy to understand and simple</li>
 <li><a href='https://discord.me/frontenddevelopers' target='_blank'>#FrontEndDevelopers</a> This is a Creative Web Developer community whose goal is to connect developers of all stripes and aid in continued growth in their careers and the pursuit of knowledge.</li>
 <li><a href='https://discord.me/htmlcss' target='_blank'>#htmlcss</a> They provide HTML and CSS support along with several other languages.</li>
 <li><a href='https://discord.me/webdevs' target='_blank'>#WebDevs</a> They provide HTML and CSS support along with several other languages.</li>
+</ul>
 </ul>
 </ul>
 
