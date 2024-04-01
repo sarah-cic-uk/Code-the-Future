@@ -18,7 +18,7 @@ In this example you will see a few different ways that you can implement hyperli
 ```
 
 - To link to another webpage though an image, eg.
-  <a href="https://www.ibm.com/employment/ciceurope/uk-en"> <img src="../images/ibm-logo.png" alt="IBM logo" height=50> </a>
+  <a href="https://www.ibm.com/employment/ciceurope/uk-en"> <img src="https://raw.githubusercontent.com/sarah-cic-uk/Code-the-Future/main/images/session3/ibm-logo.png" alt="IBM logo" height=50> </a>
 
 ```
 <a href="https://www.ibm.com/employment/ciceurope/uk-en"> <img src="../images/ibm-logo.png" alt="IBM logo" height=50> </a>
@@ -46,7 +46,7 @@ So far, we have built a basic single page HTML website with an `index.html` file
 
 Here, we have an example of a structure, where we have a "Home", an "About me" and a "Contact" page:
 
-<img src="https://raw.githubusercontent.com/sarah-cic-uk/Code-the-Future/main/images/session3/html-pages.jpeg" alt="HTML website structure" width="80%">
+<img src="https://raw.githubusercontent.com/sarah-cic-uk/Code-the-Future/main/images/session3/html-pages.png" alt="HTML website structure" width="80%">
 
 
 HTML pages that branch off from the `index.html` page still follows the same structure that we have learnt in this course. Since the `index.html` page is our homepage, we want to be able to navigate to these additional pages that we add. As we have just learnt, these can be done through hyperlinks:
@@ -67,9 +67,9 @@ In this activity, you are going to grow your website from a single page to multi
 ## Example finished activity
 
 You can browse the files that have been updated in this folder and try to follow the folder structure going forward.<br>
-<a href='./example-finished-activities-session3'>Finished Examples</a>
+<a href='https://raw.githubusercontent.com/sarah-cic-uk/Code-the-Future/main/session-3/example-finished-activities-session3/index.html'>Finished Examples</a>
 
-If you get stuck or would like some inspiration on what to add to you page, you can check out the example finished activity for the updated code [index file](example-finished-activities-session3/index.html) and the newly created [success form page](example-finished-activities-session3/html/formSuccess.html) for the hyperlink section.
+If you get stuck or would like some inspiration on what to add to you page, you can check out the example finished activity for the updated code <a href='https://raw.githubusercontent.com/sarah-cic-uk/Code-the-Future/main/session-3/example-finished-activities-session3/index.html' target='_blank'>index file</a> and the newly created <a href='https://raw.githubusercontent.com/sarah-cic-uk/Code-the-Future/main/session-3/example-finished-activities-session3/html/formSuccess.html' target='_blank'>success form page</a> for the hyperlink section.
 
 <h2 id=Resources>Resources</h2>
 

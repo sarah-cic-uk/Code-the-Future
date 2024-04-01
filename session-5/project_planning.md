@@ -7,7 +7,7 @@ It can be hard to know where to start with a project, so here's some tips to hel
 - Plan out what pages you want.
 - Plan out the content/images you want on the pages.
 - Are there any features you know you want, like a gallery or social media buttons?
-  - Is there any learning/research you need to do to be able to do this?
+- Is there any learning/research you need to do to be able to do this?
 
 ## Example projects
 
@@ -43,12 +43,14 @@ The code for adding meta data is simple, you put the following in the `<head></h
 
 ### Resources and how-to's
 
-- [HTML Meta](https://www.w3schools.com/tags/tag_meta.asp)
-- [CSS Parallax](https://www.w3schools.com/howto/howto_css_parallax.asp)
-- [Slideshow Gallery](https://www.w3schools.com/howto/howto_js_slideshow_gallery.asp)
-- [Sticky Socials](https://www.w3schools.com/howto/howto_css_sticky_social_bar.asp)
-- [Sidebar](https://www.w3schools.com/howto/howto_js_collapse_sidebar.asp)
-- [Social Media Buttons](https://www.w3schools.com/howto/howto_css_social_media_buttons.asp)
+<ul>
+<li><a href='https://www.w3schools.com/tags/tag_meta.asp' target='_blank'>HTML Meta</a></li>
+<li><a href='https://www.w3schools.com/howto/howto_css_parallax.asp' target='_blank'>CSS Parallax</a></li>
+<li><a href='https://www.w3schools.com/howto/howto_js_slideshow_gallery.asp' target='_blank'>Slideshow Gallery</a></li>
+<li><a href='https://www.w3schools.com/howto/howto_css_sticky_social_bar.asp' target='_blank'>Sticky Socials</a></li>
+<li><a href='https://www.w3schools.com/howto/howto_js_collapse_sidebar.asp' target='_blank'>Sidebar</a></li>
+<li><a href='https://www.w3schools.com/howto/howto_css_social_media_buttons.asp' target='_blank'>Social Media Buttons</a></li>
+</ul>
 
 <div style="width: 100%">
 <a href='../session-5/accessibility_tools_tips.md'><-- Previous section: Accessibility Tools</a>

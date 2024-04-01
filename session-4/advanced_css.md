@@ -4,7 +4,7 @@
 
 ## More CSS Selectors and More Advanced Concepts
 
-- **Pseudo-Classes**
+**Pseudo-Classes**
 
   - This can be used to style an element based on something other than the structure of the document.
 
@@ -28,7 +28,7 @@
     }
     ```
 
-- **Universal Selector**
+**Universal Selector**
   - This acts as a wildcard that matches to all available elements and it is denoted by an `*`.
   - This is used to apply a specific style on every element on a page.
     ```css
@@ -37,7 +37,7 @@
       font: 15px Arial, sans-serif;
     }
     ```
-- **Inheritance**
+**Inheritance**
 
   - Properties (e.g. color, font size) are inherited by the descendants of the elements those styles are applied to.
 
@@ -63,7 +63,7 @@
     }
     ```
 
-- **Measurement Units**
+**Measurement Units**
 
   | Absolute        | Relative |
   | --------------- | -------- |
@@ -80,10 +80,12 @@
 
 CSS has limitations and it is hard to maintain - since it's not a programming language, it cannot define variables, nesting selectors, expressions, functions etc. **CSS Preprocessors** address these. Some of the most popular ones are:
 
-- [Less](https://lesscss.org/)
-- [Sass (Syntactically Awesome Style Sheets)](https://sass-lang.com/)
-- [Scss (Sassy CSS)](https://medium.com/@jgoz/sassy-css-scss-quick-guide-b38f51c6868a)
-- [Stylus](https://stylus-lang.com/)
+<ul>
+<li><a href='https://lesscss.org/' target='_blank'>Less</a></li>
+<li><a href='https://sass-lang.com/' target='_blank'>Sass (Syntactically Awesome Style Sheets)</a></li>
+<li><a href='https://medium.com/@jgoz/sassy-css-scss-quick-guide-b38f51c6868a' target='_blank'>Scss (Sassy CSS)</a></li>
+<li><a href='https://stylus-lang.com/' target='_blank'>Stylus</a></li>
+</ul>
 
 ## Responsive Web Design
 
@@ -127,12 +129,12 @@ It is also possible to use a different stylesheet for different media. The diffe
 
 CSS Frameworks provide an abstraction for common web designs and makes it easier for developers to implement the styling and "responsiveness" of their web pages as well enables cross-browser functionality. A CSS Framework is a collection of CSS Stylesheets that are ready to use - helps you save time as you don't have to create the styling from scratch. Here are some examples:
 
-- **Bootstrap**
+**Bootstrap**
 
   - This is the most popular and (arguably) the best CSS framework.
   - It comes with pre-defined components - which are built using HTML, SASS, and JavaScript and has a large community support.
   - It provides a very detailed documentation with layouts that are easy to understand.
-  - Check out [https://getbootstrap.com/](https://getbootstrap.com/) for more information and also see some live-demos.
+  - Check out <a href='https://getbootstrap.com/' target='_blank'>https://getbootstrap.com/</a> for more information and also see some live-demos.
 
   Example Setup for using Bootstrap followed below:
 
@@ -214,50 +216,55 @@ CSS Frameworks provide an abstraction for common web designs and makes it easier
 
 What the above peice of code is doing is mainly setting classes that are being set or edited with CSS that is coming from Bootstrap, similar to how we have shown you to select the classes you added to certain elements.
 
-Reference to the page of usable Bootstrap classes - [https://getbootstrap.com/docs/5.3/getting-started/introduction/](https://getbootstrap.com/docs/5.3/getting-started/introduction/)
+Reference to the page of usable Bootstrap classes: <a href='https://getbootstrap.com/docs/5.3/getting-started/introduction/' target='_blank'>https://getbootstrap.com/docs/5.3/getting-started/introduction/</a>
 
-- **Tailwind CSS**
+**Tailwind CSS**
 
   - This is highly customisable to provides the building blocks instead of pre-defined components.
   - You get a set of CSS Helper Classes which can be used to create your own custom design.
-  - Checkout [https://tailwindcss.com/](https://tailwindcss.com/) for more information and also [Tailwind CSS Github Page](https://github.com/tailwindlabs/tailwindcss).
+  - Checkout <a href='https://tailwindcss.com/' target='_blank'>https://tailwindcss.com/</a> for more information and also <a href='https://github.com/tailwindlabs/tailwindcss' target='_blank'>Tailwind CSS Github Page</a>.
 
-- **Materialize CSS**
+**Materialize CSS**
 
   - Fully responsive front-end framework and it has a shallow learning curve - it has a comprehensive documentation.
-  - It provides free [Materialize Admin Templates](https://themeselection.com/20-top-premium-free-material-design-admin-template/).
-  - Check out [https://materializecss.com/](https://materializecss.com/) for more information.
+  - It provides free <a href='https://themeselection.com/20-top-premium-free-material-design-admin-template/' target='_blank'>Materialize Admin Templates</a>.
+  - Check out <a href='https://materializecss.com/' target='_blank'>https://materializecss.com/</a> for more information.
 
-- **Material Design Lite**
+**Material Design Lite**
 
-  - Based on Material Design created by Google, and it can be used with [Elm](<https://en.wikipedia.org/wiki/Elm_(programming_language)>), a language for Graphical User Interfaces.
+  - Based on Material Design created by Google, and it can be used with <a href='https://en.wikipedia.org/wiki/Elm_(programming_language)' target='_blank'>Elm</a>, a language for Graphical User Interfaces.
   - It provides an out-of-the-box solution that can also be customised.
-  - Check out [https://getmdl.io/components/index.html](https://getmdl.io/components/index.html) for more information.
+  - Check out <a href='https://getmdl.io/components/index.html' target='_blank'>https://getmdl.io/components/index.html</a> for more information.
 
-- **Foundation**
+**Foundation**
   - Advanced front-end CSS Framework which is built with HTML, CSS, SASS, and JavaScript.
   - This uses a mobile-first approach and typically used for larger web application.
-  - Check out [https://get.foundation/](https://get.foundation/) for more information.
+  - Check out <a href='https://get.foundation/' target='_blank'>https://get.foundation/</a> for more information.
 
 ---
 
 ## Example finished activity
 
 You can browse the files that have been updated in this folder and try to follow the folder structure going forward.<br>
-<a href='./example-finished-activities-session4'>Finished Examples</a>
+<a href='https://raw.githubusercontent.com/sarah-cic-uk/Code-the-Future/main/session-4/example-finished-activities-session4/index.html' target='_blank'>Finished Examples</a>
 
-If you get stuck or would like some inspiration on what to add to you page, you can check out the [index file](example-finished-activities-session4/index.html) for the updated code, here for the [success form page](example-finished-activities-session4/html/formSuccess.html), and here for the new [stylesheet](example-finished-activities-session4/style/myStyleSheet.css) we have created.
+If you get stuck or would like some inspiration on what to add to you page, you can check out the <a href='https://raw.githubusercontent.com/sarah-cic-uk/Code-the-Future/main/session-4/example-finished-activities-session4/index.html' target='_blank'>index file</a> for the updated code, here for the <a href='https://raw.githubusercontent.com/sarah-cic-uk/Code-the-Future/main/session-4/example-finished-activities-session4/html/formSuccess.html' target='_blank'>success form page</a>, and here for the new <a href='https://raw.githubusercontent.com/sarah-cic-uk/Code-the-Future/main/session-4/example-finished-activities-session4/style/myStyleSheet.css' target='_blank'>stylesheet</a> we have created.
 
-For the advanced CSS you can follow these links ot the files created in the folder.<br>
-[Flexbox Example](example-finished-activities-session4/html/flexbox.html)<br>
-[Grid Example](example-finished-activities-session4/html/grid_sample.html)<br>
-[Flex and Grid Stylesheet](example-finished-activities-session4/style/layout_stylesheet.css)<br>
+For the advanced CSS you can follow these links ot the files created in the folder.
+<ul>
+<li><a href='https://raw.githubusercontent.com/sarah-cic-uk/Code-the-Future/main/session-4/example-finished-activities-session4/html/flexbox.html' target='_blank'>Flexbox Example</a></li>
+<li><a href='https://raw.githubusercontent.com/sarah-cic-uk/Code-the-Future/main/session-4/example-finished-activities-session4/html/grid_sample.html' target='_blank'>Grid Example</a></li>
+<li><a href='https://raw.githubusercontent.com/sarah-cic-uk/Code-the-Future/main/session-4/example-finished-activities-session4/style/layout_stylesheet.css' target='_blank'>Flex and Grid Stylesheet</a></li>
+</ul>
+
 
 ## Useful Links
 
-- [CSS Cheat Sheet](https://htmlcheatsheet.com/css/)
-- [More CSS Tutorials in Tutorialspoint](https://www.tutorialspoint.com/css/index.htm)
-- [CSS Reference @ W3 Schools](https://www.w3schools.com/cssref/default.asp)
+<ul>
+<li><a href='https://htmlcheatsheet.com/css/' target='_blank'>CSS Cheat Sheet</a></li>
+<li><a href='https://www.tutorialspoint.com/css/index.htm' target='_blank'>More CSS Tutorials in Tutorialspoint</a></li>
+<li><a href='https://www.w3schools.com/cssref/default.asp' target='_blank'>CSS Reference @ W3 Schools</a></li>
+</ul>
 
 <div style="width: 100%">
 <a href='layouts.md'><-- Previous section: Layouts in CSS</a>

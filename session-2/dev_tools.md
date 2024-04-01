@@ -42,7 +42,7 @@ When you edit elements inside dev tools these changes won't be saved in your cod
 
 In this activity, you're going to inspect the html that makes up one of your favourite sites to see what elements they're using.
 This will help you get familiar with using dev tools and see how some of the elements you've learned about so far are used in live sites.
-There will likely some elements you're not familiar with yet but don't worry! Take a look through and see if you can figure out what they're used for, you can also check on [W3 Schools](https://www.w3schools.com/tags/default.asp) if you're not sure.
+There will likely some elements you're not familiar with yet but don't worry! Take a look through and see if you can figure out what they're used for, you can also check on <a href='https://www.w3schools.com/tags/default.asp' target='_blank'>W3 Schools</a> if you're not sure.
 
 1. Go to one of your favourite pages and inspect the page. If you're not sure where to look, here's some sites you can take a look at:
 

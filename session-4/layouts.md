@@ -24,24 +24,26 @@ CSS Flexible Layout Module (Flexbox) is a new technique to improve the way the e
   <img src="https://raw.githubusercontent.com/sarah-cic-uk/Code-the-Future/main/images/session4/flexbox_components.png" alt="flexbox components" width="80%">
 
 
-- Main Components of a Flexbox are:
+Main Components of a Flexbox are:
   - _Flex Container_ - it groups the Flex Items
   - _Flex Items_ - it is contained in a Flex Container
   - _Main Axis_ - how the items are laid out across the page (from left to right)
   - _Cross Axis_ - how the items are laid out from top to bottom
-- You can define a value for the following properties for the Flex Container:
+
+You can define a value for the following properties for the Flex Container:
   - `display: flex || inline-flex` to make the container flexible
   - `flex-direction: row || row-reverse || column || column-reverse` to defined the direction that the container wants to set for the flex items
   - `flex-wrap: nowrap || wrap` to define whether it should be displayed on a single or multiple lines
   - `flex-flow: row wrap` combining the direction and the wrap
   - `justify-content: flex-start || flex-end || center || space-between || space-around || space-evenly` align the elements along the main axis of the container
   - `align-items: stretch || flex-start || flex-end || center || baseline` align the element along the cross axis of the container
-  - `align-content: stretch || flex-start || flex-end || center || space-between || space-around` similar to align-items but used if it has extra space in the cross axis
-- You can define the following properties for the Flex Items:
+  - `align-content: stretch || flex-start || flex-end || center || space-between || space-around` similar to align-items but used if it has extra space in the cross axis   
+
+You can define the following properties for the Flex Items:
   - `order: 0 || [number]` helps add an ordering of the items
   - `align-self: auto || stretch || flex-start || flex-end || center || baseline` for aligning individual flex items
   - `flex-grow: 0 || [number]`, `flex-basis: auto || [length]`, `flex-shrink: 1 || [number]` change the size of the flex items
-- For more information, checkout [Complete Guide to CSS Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+- For more information, checkout <a href='https://css-tricks.com/snippets/css/a-guide-to-flexbox/' target='_blank'>Complete Guide to CSS Flexbox</a>
 
 ### CSS Grid
 
@@ -50,7 +52,7 @@ Another modern technique to improve the way the element are laid out on a page w
   <img src="https://raw.githubusercontent.com/sarah-cic-uk/Code-the-Future/main/images/session4/grid_components.png" alt="grid components" width="80%">
 
 
-- Main components of a Grid are:
+Main components of a Grid are:
 
   - _Grid Containers_ - it groups the Grid items
   - _Grid Items_ - what is inside the Grid container
@@ -58,7 +60,7 @@ Another modern technique to improve the way the element are laid out on a page w
   - _Row Axis_ - horizontal direction
   - _Grid Lines_ - horizontal and vertical lines that separate rows and columns in a Grid container
 
-- More complete information about CSS Grids can be found in [Complete Guide to CSS Grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
+More complete information about CSS Grids can be found in <a href='https://css-tricks.com/snippets/css/complete-guide-grid/' target='_blank'>Complete Guide to CSS Grid</a>
 
 <div style="width: 100%">
 <a href='introduction_to_css.md'><-- Previous section: Introduction to CSS</a>

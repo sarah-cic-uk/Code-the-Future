@@ -18,7 +18,7 @@ In this exercise, you will add styling to your `index.html` page that you've cre
    }
    ```
 
-   _Note: You can change the color to anything you want. You can either use the actual [color names supported by all browsers](https://www.w3schools.com/cssref/css_colors.asp) or use [hexcodes](https://htmlcolorcodes.com/) by replacing the word "green" with a hexcode (e.g. `color: #008000;`)_
+   _Note: You can change the color to anything you want. You can either use the actual <a href='https://www.w3schools.com/cssref/css_colors.asp' target='_blank'>color names supported by all browsers</a> or use <a href='https://htmlcolorcodes.com/' target='_blank'>hexcodes</a> by replacing the word "green" with a hexcode (e.g. `color: #008000;`)_
 
 3. Open your `index.html` then add the following inside the `<head>` section
 
@@ -43,7 +43,7 @@ In this exercise, you will add styling to your `index.html` page that you've cre
 
 For this activity, we are going to create this on a webpage to understand how to use Flexbox.
 
-![image](../images/session4/flexbox_activity1.png)
+<img src="https://raw.githubusercontent.com/sarah-cic-uk/Code-the-Future/main/images/session4/flexbox_activity1.png" alt="flexbox activity image" width="80%">
 
 1. Open Visual Studio code and create a new HTML file and call it `flexbox_sample.html` and a new CSS file and call it `layout_stylesheet.css`
 2. Open the `flexbox_sample.html` and copy the following and save the file
@@ -113,7 +113,7 @@ For this activity, we are going to create this on a webpage to understand how to
 
 For this activity, we are going to create this on a webpage to understand how to use Grids.
 
-![image](../images/session4/grid_activity1.png)
+<img src="https://raw.githubusercontent.com/sarah-cic-uk/Code-the-Future/main/images/session4/grid_activity1.png" alt="grid activity image" width="80%">
 
 1. Open Visual Studio code and create a new HTML file and call it `grid_sample.html` and copy the following and save the file
 
@@ -172,11 +172,11 @@ For this activity, we are going to create this on a webpage to understand how to
 
 ## Activity 3: Style and Add Layout to your Web Page
 
-Using the skills you've learned for this session, change your `index.html` to improve the appearance of your web page to your preference. You can also change the layout of your page to add headers/footers, navigation bar, etc. Here are some sample [CSS Templates](https://www.w3schools.com/css/css_templates.asp) for inspiration.
+Using the skills you've learned for this session, change your `index.html` to improve the appearance of your web page to your preference. You can also change the layout of your page to add headers/footers, navigation bar, etc. Here are some sample <a href='https://www.w3schools.com/css/css_templates.asp' target='_blank'>CSS Templates</a> for inspiration.
 
 _BONUS: Use one of the CSS Frameworks of your choice (can be one of the examples mentioned above or something else) and apply it to your web pages._
 
-_EXTRA ACTIVITY: For testing out oyur knowlwdge on Flexbox and Grid you can visit these sites [Flexbox Froggy](https://flexboxfroggy.com/) and [Grid Garden](https://cssgridgarden.com/)._
+_EXTRA ACTIVITY: For testing out oyur knowlwdge on Flexbox and Grid you can visit these sites <a href='https://flexboxfroggy.com/' target='_blank'>Flexbox Froggy</a> and <a href='https://cssgridgarden.com/' target='_blank'>Grid Garden</a>._
 
 <div style="width: 100%">
 <a href='introduction_to_css.md'><-- Previous section: Advanced CSS</a>

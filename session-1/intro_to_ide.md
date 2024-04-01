@@ -25,7 +25,7 @@ An IDE can help you with many aspects of programming, for example, an IDE that k
 
 ### Using VSCode
 
-Note: if you haven't already downloaded VSCode, please use the following link to do so: [Download VSCode](https://code.visualstudio.com/)
+Note: if you haven't already downloaded VSCode, please use the following link to do so: <a href='https://code.visualstudio.com/' target='_blank'>Download VSCode</a>
 
 #### What is VSCode
 
@@ -71,7 +71,7 @@ You can also use the keyboard shortcut cmd+K cmd+T to display the picker.
 Use the cursor keys to preview the colors of the theme.
 Select the theme you want and press Enter.
 
-You can find the perfect theme for you on the [VSCode marketplace](https://marketplace.visualstudio.com/search?target=VSCode&category=Themes&sortBy=Installs)!
+You can find the perfect theme for you on the <a href='https://marketplace.visualstudio.com/search?target=VSCode&category=Themes&sortBy=Installs' target='_blank'>VSCode marketplace</a>
 
 Some of my favourites are:
 

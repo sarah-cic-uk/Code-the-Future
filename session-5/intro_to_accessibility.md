@@ -21,7 +21,7 @@ This includes supporting those with:
 
 Why?? Because over 1 billion people have disabilities... That's 1/7th of the population!
 
-Making your website more accessible not only benefits those who need the additional support but generally means the websites are easier to use and gain higher rankings on search engines. It's a win-win all round! Not to mention that in certain cases (like in the public sector) it is a legal requirement for websites to meet certain accessibility requirements e.g. [WCAG](https://www.gov.uk/service-manual/helping-people-to-use-your-service/understanding-wcag).
+Making your website more accessible not only benefits those who need the additional support but generally means the websites are easier to use and gain higher rankings on search engines. It's a win-win all round! Not to mention that in certain cases (like in the public sector) it is a legal requirement for websites to meet certain accessibility requirements e.g. <a href='https://www.gov.uk/service-manual/helping-people-to-use-your-service/understanding-wcag' target='_blank'>WCAG</a>.
 
 ## Common Assistive Technologies
 
@@ -45,9 +45,9 @@ Examples of semantic elements: `<form>, <table>, and <article>` - These clearly 
 
 Another important part of a logical and semantic document structure is making sure your heading are in the correct order! Only have 1 `<h1></h1>` per page so assistive technologies know this is the main page title and try not to skip heading levels because these are very helpful when navigating in a non-visual way.
 
-Have a look at all the [semantic elements available](https://www.w3schools.com/html/html5_semantic_elements.asp).
+Have a look at all the <a href='https://www.w3schools.com/html/html5_semantic_elements.asp' target='_blank'>semantic elements available</a>.
 
-See [this page on HTML Semantics](http://web-accessibility.carnegiemuseums.org/foundations/semantic/) for more information.
+See <a href='http://web-accessibility.carnegiemuseums.org/foundations/semantic/' target='_blank'>this page on HTML Semantics</a> for more information.
 
 ## Aria
 
@@ -61,7 +61,7 @@ This is an attribute you can add to a element to help clarify what the expected 
 
 Most roles should no longer be used as browsers now support semantic HTML element with the same meaning. The roles without HTML equivalents, such as presentation, toolbar and tooltip roles, provide information on the document structure to assistive technologies such as screen readers as equivalent native HTML tags are not available.
 
-There a variety of [aria roles](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Roles) available but some common ones include:
+There a variety of <a href='https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Roles' target='_blank'>aria roles</a> available but some common ones include:
 
 - **Alert**: Used to alert the user that something has changed on their page - screen readers will start reading the alert when it pops up.
 
@@ -88,7 +88,7 @@ Example of setting a role, we have an input here that we want to add a tooltip t
 
 ### Aria States and Properties
 
-[Aria States and Properties](https://www.w3.org/TR/wai-aria-1.0/states_and_properties) support the ARIA roles that exist on a page and can supply extra user interface information that is useful for assistive technologies. Whenever these states or properties change the assistive technology can pickup the update and alert the user that a change has occurred.
+<a href='https://www.w3.org/TR/wai-aria-1.0/states_and_properties' target='_blank'>Aria States and Properties</a> support the ARIA roles that exist on a page and can supply extra user interface information that is useful for assistive technologies. Whenever these states or properties change the assistive technology can pickup the update and alert the user that a change has occurred.
 
 e.g. 'aria-disabled' is a state saying whether a particular item is interactive.
 
@@ -99,7 +99,7 @@ e.g. 'aria-disabled' is a state saying whether a particular item is interactive.
 **Aria-labelledby**: allows label to be set based on other IDs. Role elements good to do with these e.g. radio group. Can concatenate several labels into one . Can be used on hidden elements. Always takes precedence. If there is visible text labeling the element, use aria-labelledby instead.
 
 **Aria-describedby**: is used to indicate the IDs of the elements that describe the object. Similar to labelledby but gives additional info to help the user. e.g. helper text that isn't always visible
-Check out [Google's info on Aria Labelling](https://developers.google.com/web/fundamentals/accessibility/semantics-aria/aria-labels-and-relationships) to learn more!
+Check out <a href='https://developers.google.com/web/fundamentals/accessibility/semantics-aria/aria-labels-and-relationships' target='_blank'>Google's info on Aria Labelling</a> to learn more!
 
 <br>
 
@@ -112,7 +112,7 @@ Check out [Google's info on Aria Labelling](https://developers.google.com/web/fu
 - Over-using aria can be bad too!
 - Always remember to update your labels when you change your UI!
 
-To recap on all of the above valuable tips read an article on [Bad vs. Good Accessible Designs](https://usabilitygeek.com/bad-vs-good-accessible-designs/) to reinforce whats been discussed.
+To recap on all of the above valuable tips read an article on <a href='https://usabilitygeek.com/bad-vs-good-accessible-designs/' target='_blank'>Bad vs. Good Accessible Designs</a> to reinforce whats been discussed.
 
 <br>
 
@@ -120,17 +120,18 @@ To recap on all of the above valuable tips read an article on [Bad vs. Good Acce
 
 No matter where you work or what role you play in the development process, we all have to consider the accessibility guidelines and what things we need to use in our code to make accessibility achievable as a global _team_ for all diverse users.
 
-[WAVE](https://wave.webaim.org/) Our activity involves watching an online video from WAVE - Web Accessibility Evaluation Tools. It will help you to understand what we've previously discussed in session 5 and also how to implement the correct changes if they are needed to make your website pages compliant.
+<a href='https://wave.webaim.org/' target='_blank'>WAVE</a>
+This activity involves watching an online video from WAVE - Web Accessibility Evaluation Tools. It will help you to understand what we've previously discussed in session 5 and also how to implement the correct changes if they are needed to make your website pages compliant.
 
 1. View the Introduction to WAVE video - it's full length is 11:20 minutes.
 
-- [Introduction to WAVE video](https://wave.webaim.org/)
+<ul><a href='https://wave.webaim.org/' target='_blank'>Introduction to WAVE video</a></ul>
 
 <br>
 
 2. Download and try the WAVE Browser Extensions (with your own or any other website).
 
-- [WAVE Browser Extensions](https://wave.webaim.org/extension/)
+<ul><a href='https://wave.webaim.org/extension/' target='_blank'>WAVE Browser Extensions</a></ul>
 
 <br>
 
@@ -141,7 +142,7 @@ No matter where you work or what role you play in the development process, we al
    Try viewing the pages both with the dev tools, and without, so you can get a feel for how content has been structured.
 
    You can use the **tab** button to cycle through the items shown on a page in the dev tools, use **enter** to select an option or fire a button and **Alt + tab** will let you move backwards.
-   You can see some more examples of in-depth controls in the WebAIM keyboard techniques [website](https://webaim.org/techniques/keyboard/).
+   You can see some more examples of in-depth controls in the WebAIM keyboard techniques <a href='https://webaim.org/techniques/keyboard/' target='_blank'>website</a>.
 
    Some example websites you can open up:
 

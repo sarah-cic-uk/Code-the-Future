@@ -92,22 +92,27 @@ p {
 - The selectors are used to target a specific element or range of elements, where a style is applied on a web page.
 - There is a [wide range of selectors](advanced_css.md/#css-selectors-advanced) and each selector can have an `ID` and/or `Class` attributes.
 
-   **Class Attribute** <br/>
-  This attribute allows you to define style rules that apply to _more than one element_.<br/>
-  The example below shows a `class` called `blue-and-bold` applied to a paragraph `<p>` selector. <br/>
-  <img src="https://raw.githubusercontent.com/sarah-cic-uk/Code-the-Future/main/images/session4/class_separator_html.png" alt="class separator html" width="80%">
+**Class Attribute**
+
+This attribute allows you to define style rules that apply to _more than one element_.<br/>
+The example below shows a `class` called `blue-and-bold` applied to a paragraph `<p>` selector. <br/>
+<img src="https://raw.githubusercontent.com/sarah-cic-uk/Code-the-Future/main/images/session4/class_separator_html.png" alt="class separator html" width="80%">
+<br/>
+
+To declare rules in your CSS for that `class`, write a separator prefixed with a `"."`. The style defined here is applied to any HTML element with `class="blue-and-bold"`.
+
+<img src="https://raw.githubusercontent.com/sarah-cic-uk/Code-the-Future/main/images/session4/class_separator_css.png" alt="class separator css" width="80%">
+<br/>
+
+**ID Attribute**
+
+This attribute only allows you to define style rules that apply to _a single element_. The `id` attribute is a unique identifier within the document and cannot share the same `id` value in the same web page.<br/>
+The example below shows multiple Paragraph `<p>` elements with different `id`'s. <br/>
+<img src="https://raw.githubusercontent.com/sarah-cic-uk/Code-the-Future/main/images/session4/id_separator_html.png" alt="id separator html" width="80%">
   <br/>
-  To declare rules in your CSS for that `class`, write a separator prefixed with a `"."`. The style defined here is applied to any HTML element with `class="blue-and-bold"`.
-  <img src="https://raw.githubusercontent.com/sarah-cic-uk/Code-the-Future/main/images/session4/class_separator_css.png" alt="class separator css" width="80%">
-  <br/><br/>
-   **ID Attribute** <br/>
-  This attribute only allows you to define style rules that apply to _a single element_. The `id` attribute is a unique identifier within the document and cannot share the same `id` value in the same web page.<br/>
-  The example below shows multiple Paragraph `<p>` elements with different `id`'s. <br/>
-  <img src="https://raw.githubusercontent.com/sarah-cic-uk/Code-the-Future/main/images/session4/id_separator_html.png" alt="id separator html" width="80%">
-   <br/>
-  To declare rules in your CSS for each `id`, write a separator prefixed with a `"#"`.<br/>
-  <img src="https://raw.githubusercontent.com/sarah-cic-uk/Code-the-Future/main/images/session4/id_separator_css.png" alt="id separator css" width="80%">
-  <br/>
+To declare rules in your CSS for each `id`, write a separator prefixed with a `"#"`.<br/>
+<img src="https://raw.githubusercontent.com/sarah-cic-uk/Code-the-Future/main/images/session4/id_separator_css.png" alt="id separator css" width="80%">
+<br/>
 
 ### Declaration
 
@@ -129,11 +134,13 @@ p {
 
 Modern web browsers have support for web developer tools (_devtools_) that will help designers/developers debug the front-end. This is covered in more detail in Session 2 or click on each link to learn more about the different devtools for each web browser:
 
-- [Firefox](https://developer.mozilla.org/en-US/docs/Tools)
-- [Google Chrome](https://developer.chrome.com/docs/devtools/)
-- [Internet Explorer and Microsoft Edge](<https://docs.microsoft.com/en-us/previous-versions/windows/desktop/legacy/hh968260(v=vs.85)>)
-- [Safari](https://support.apple.com/en-gb/guide/safari/sfri20948/mac)
-- [Opera](https://dev.opera.com/extensions/dev-tools/)
+<ul>
+<li><a href='https://developer.mozilla.org/en-US/docs/Tools' target='_blank'>Firefox</a></li>
+<li><a href='https://developer.chrome.com/docs/devtools/' target='_blank'>Google Chrome</a></li>
+<li><a href='https://docs.microsoft.com/en-us/previous-versions/windows/desktop/legacy/hh968260(v=vs.85)' target='_blank'>Internet Explorer and Microsoft Edge</a></li>
+<li><a href='https://support.apple.com/en-gb/guide/safari/sfri20948/mac' target='_blank'>Safari</a></li>
+<li><a href='https://dev.opera.com/extensions/dev-tools/' target='_blank'>Opera</a></li>
+</ul>
 
 For this example, we will use Chrome. To view the styles applied on the page, select an element and the styles defined for that element will be displayed in the tab called **Styles**.
 
