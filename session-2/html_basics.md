@@ -59,7 +59,7 @@ There are many different HTML elements that can be used for different things, so
 
 ### Headings
 
-Heading elements allow you to specify that certain parts of your content are headings — or subheadings. In the same way that a book has the main title, chapter titles, and subtitles. There are heading levels 1-6 that you can use throughout your page but you'll only want one `<h1>` which will be the main title of your page.
+Heading elements allow you to specify that certain parts of your content are headings or subheadings. In the same way that a book has the main title, chapter titles, and subtitles. There are heading levels 1-6 that you can use throughout your page but you'll only want one `<h1>` which will be the main title of your page.
 
 ```
 <h1>My main title</h1>
