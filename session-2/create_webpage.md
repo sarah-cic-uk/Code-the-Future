@@ -89,7 +89,7 @@ And finally we have the `<head>` and `<body>` tags. The head tag includes all of
 
 ## Example finished activity
 
-If you get stuck or would like some inspiration on what to add to you page, you can check out the [example finished activity](example-finished-activities/index_section_02_example.html)
+If you get stuck or would like some inspiration on what to add to your page, you can check out the [example finished activity](example-finished-activities/index_section_02_example.html).
 
 ## Resources
 
