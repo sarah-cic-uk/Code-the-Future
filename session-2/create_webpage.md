@@ -90,7 +90,7 @@ And finally we have the `<head>` and `<body>` tags. The head tag includes all of
 ## Example finished activity
 
 If you get stuck or would like some inspiration on what to add to your page, you can check out the 
-<a href='../example-finished-activities/index-section-02-example.html' target='_blank' title="[Opens in a new window] example finished activity">example finished activity</a>.
+<a href="https://raw.githubusercontent.com/sarah-cic-uk/Code-the-Future/main/session-2/example-finished-activities/index-section-02-example.html" target="_blank" title="[Opens in a new window] example finished activity">example finished activity</a>.
 
 ## Resources
 
