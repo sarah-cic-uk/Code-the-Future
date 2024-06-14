@@ -47,7 +47,7 @@ Another important part of a logical and semantic document structure is making su
 
 Have a look at all the <a style="pointer-events:all" href='https://www.w3schools.com/html/html5_semantic_elements.asp' target='_blank' title="semantic elemets available">semantic elements available</a>.
 
-<ul><li>See this page on <a href='http://web-accessibility.carnegiemuseums.org/foundations/semantic/' target='_blank' title="HTML Semantics">HTML Semantics</a> for more information.</li></ul>
+See this page on <a href='http://web-accessibility.carnegiemuseums.org/foundations/semantic/' target='_blank' title="HTML Semantics">HTML Semantics</a> for more information.
 
 ## Aria
 
@@ -130,7 +130,7 @@ This activity involves watching an online video from WAVE - Web Accessibility Ev
 
 2. Download and try the WAVE Browser Extensions (with your own or any other website).
 
-<ul><li><a href='https://wave.webaim.org/extension/' target='_blank' title="WAVE Browser Extensions">WAVE Browser Extensions</a><li></ul>
+<ul><li><a href='https://wave.webaim.org/extension/' target='_blank' title="WAVE Browser Extensions">WAVE Browser Extensions</a></li></ul>
 
 
 3. Open up different webpages and explore with the Dev Tools.
