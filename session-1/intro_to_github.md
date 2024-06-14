@@ -130,7 +130,7 @@ You've now created a repository, cloned it down, made a change, committed that c
 
 <dl>
   <dt><b> Repository </b></dt>
-  <dd>A repository contains all of your project’s files and each file’s revision history. Everyone can have a local copy on their own systems, with one stored safely on GitHub, that only you and anyone you choose can change.</dd>
+  <dd>A repository contains all of your project's files and each file's revision history. Everyone can have a local copy on their own systems, with one stored safely on GitHub, that only you and anyone you choose can change.</dd>
 
   <dt><b> Clone </b></dt>
   <dd>Means copying a repository to your local system to let you change without making changes to the safe repository on GitHub.</dd>
