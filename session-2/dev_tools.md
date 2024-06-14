@@ -7,9 +7,9 @@
 ### In Chrome
 
 - Right-click the element and select Inspect
-  <img src="https://raw.githubusercontent.com/sarah-cic-uk/Code-the-Future/main/images/session2/open-dev-tools.png" alt="Open in Chrome" width="80%">
-
 - Or press Command+Option+C (Mac) or Control+Shift+C (Windows, Linux, Chrome OS).
+
+<img src="https://raw.githubusercontent.com/sarah-cic-uk/Code-the-Future/main/images/session2/open-dev-tools.png" alt="Open in Chrome" width="80%">
 
 ## Using Dev tools
 

@@ -263,8 +263,8 @@ In the above code example the `<label>` tag defines a label for form elements. T
 ## Resources
 
 <ul>
-<li><a href='https://www.w3schools.com/html/html_forms.asp' target='_blank'>W3 Schools - Forms</a></li>
-<li><a href='https://developer.mozilla.org/en-US/docs/Web/HTML/Element/form' target='_blank'>MDN Web Docs</a></li>
+<li><a href='https://www.w3schools.com/html/html_forms.asp' target='_blank' title="W3 Schools - Forms">W3 Schools - Forms</a></li>
+<li><a href='https://developer.mozilla.org/en-US/docs/Web/HTML/Element/form' target='_blank' title="MDN Web Docs">MDN Web Docs</a></li>
 </ul>
 
 <div style="width: 100%">

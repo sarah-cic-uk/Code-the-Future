@@ -109,8 +109,8 @@ In your `index.html` file, add the following to your webpage:
 ## Resources
 
 <ul>
-<li><a href='https://www.w3schools.com/html/html_images.asp' target='_blank'>W3 Schools - Images</a></li>
-<li><a href='https://www.w3schools.com/html/html_tables.asp' target='_blank'>W3 Schools - Tables</a></li>
+<li><a href='https://www.w3schools.com/html/html_images.asp' target='_blank' title="W3 Schools - Image">W3 Schools - Images</a></li>
+<li><a href='https://www.w3schools.com/html/html_tables.asp' target='_blank' title="W3 Schools - Tables">W3 Schools - Tables</a></li>
 </ul>
 
 <div style="width: 100%">

@@ -21,7 +21,7 @@ This includes supporting those with:
 
 Why?? Because over 1 billion people have disabilities... That's 1/7th of the population!
 
-Making your website more accessible not only benefits those who need the additional support but generally means the websites are easier to use and gain higher rankings on search engines. It's a win-win all round! Not to mention that in certain cases (like in the public sector) it is a legal requirement for websites to meet certain accessibility requirements e.g. <a href='https://www.gov.uk/service-manual/helping-people-to-use-your-service/understanding-wcag' target='_blank'>WCAG</a>.
+Making your website more accessible not only benefits those who need the additional support but generally means the websites are easier to use and gain higher rankings on search engines. It's a win-win all round! Not to mention that in certain cases (like in the public sector) it is a legal requirement for websites to meet certain accessibility requirements e.g. <a style="pointer-events:all;" href='https://www.gov.uk/service-manual/helping-people-to-use-your-service/understanding-wcag' target='_blank' title="WCAG">WCAG</a>.
 
 ## Common Assistive Technologies
 
@@ -47,7 +47,7 @@ Another important part of a logical and semantic document structure is making su
 
 Have a look at all the <a style="pointer-events:all" href='https://www.w3schools.com/html/html5_semantic_elements.asp' target='_blank' title="semantic elemets available">semantic elements available</a>.
 
-See this page on <a style="pointer-events:all" href='http://web-accessibility.carnegiemuseums.org/foundations/semantic/' target='_blank' title="HTML Semantics">HTML Semantics</a> for more information.
+<ul><li>See this page on <a style="pointer-events:all; color:blue; text-decoration:underline; cursor:pointer;" href='http://web-accessibility.carnegiemuseums.org/foundations/semantic/' target='_blank' title="HTML Semantics">HTML Semantics</a> for more information.</li></ul>
 
 ## Aria
 
@@ -127,13 +127,11 @@ This activity involves watching an online video from WAVE - Web Accessibility Ev
 
 <ul><li><a href='https://wave.webaim.org/' target='_blank' target="Introduction to WAVE video">Introduction to WAVE video</a></li></ul>
 
-<br>
 
 2. Download and try the WAVE Browser Extensions (with your own or any other website).
 
 <ul><li><a href='https://wave.webaim.org/extension/' target='_blank' title="WAVE Browser Extensions">WAVE Browser Extensions</a><li></ul>
 
-<br>
 
 3. Open up different webpages and explore with the Dev Tools.
 

@@ -170,7 +170,7 @@ You've now created a repository, cloned it, made a change, committed that change
 ### Resources
 
 <ul>
-<li><a href='https://education.github.com/git-cheat-sheet-education.pdf' target='_blank'>Git cheatsheet</a></li>
+<li><a href='https://education.github.com/git-cheat-sheet-education.pdf' target='_blank' title="Git cheatsheet">Git cheatsheet</a></li>
 </ul>
 
 <div style="width: 100%">

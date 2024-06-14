@@ -95,8 +95,8 @@ And finally we have the `<head>` and `<body>` tags. The head tag includes all of
 ## Resources
 
 <ul>
-<li><a href='https://www.w3schools.com/tags/default.asp' target='_blank'>W3 Schools</a></li>
-<li><a href='https://developer.mozilla.org/en-US/docs/Web/HTML/Element' target='_blank'>MDN Web Docs</a></li>
+<li><a href='https://www.w3schools.com/tags/default.asp' target='_blank' title="W3 Schools">W3 Schools</a></li>
+<li><a href='https://developer.mozilla.org/en-US/docs/Web/HTML/Element' target='_blank' title="MDN Web Docs">MDN Web Docs</a></li>
 </ul>
 
 <div style="width: 100%">
