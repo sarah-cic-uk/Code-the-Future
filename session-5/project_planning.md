@@ -18,7 +18,7 @@ There are some examples of first websites:
 
 <ul>
 <li>
-<a href='http://neenan.github.io/sarah/' target="_blank" title="Sarah's site from a free evening Intro to HTML/CSS course">Sarah's site from a free evening Intro to HTML/CSS course</a></li>
+<a class="link-fix" href='http://neenan.github.io/sarah/' target="_blank" title="Sarah's site from a free evening Intro to HTML/CSS course">Sarah's site from a free evening Intro to HTML/CSS course</a></li>
 <li>
 <a href='https://darrenfaleiro.github.io/Tech-Deals/' target="_blank" title="Darren's website from Code The Future Cohort October 2021">Darren's website from Code The Future Cohort October 2021</a></li>
 <li>
