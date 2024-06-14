@@ -42,30 +42,30 @@ In this course we're going to be using a tool called "GitHub Desktop", a user fr
 
 Open a browser:
 
-1. Navigate to https://github.com
-2. Enter a unique username, your email address and a memorable password. (You'll need these to sign in with GitHub Desktop)
-3. Verify that you're not a robot
-4. Click "Create Account"
+1. Navigate to "https://github.com",
+2. Enter a unique username, your email address and a memorable password. (You'll need these to sign in with GitHub Desktop),
+3. Verify that you're not a robot,
+4. Click "Create Account",
 5. Your GitHub account setup is now complete.
 
 #### Windows
 
 Open a browser:
 
-1. Visit desktop.github.com.
-2. Click Download for WIndows (64bit).
-3. When prompted, click Run.
-4. Allow the installation to download and install.
+1. Visit "desktop.github.com",
+2. Click Download for WIndows (64bit),
+3. When prompted, click Run,
+4. Allow the installation to download and install,
 5. Once the installation completes, GitHub Desktop will launch.
 
 #### Mac
 
 Open a browser:
 
-1. Visit desktop.github.com.
-2. Click Download for macOS.
-3. In your computer's Downloads folder, double-click the GitHub Desktop zip file.
-4. After the file has been unzipped, double-click GitHub Desktop
+1. Visit "desktop.github.com",
+2. Click "Download" for macOS,
+3. In your computer's Downloads folder, double-click the GitHub Desktop zip file,
+4. After the file has been unzipped, double-click GitHub Desktop,
 5. Once the installation completes, GitHub Desktop will launch.
 
 #### GNU/Linux
@@ -78,8 +78,8 @@ Currently, GitHub Desktop doesn't support any GNU/Linux distribution, so you'll 
 
 The goal of this tutorial is to teach you:
 
-- How to make your first repository (sometimes referred to as a repo)
-- Clone it to your local computer
+- How to make your first repository (sometimes referred to as a repo),
+- Clone it to your local computer,
 - Make a change,
 - Push it back up to GitHub.
 
@@ -103,24 +103,24 @@ Now that you have GitHub Desktop installed, know what Git and GitHub are, and wh
 9. Once the README.md file has been saved, once again go back to GitHub Desktop and you'll be shown what's been removed and added to the file. Make sure you're happy, because nothing has been saved on GitHub yet.
 10. When you're happy, go to the bottom left of GitHub Desktop and click on the text bar that says "Update README.md". Type in "Wrote my name".  
     This line is a quick description of the commit, or a summary of what's been changed.  
-    Click the blue "Commit to Main" button, then the "Push Origin" button on the top of the program.
+    Click the "Commit to Main" button, then the "Push Origin" button on the top of the program.
 11. Enter your Username and Password to sign in, then submit them. Your changes have now been pushed to GitHub. Go to GitHub in your browser and refresh the page. The title on the bottom of your page should have now changed to your name.
 
 You've now created a repository, cloned it down, made a change, committed that change and pushed it back up to GitHub.
 
 #### From the desktop app
 
-1. Once you're on the start screen, click 'Create a New Repository on your hard drive...'
-2. Fill in the fields with the information about your new repository. (I'd suggest checking the 'Initialize this repository with a README' box)
-3. Click 'Create Repository'
-4. If it's all working correctly, you'll have a button at the top of the program to 'publish repository'. Click this, and it'll make sure your repository is registered with GitHub.
+1. Once you're on the start screen, click "Create a New Repository on your hard drive...".
+2. Fill in the fields with the information about your new repository. (I'd suggest checking the "Initialize this repository with a README" box).
+3. Click "Create Repository".
+4. If it's all working correctly, you'll have a button at the top of the program to "publish repository". Click this, and it'll make sure your repository is registered with GitHub.
 5. Open up VSCode (or your IDE of choice) and open the folder for your new repository.
 6. Open the only file in the folder, called README.md. This file is typically used to describe the project, any instructions to make it run, etc. In this tutorial we're just going to change it a little.
 7. In README.md, delete everything (should only be one line), and write your name inside. Then make sure to save it.
 8. Once the README.md file has been saved, once again go back to GitHub Desktop and you'll be shown what's been removed and added to the file. Make sure you're happy, because nothing has been saved on GitHub yet.
 9. When you're happy, go to the bottom left of GitHub Desktop and click on the text bar that says "Update README.md". Type in "Wrote my name".  
    This line is a quick description of the commit, or a summary of what's been changed.
-10. Click the blue "Commit to Main" button, then the "Push Origin" button on the top of the program.
+10. Click the "Commit to Main" button, then the "Push Origin" button on the top of the program.
 11. Head back to the GitHub website and take a look at your new repository, from here you should be able to see your name.
 
 
