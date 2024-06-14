@@ -47,7 +47,7 @@ Another important part of a logical and semantic document structure is making su
 
 Have a look at all the <a style="pointer-events:all" href='https://www.w3schools.com/html/html5_semantic_elements.asp' target='_blank' title="semantic elemets available">semantic elements available</a>.
 
-<ul><li>See this page on <a style="pointer-events:all; color:blue; text-decoration:underline; cursor:pointer;" href='http://web-accessibility.carnegiemuseums.org/foundations/semantic/' target='_blank' title="HTML Semantics">HTML Semantics</a> for more information.</li></ul>
+<ul><li>See this page on <a href='http://web-accessibility.carnegiemuseums.org/foundations/semantic/' target='_blank' title="HTML Semantics">HTML Semantics</a> for more information.</li></ul>
 
 ## Aria
 
