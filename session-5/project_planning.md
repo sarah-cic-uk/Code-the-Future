@@ -18,11 +18,11 @@ There are some examples of first websites:
 
 <ul>
 <li>
-<a href='http://neenan.github.io/sarah/'>Sarah's site from a free evening Intro to HTML/CSS course</a></li>
+<a href='http://neenan.github.io/sarah/' target="_blank" title="Sarah's site from a free evening Intro to HTML/CSS course">Sarah's site from a free evening Intro to HTML/CSS course</a></li>
 <li>
-<a href='https://darrenfaleiro.github.io/Tech-Deals/'>Darren's website from Code The Future Cohort October 2021</a></li>
+<a href='https://darrenfaleiro.github.io/Tech-Deals/' target="_blank" title="Darren's website from Code The Future Cohort October 2021">Darren's website from Code The Future Cohort October 2021</a></li>
 <li>
-<a href='https://kay0218.github.io/RED/index.html'>Kadijah's website from Code The Future Cohort October 2021</a></li>
+<a href='https://kay0218.github.io/RED/index.html' target="_blank" title="Kadijah's website from Code The Future Cohort October 2021">Kadijah's website from Code The Future Cohort October 2021</a></li></ul>
 
 ## Extra HTML Tips
 
@@ -44,12 +44,12 @@ The code for adding meta data is simple, you put the following in the `<head></h
 ### Resources and how-to's
 
 <ul>
-<li><a href='https://www.w3schools.com/tags/tag_meta.asp' target='_blank'>HTML Meta</a></li>
-<li><a href='https://www.w3schools.com/howto/howto_css_parallax.asp' target='_blank'>CSS Parallax</a></li>
-<li><a href='https://www.w3schools.com/howto/howto_js_slideshow_gallery.asp' target='_blank'>Slideshow Gallery</a></li>
-<li><a href='https://www.w3schools.com/howto/howto_css_sticky_social_bar.asp' target='_blank'>Sticky Socials</a></li>
-<li><a href='https://www.w3schools.com/howto/howto_js_collapse_sidebar.asp' target='_blank'>Sidebar</a></li>
-<li><a href='https://www.w3schools.com/howto/howto_css_social_media_buttons.asp' target='_blank'>Social Media Buttons</a></li>
+<li><a href='https://www.w3schools.com/tags/tag_meta.asp' target='_blank' title="HTML Meta">HTML Meta</a></li>
+<li><a href='https://www.w3schools.com/howto/howto_css_parallax.asp' target='_blank' title="CSS Parallax">CSS Parallax</a></li>
+<li><a href='https://www.w3schools.com/howto/howto_js_slideshow_gallery.asp' target='_blank' title="Slideshow Gallery">Slideshow Gallery</a></li>
+<li><a href='https://www.w3schools.com/howto/howto_css_sticky_social_bar.asp' target='_blank' title="Sticky Socials">Sticky Socials</a></li>
+<li><a href='https://www.w3schools.com/howto/howto_js_collapse_sidebar.asp' target='_blank' title="Sidebar">Sidebar</a></li>
+<li><a href='https://www.w3schools.com/howto/howto_css_social_media_buttons.asp' target='_blank' title="Social Media Buttons">Social Media Buttons</a></li>
 </ul>
 
 <div style="width: 100%">

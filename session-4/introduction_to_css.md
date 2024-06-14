@@ -135,11 +135,11 @@ To declare rules in your CSS for each `id`, write a separator prefixed with a `"
 Modern web browsers have support for web developer tools (_devtools_) that will help designers/developers debug the front-end. This is covered in more detail in Session 2 or click on each link to learn more about the different devtools for each web browser:
 
 <ul>
-<li><a href='https://developer.mozilla.org/en-US/docs/Tools' target='_blank'>Firefox</a></li>
-<li><a href='https://developer.chrome.com/docs/devtools/' target='_blank'>Google Chrome</a></li>
-<li><a href='https://docs.microsoft.com/en-us/previous-versions/windows/desktop/legacy/hh968260(v=vs.85)' target='_blank'>Internet Explorer and Microsoft Edge</a></li>
-<li><a href='https://support.apple.com/en-gb/guide/safari/sfri20948/mac' target='_blank'>Safari</a></li>
-<li><a href='https://dev.opera.com/extensions/dev-tools/' target='_blank'>Opera</a></li>
+<li><a href='https://developer.mozilla.org/en-US/docs/Tools' target='_blank' title="Firefox">Firefox</a></li>
+<li><a href='https://developer.chrome.com/docs/devtools/' target='_blank' title="Google Chrome">Google Chrome</a></li>
+<li><a href='https://docs.microsoft.com/en-us/previous-versions/windows/desktop/legacy/hh968260(v=vs.85)' target='_blank' title="Internet Explorer and Microsoft Edge">Internet Explorer and Microsoft Edge</a></li>
+<li><a href='https://support.apple.com/en-gb/guide/safari/sfri20948/mac' target='_blank' title="Safari">Safari</a></li>
+<li><a href='https://dev.opera.com/extensions/dev-tools/' target='_blank' title="Opera">Opera</a></li>
 </ul>
 
 For this example, we will use Chrome. To view the styles applied on the page, select an element and the styles defined for that element will be displayed in the tab called **Styles**.

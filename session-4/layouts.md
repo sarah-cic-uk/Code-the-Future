@@ -43,7 +43,7 @@ You can define the following properties for the Flex Items:
   - `order: 0 || [number]` helps add an ordering of the items
   - `align-self: auto || stretch || flex-start || flex-end || center || baseline` for aligning individual flex items
   - `flex-grow: 0 || [number]`, `flex-basis: auto || [length]`, `flex-shrink: 1 || [number]` change the size of the flex items
-- For more information, checkout <a href='https://css-tricks.com/snippets/css/a-guide-to-flexbox/' target='_blank'>Complete Guide to CSS Flexbox</a>
+- For more information, checkout <a href='https://css-tricks.com/snippets/css/a-guide-to-flexbox/' target='_blank' title="Complete Guide to CSS Flexbox">Complete Guide to CSS Flexbox</a>
 
 ### CSS Grid
 
@@ -60,7 +60,7 @@ Main components of a Grid are:
   - _Row Axis_ - horizontal direction
   - _Grid Lines_ - horizontal and vertical lines that separate rows and columns in a Grid container
 
-More complete information about CSS Grids can be found in <a href='https://css-tricks.com/snippets/css/complete-guide-grid/' target='_blank'>Complete Guide to CSS Grid</a>
+More complete information about CSS Grids can be found in <a style="pointer-events:all" href='https://css-tricks.com/snippets/css/complete-guide-grid/' target='_blank' title="Complete Guide to CSS Grid">Complete Guide to CSS Grid</a>
 
 <div style="width: 100%">
 <a href='introduction_to_css.md'><-- Previous section: Introduction to CSS</a>

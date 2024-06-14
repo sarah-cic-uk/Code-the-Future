@@ -45,9 +45,9 @@ Examples of semantic elements: `<form>, <table>, and <article>` - These clearly 
 
 Another important part of a logical and semantic document structure is making sure your heading are in the correct order! Only have 1 `<h1></h1>` per page so assistive technologies know this is the main page title and try not to skip heading levels because these are very helpful when navigating in a non-visual way.
 
-Have a look at all the <a href='https://www.w3schools.com/html/html5_semantic_elements.asp' target='_blank'>semantic elements available</a>.
+Have a look at all the <a style="pointer-events:all" href='https://www.w3schools.com/html/html5_semantic_elements.asp' target='_blank' title="semantic elemets available">semantic elements available</a>.
 
-See <a href='http://web-accessibility.carnegiemuseums.org/foundations/semantic/' target='_blank'>this page on HTML Semantics</a> for more information.
+See this page on <a style="pointer-events:all" href='http://web-accessibility.carnegiemuseums.org/foundations/semantic/' target='_blank' title="HTML Semantics">HTML Semantics</a> for more information.
 
 ## Aria
 
@@ -61,7 +61,7 @@ This is an attribute you can add to a element to help clarify what the expected 
 
 Most roles should no longer be used as browsers now support semantic HTML element with the same meaning. The roles without HTML equivalents, such as presentation, toolbar and tooltip roles, provide information on the document structure to assistive technologies such as screen readers as equivalent native HTML tags are not available.
 
-There a variety of <a href='https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Roles' target='_blank'>aria roles</a> available but some common ones include:
+There a variety of <a style="pointer-events:all" href='https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Roles' target='_blank' title="aria roles">aria roles</a> available but some common ones include:
 
 - **Alert**: Used to alert the user that something has changed on their page - screen readers will start reading the alert when it pops up.
 
@@ -88,7 +88,7 @@ Example of setting a role, we have an input here that we want to add a tooltip t
 
 ### Aria States and Properties
 
-<a href='https://www.w3.org/TR/wai-aria-1.0/states_and_properties' target='_blank'>Aria States and Properties</a> support the ARIA roles that exist on a page and can supply extra user interface information that is useful for assistive technologies. Whenever these states or properties change the assistive technology can pickup the update and alert the user that a change has occurred.
+<a style="pointer-events:all" href='https://www.w3.org/TR/wai-aria-1.0/states_and_properties' target='_blank' title="Aria States and Properties">Aria States and Properties</a> support the ARIA roles that exist on a page and can supply extra user interface information that is useful for assistive technologies. Whenever these states or properties change the assistive technology can pickup the update and alert the user that a change has occurred.
 
 e.g. 'aria-disabled' is a state saying whether a particular item is interactive.
 
@@ -96,10 +96,10 @@ e.g. 'aria-disabled' is a state saying whether a particular item is interactive.
 
 **Aria-label**: can be used on any html element. Screen readers announce the label text when on the element e.g. reads the label instead of the button text. Use it in cases where a text label is not visible on the screen.
 
-**Aria-labelledby**: allows label to be set based on other IDs. Role elements good to do with these e.g. radio group. Can concatenate several labels into one . Can be used on hidden elements. Always takes precedence. If there is visible text labeling the element, use aria-labelledby instead.
+**Aria-labelledby**: allows label to be set based on other IDs. Role elements good to do with these e.g. radio group. Can concatenate several labels into one. Can be used on hidden elements. Always takes precedence. If there is visible text labeling the element, use aria-labelledby instead.
 
 **Aria-describedby**: is used to indicate the IDs of the elements that describe the object. Similar to labelledby but gives additional info to help the user. e.g. helper text that isn't always visible
-Check out <a href='https://developers.google.com/web/fundamentals/accessibility/semantics-aria/aria-labels-and-relationships' target='_blank'>Google's info on Aria Labelling</a> to learn more!
+Check out <a style="pointer-events:all" href='https://developers.google.com/web/fundamentals/accessibility/semantics-aria/aria-labels-and-relationships' target='_blank' title="Google's info on Aria Labelling">Google's info on Aria Labelling</a> to learn more!
 
 <br>
 
@@ -112,7 +112,7 @@ Check out <a href='https://developers.google.com/web/fundamentals/accessibility/
 - Over-using aria can be bad too!
 - Always remember to update your labels when you change your UI!
 
-To recap on all of the above valuable tips read an article on <a href='https://usabilitygeek.com/bad-vs-good-accessible-designs/' target='_blank'>Bad vs. Good Accessible Designs</a> to reinforce whats been discussed.
+To recap on all of the above valuable tips read an article on <a style="pointer-events:all" href='https://usabilitygeek.com/bad-vs-good-accessible-designs/' target='_blank' title="Bad vs. Good Accessible Designs">Bad vs. Good Accessible Designs</a> to reinforce whats been discussed.
 
 <br>
 
@@ -120,18 +120,18 @@ To recap on all of the above valuable tips read an article on <a href='https://u
 
 No matter where you work or what role you play in the development process, we all have to consider the accessibility guidelines and what things we need to use in our code to make accessibility achievable as a global _team_ for all diverse users.
 
-<a href='https://wave.webaim.org/' target='_blank'>WAVE</a>
+<a style="pointer-events:all" href='https://wave.webaim.org/' target='_blank' title="WAVE">WAVE</a>
 This activity involves watching an online video from WAVE - Web Accessibility Evaluation Tools. It will help you to understand what we've previously discussed in session 5 and also how to implement the correct changes if they are needed to make your website pages compliant.
 
 1. View the Introduction to WAVE video - it's full length is 11:20 minutes.
 
-<ul><a href='https://wave.webaim.org/' target='_blank'>Introduction to WAVE video</a></ul>
+<ul><li><a href='https://wave.webaim.org/' target='_blank' target="Introduction to WAVE video">Introduction to WAVE video</a></li></ul>
 
 <br>
 
 2. Download and try the WAVE Browser Extensions (with your own or any other website).
 
-<ul><a href='https://wave.webaim.org/extension/' target='_blank'>WAVE Browser Extensions</a></ul>
+<ul><li><a href='https://wave.webaim.org/extension/' target='_blank' title="WAVE Browser Extensions">WAVE Browser Extensions</a><li></ul>
 
 <br>
 
@@ -142,7 +142,7 @@ This activity involves watching an online video from WAVE - Web Accessibility Ev
    Try viewing the pages both with the dev tools, and without, so you can get a feel for how content has been structured.
 
    You can use the **tab** button to cycle through the items shown on a page in the dev tools, use **enter** to select an option or fire a button and **Alt + tab** will let you move backwards.
-   You can see some more examples of in-depth controls in the WebAIM keyboard techniques <a href='https://webaim.org/techniques/keyboard/' target='_blank'>website</a>.
+   You can see some more examples of in-depth controls in the WebAIM keyboard techniques <a style="pointer-events:all" href='https://webaim.org/techniques/keyboard/' target='_blank' title="website">website</a>.
 
    Some example websites you can open up:
 
@@ -170,11 +170,11 @@ This activity involves watching an online video from WAVE - Web Accessibility Ev
 ## Resources
 
 <ul>
-<li><a href='https://www.a11yproject.com/' target='_blank'>The A11y Project</a> is a community-driven effort to make digital accessibility easier.</li>
-<li><a href='https://www.gov.uk/guidance/accessibility-requirements-for-public-sector-websites-and-apps' target='_blank'>Public Sector Accessibility Requirements</a></li>
-<li><a href='https://www.w3.org/TR/wai-aria-1.1/' target='_blank'>WAI Aria Recommendation</a></li>
-<li><a href='https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/ARIA_Techniques#landmark_roles' target='_blank'>Aria Roles, States and Properties</a></li>
-<li><a href='https://www.w3schools.com/html/html_accessibility.asp' target='_blank'>W3 Schools Accessibility Documentation</a></li>
+<li><a href='https://www.a11yproject.com/' target='_blank' title="The A11y Project">The A11y Project</a> is a community-driven effort to make digital accessibility easier.</li>
+<li><a href='https://www.gov.uk/guidance/accessibility-requirements-for-public-sector-websites-and-apps' target='_blank' title="Public Sector Accessibility Requirements">Public Sector Accessibility Requirements</a></li>
+<li><a href='https://www.w3.org/TR/wai-aria-1.1/' target='_blank' title="WAI Aria Recommendation">WAI Aria Recommendation</a></li>
+<li><a href='https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/ARIA_Techniques#landmark_roles' target='_blank' title="Aria Roles, States and Properties">Aria Roles, States and Properties</a></li>
+<li><a href='https://www.w3schools.com/html/html_accessibility.asp' target='_blank' title="W3 Schools Accessibility Documentation">W3 Schools Accessibility Documentation</a></li>
 </ul>
 
 

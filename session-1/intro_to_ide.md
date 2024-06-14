@@ -25,7 +25,7 @@ An IDE can help you with many aspects of programming, for example, an IDE that k
 
 ### Using VSCode
 
-Note: if you haven't already downloaded VSCode, please use the following link to do so: <a href='https://code.visualstudio.com/' target='_blank'>Download VSCode</a>
+Note: if you haven't already downloaded VSCode, please use the following link to do so: <a style="pointer-events:all" href='https://code.visualstudio.com/' target='_blank' title="Download VSCode">Download VSCode</a>
 
 #### What is VSCode
 
@@ -71,23 +71,23 @@ You can also use the keyboard shortcut cmd+K cmd+T to display the picker.
 Use the cursor keys to preview the colors of the theme.
 Select the theme you want and press Enter.
 
-You can find the perfect theme for you on the <a href='https://marketplace.visualstudio.com/search?target=VSCode&category=Themes&sortBy=Installs' target='_blank'>VSCode marketplace</a>
+You can find the perfect theme for you on the <a style="pointer-events:all" href='https://marketplace.visualstudio.com/search?target=VSCode&category=Themes&sortBy=Installs' target='_blank' title="VSCode marketplace">VSCode marketplace</a>
 
 Some of my favourites are:
 
 <ul>
-<li><a href='https://marketplace.visualstudio.com/items?itemName=dracula-theme.theme-dracula' target='_blank'>Dracula</a></li>
-<li><a href='https://marketplace.visualstudio.com/items?itemName=daylerees.rainglow' target='_blank'>Rainglow</a></li>
-<li><a href='https://marketplace.visualstudio.com/items?itemName=ftsamoyed.theme-pink-cat-boo' target='_blank'>Pink cat boo</a></li>
+<li><a href='https://marketplace.visualstudio.com/items?itemName=dracula-theme.theme-dracula' target='_blank' title="Dracula">Dracula</a></li>
+<li><a href='https://marketplace.visualstudio.com/items?itemName=daylerees.rainglow' target='_blank' title="Rainglow">Rainglow</a></li>
+<li><a href='https://marketplace.visualstudio.com/items?itemName=ftsamoyed.theme-pink-cat-boo' target='_blank' title="Pink cat boo">Pink cat boo</a></li>
 </ul>
 
 
 ## Resources
 
 <ul>
-<li><a href='https://code.visualstudio.com/assets/docs/getstarted/tips-and-tricks/KeyboardReferenceSheet.png' target='_blank'>VSCode keyboard shortcuts</a></li>
-<li><a href='https://code.visualstudio.com/docs/getstarted/tips-and-tricks' target='_blank'>VSCode tips and trips</a></li>
-<li><a href='https://code.visualstudio.com/docs/getstarted/introvideos' target='_blank'>VSCode intro videos</a></li>
+<li><a href='https://code.visualstudio.com/assets/docs/getstarted/tips-and-tricks/KeyboardReferenceSheet.png' target='_blank' title="VSCode keyboard shortcuts">VSCode keyboard shortcuts</a></li>
+<li><a href='https://code.visualstudio.com/docs/getstarted/tips-and-tricks' target='_blank' title="VSCode tips and trips">VSCode tips and trips</a></li>
+<li><a href='https://code.visualstudio.com/docs/getstarted/introvideos' target='_blank' title="VSCode intro videos">VSCode intro videos</a></li>
 </ul>
 
 <div style="width: 100%">

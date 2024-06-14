@@ -81,10 +81,10 @@
 CSS has limitations and it is hard to maintain - since it's not a programming language, it cannot define variables, nesting selectors, expressions, functions etc. **CSS Preprocessors** address these. Some of the most popular ones are:
 
 <ul>
-<li><a href='https://lesscss.org/' target='_blank'>Less</a></li>
-<li><a href='https://sass-lang.com/' target='_blank'>Sass (Syntactically Awesome Style Sheets)</a></li>
-<li><a href='https://medium.com/@jgoz/sassy-css-scss-quick-guide-b38f51c6868a' target='_blank'>Scss (Sassy CSS)</a></li>
-<li><a href='https://stylus-lang.com/' target='_blank'>Stylus</a></li>
+<li><a href='https://lesscss.org/' target='_blank' title="Less">Less</a></li>
+<li><a href='https://sass-lang.com/' target='_blank' title="Sass (Syntactically Awesome Style Sheets)">Sass (Syntactically Awesome Style Sheets)</a></li>
+<li><a href='https://medium.com/@jgoz/sassy-css-scss-quick-guide-b38f51c6868a' target='_blank' title="Scss (Sassy CSS">Scss (Sassy CSS)</a></li>
+<li><a href='https://stylus-lang.com/' target='_blank' title="Stylus">Stylus</a></li>
 </ul>
 
 ## Responsive Web Design
@@ -134,7 +134,7 @@ CSS Frameworks provide an abstraction for common web designs and makes it easier
   - This is the most popular and (arguably) the best CSS framework.
   - It comes with pre-defined components - which are built using HTML, SASS, and JavaScript and has a large community support.
   - It provides a very detailed documentation with layouts that are easy to understand.
-  - Check out <a href='https://getbootstrap.com/' target='_blank'>https://getbootstrap.com/</a> for more information and also see some live-demos.
+  - Check out <a href='https://getbootstrap.com/' target='_blank' title="External link to bootstrap.com">https://getbootstrap.com/</a> for more information and also see some live-demos.
 
   Example Setup for using Bootstrap followed below:
 
@@ -216,54 +216,54 @@ CSS Frameworks provide an abstraction for common web designs and makes it easier
 
 What the above peice of code is doing is mainly setting classes that are being set or edited with CSS that is coming from Bootstrap, similar to how we have shown you to select the classes you added to certain elements.
 
-Reference to the page of usable Bootstrap classes: <a href='https://getbootstrap.com/docs/5.3/getting-started/introduction/' target='_blank'>https://getbootstrap.com/docs/5.3/getting-started/introduction/</a>
+Reference to the page of usable Bootstrap classes: <a style="pointer-events:all" href='https://getbootstrap.com/docs/5.3/getting-started/introduction/' target='_blank' title="Link to external bootstrap classes">https://getbootstrap.com/docs/5.3/getting-started/introduction/</a>
 
 **Tailwind CSS**
 
   - This is highly customisable to provides the building blocks instead of pre-defined components.
   - You get a set of CSS Helper Classes which can be used to create your own custom design.
-  - Checkout <a href='https://tailwindcss.com/' target='_blank'>https://tailwindcss.com/</a> for more information and also <a href='https://github.com/tailwindlabs/tailwindcss' target='_blank'>Tailwind CSS Github Page</a>.
+  - Checkout <a href='https://tailwindcss.com/' target='_blank' title="External link to TailwindCSS.com">https://tailwindcss.com/</a> for more information and also <a href='https://github.com/tailwindlabs/tailwindcss' target='_blank' title="Tailwind CSS Github Page">Tailwind CSS Github Page</a>.
 
 **Materialize CSS**
 
   - Fully responsive front-end framework and it has a shallow learning curve - it has a comprehensive documentation.
-  - It provides free <a href='https://themeselection.com/20-top-premium-free-material-design-admin-template/' target='_blank'>Materialize Admin Templates</a>.
-  - Check out <a href='https://materializecss.com/' target='_blank'>https://materializecss.com/</a> for more information.
+  - It provides free <a href='https://themeselection.com/20-top-premium-free-material-design-admin-template/' target='_blank' title="Materialize Admin Templates">Materialize Admin Templates</a>.
+  - Check out <a href='https://materializecss.com/' target='_blank' title="External link to materializecss.com">https://materializecss.com/</a> for more information.
 
 **Material Design Lite**
 
-  - Based on Material Design created by Google, and it can be used with <a href='https://en.wikipedia.org/wiki/Elm_(programming_language)' target='_blank'>Elm</a>, a language for Graphical User Interfaces.
+  - Based on Material Design created by Google, and it can be used with <a href='https://en.wikipedia.org/wiki/Elm_(programming_language)' target='_blank' title="Elm">Elm</a>, a language for Graphical User Interfaces.
   - It provides an out-of-the-box solution that can also be customised.
-  - Check out <a href='https://getmdl.io/components/index.html' target='_blank'>https://getmdl.io/components/index.html</a> for more information.
+  - Check out <a href='https://getmdl.io/components/index.html' target='_blank' title="External link to getmdl.io">https://getmdl.io/components/index.html</a> for more information.
 
 **Foundation**
   - Advanced front-end CSS Framework which is built with HTML, CSS, SASS, and JavaScript.
   - This uses a mobile-first approach and typically used for larger web application.
-  - Check out <a href='https://get.foundation/' target='_blank'>https://get.foundation/</a> for more information.
+  - Check out <a href='https://get.foundation/' target='_blank' title="External link to get.foundation">https://get.foundation/</a> for more information.
 
 ---
 
 ## Example finished activity
 
 You can browse the files that have been updated in this folder and try to follow the folder structure going forward.<br>
-<a href='https://raw.githubusercontent.com/sarah-cic-uk/Code-the-Future/main/session-4/example-finished-activities-session4/index.html' target='_blank'>Finished Examples</a>
+<a style="pointer-events:all" href='https://raw.githubusercontent.com/sarah-cic-uk/Code-the-Future/main/session-4/example-finished-activities-session4/index.html' target='_blank' title="Finished Examples">Finished Examples</a>
 
-If you get stuck or would like some inspiration on what to add to you page, you can check out the <a href='https://raw.githubusercontent.com/sarah-cic-uk/Code-the-Future/main/session-4/example-finished-activities-session4/index.html' target='_blank'>index file</a> for the updated code, here for the <a href='https://raw.githubusercontent.com/sarah-cic-uk/Code-the-Future/main/session-4/example-finished-activities-session4/html/formSuccess.html' target='_blank'>success form page</a>, and here for the new <a href='https://raw.githubusercontent.com/sarah-cic-uk/Code-the-Future/main/session-4/example-finished-activities-session4/style/myStyleSheet.css' target='_blank'>stylesheet</a> we have created.
+If you get stuck or would like some inspiration on what to add to you page, you can check out the <a style="pointer-events:all" href='https://raw.githubusercontent.com/sarah-cic-uk/Code-the-Future/main/session-4/example-finished-activities-session4/index.html' target='_blank' title="index file">index file</a> for the updated code, here for the <a style="pointer-events:all" href='https://raw.githubusercontent.com/sarah-cic-uk/Code-the-Future/main/session-4/example-finished-activities-session4/html/formSuccess.html' target='_blank' title="success form page">success form page</a>, and here for the new <a style="pointer-events:all" href='https://raw.githubusercontent.com/sarah-cic-uk/Code-the-Future/main/session-4/example-finished-activities-session4/style/myStyleSheet.css' target='_blank' title="stylesheet">stylesheet</a> we have created.
 
 For the advanced CSS you can follow these links ot the files created in the folder.
 <ul>
-<li><a href='https://raw.githubusercontent.com/sarah-cic-uk/Code-the-Future/main/session-4/example-finished-activities-session4/html/flexbox.html' target='_blank'>Flexbox Example</a></li>
-<li><a href='https://raw.githubusercontent.com/sarah-cic-uk/Code-the-Future/main/session-4/example-finished-activities-session4/html/grid_sample.html' target='_blank'>Grid Example</a></li>
-<li><a href='https://raw.githubusercontent.com/sarah-cic-uk/Code-the-Future/main/session-4/example-finished-activities-session4/style/layout_stylesheet.css' target='_blank'>Flex and Grid Stylesheet</a></li>
+<li><a href='https://raw.githubusercontent.com/sarah-cic-uk/Code-the-Future/main/session-4/example-finished-activities-session4/html/flexbox.html' target='_blank' title="Flexbox Example">Flexbox Example</a></li>
+<li><a href='https://raw.githubusercontent.com/sarah-cic-uk/Code-the-Future/main/session-4/example-finished-activities-session4/html/grid_sample.html' target='_blank' title="Grid Example">Grid Example</a></li>
+<li><a href='https://raw.githubusercontent.com/sarah-cic-uk/Code-the-Future/main/session-4/example-finished-activities-session4/style/layout_stylesheet.css' target='_blank' title="Flex and Grid Stylesheet">Flex and Grid Stylesheet</a></li>
 </ul>
 
 
 ## Useful Links
 
 <ul>
-<li><a href='https://htmlcheatsheet.com/css/' target='_blank'>CSS Cheat Sheet</a></li>
-<li><a href='https://www.tutorialspoint.com/css/index.htm' target='_blank'>More CSS Tutorials in Tutorialspoint</a></li>
-<li><a href='https://www.w3schools.com/cssref/default.asp' target='_blank'>CSS Reference @ W3 Schools</a></li>
+<li><a href='https://htmlcheatsheet.com/css/' target='_blank' title="CSS Cheat Sheet">CSS Cheat Sheet</a></li>
+<li><a href='https://www.tutorialspoint.com/css/index.htm' target='_blank' title="More CSS Tutorials in Tutorialspoint">More CSS Tutorials in Tutorialspoint</a></li>
+<li><a href='https://www.w3schools.com/cssref/default.asp' target='_blank' title="CSS Reference @ W3 Schools">CSS Reference @ W3 Schools</a></li>
 </ul>
 
 <div style="width: 100%">
