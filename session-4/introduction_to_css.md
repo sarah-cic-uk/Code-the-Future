@@ -30,7 +30,7 @@
 
   ```html
   ...
-  <html>
+  <html lang="en">
     <head>
       <title>My First Website</title>
 

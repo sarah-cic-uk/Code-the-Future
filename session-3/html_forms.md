@@ -102,7 +102,7 @@ The HTML `<input>` element is a fundamental element used to create fields in a f
 
 ```
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
 <meta charset="utf-8">
 <title>My login page</title>
@@ -247,7 +247,7 @@ In the above code example the `<label>` tag defines a label for form elements. T
 
    ```
    <!DOCTYPE html>
-   <html>
+   <html lang="en">
      <head>
        <meta charset="utf-8">
        <title>Form Submission</title>

@@ -50,7 +50,7 @@ For this activity, we are going to create this on a webpage to understand how to
 
    ```html
    <!DOCTYPE html>
-   <html>
+   <html lang="en">
    	<head>
    		<title>Flexbox Example</title>
    		<link rel="stylesheet" href="layout_stylesheet.css" />
@@ -119,7 +119,7 @@ For this activity, we are going to create this on a webpage to understand how to
 
    ```html
    <!DOCTYPE html>
-   <html>
+   <html lang="en">
    	<head>
    		<title>Grid Example</title>
    		<link rel="stylesheet" href="layout_stylesheet.css" />

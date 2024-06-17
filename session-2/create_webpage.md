@@ -49,7 +49,7 @@ Visual Code offers a really useful extension which will allow you to see you app
 We will start off with adding the code you saw in the Previous section on line two which is a good place to start with any index.html file!
 
     <!DOCTYPE html>
-    <html>
+    <html lang="en">
         <head>
     	    <meta charset="utf-8">
     	    <title></title>
@@ -60,7 +60,7 @@ We will start off with adding the code you saw in the Previous section on line t
 
 Just to quickly recap, `<!DOCTYPE html>` is the HTML declaration and not strictly a HTML tag but "informs" the browser of the type of language to expect. Here we are telling the browser to expect HTML 5.
 
-Next have the `<html>` which tells the browser where the code itself is.
+Next have the `<html lang="en">` which tells the browser where the code itself is.
 
 And finally we have the `<head>` and `<body>` tags. The head tag includes all of the additional information about the webpage and the body includes all of the content which will be displayed on the screen.
 
@@ -76,7 +76,7 @@ And finally we have the `<head>` and `<body>` tags. The head tag includes all of
 
   ```
   <!DOCTYPE html>
-    <html>
+    <html lang="en">
       <head>
         <title>My First Website</title>
       </head>

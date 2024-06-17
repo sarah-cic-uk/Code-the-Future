@@ -11,7 +11,7 @@ HTML consists of a series of elements, which you use to enclose, or wrap, differ
 ## The structure of a HTML page
 
     <!DOCTYPE html>
-    <html>
+    <html lang="en">
         <head>
     	    <meta charset="utf-8">
     	    <title>My example page</title>
@@ -24,7 +24,7 @@ HTML consists of a series of elements, which you use to enclose, or wrap, differ
 
 - This the HTML5 doctype, it is required at the top of every HTML document and it makes sure your document behaves correctly.
 
-`<html></html>`
+`<html lang="en"></html>`
 
 - The html element, also know as the root element, wraps all the content that is in the page.
 
