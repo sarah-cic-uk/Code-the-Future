@@ -9,7 +9,9 @@
 - [Intro to IDEs](intro_to_ide.md)
 - [Introduction to Git, Github & GitHub Desktop](intro_to_github.md)
 - [Hosting on Github](hosting_on_github_pages.md)
-- [Git using Terminal](git_and_terminal.md)
+- [Using Git within VScode](git_and_vscode.md)
+- [Git via Terminal](git_and_terminal.md) (optional)
+- [Git via GitHub Desktop](git_and_desktop.md) (optional)
 
 ### Introduction
 
