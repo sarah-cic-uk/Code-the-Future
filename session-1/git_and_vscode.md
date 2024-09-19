@@ -31,10 +31,10 @@ This will open up a panel on the left called Source Control.
 #### Pushing your changes
 
 1. You can see a list of your changes, as well as any merge conflicts if team working with others.
-1. Hover over the word 'Changes' and you'll notice options appear. From here you can add all your files to staging. Alternativly you can hoven on each file and add them 1 by 1 (useful for if you dont want to commit everything you have changed)
-1. Add a commit message in the Message input box
+1. Hover over the word 'Changes' and you'll notice options appear. From here you can add all your files to staging. Alternatively, you can hover on each file and add them 1 by 1 (useful for if you don't want to commit everything you have changed).
+1. Add a commit message in the Message input box.
 1. Click commit!
-1. Click Sync Changes to push
+1. Click 'Sync Changes' to push.
 
 
 <div style="width: 100%">
