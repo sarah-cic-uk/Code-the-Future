@@ -96,5 +96,5 @@ It can take as long as 48 hours for your domain to resolve to your GitHub page. 
 
 <div style="width: 100%">
 <a href='intro_to_github.md'><-- Previous section: Introduction to Git & GitHub</a>
-<div align="right"><a  href='../session-2/README.md'>Next section: Session 2 Introduction --></a></div>
+<div align="right"><a  href='git_and_vscode.md'>Next section: Using Git in VScode --></a></div>
 </div>
