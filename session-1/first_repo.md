@@ -21,9 +21,7 @@ The goal of this tutorial is to teach you:
 
 Now that you have Git installed, and have a GitHub account, let's get started:
 
-#### From the website
-
-1. Once logged in, click the "New" button on the left side of the screen on the Repositories page.
+1. Once logged to GitHub in the browser, click the "New" button on the left side of the screen on the Repositories page.
 2. Give a name to this repository and be sure to check the box titled "Add a README file".
    This will ensure that you can easily clone down the repository.
 3. Click "Create Repository".  
