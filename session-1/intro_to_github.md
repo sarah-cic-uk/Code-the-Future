@@ -6,13 +6,11 @@
 
 - What is Git and GitHub?
 - How to install Git
-- Making your first repository
 
 ### Session goals
 
 - Learn what Git/GitHub are, and how they're used
 - Have Git installed on your local system
-- Make your first GitHub repository
 
 ### What is Git and GitHub?
 
@@ -32,7 +30,7 @@ Git is currently used by many companies, including:
 
 Now that you've learnt what git is, time to learn what it all revolves around, GitHub.
 GitHub is a central repository to store your projects and have several other developers collaborate on it together. Simply, GitHub will look after our code, then let other people copy it down without changing the code we've saved ourselves (unless you want to).  
-In this course we're going to be using a tool called "GitHub Desktop", a user friendly program that will let you use git and GitHub without needing to touch the command line.
+In this course we're going to be using VScode to interact with GitHub but there are alternatives which some developers prefer such as using Terminal or GitHub Desktop (a user friendly program that will let you use git and GitHub without needing to touch the command line).
 
 ---
 
@@ -43,70 +41,10 @@ In this course we're going to be using a tool called "GitHub Desktop", a user fr
 Open a browser:
 
 1. Navigate to "https://github.com",
-2. Enter a unique username, your email address and a memorable password. (You'll need these to sign in with GitHub Desktop),
+2. Enter a unique username, your email address and a memorable password. (You'll need to remember these if you want to sign in with GitHub Desktop in the optional lesson),
 3. Verify that you're not a robot,
 4. Click "Create Account",
 5. Your GitHub account setup is now complete.
-
-#### Windows
-
-Open a browser:
-
-1. Visit "desktop.github.com",
-2. Click "Download for WIndows (64bit)",
-3. When prompted, click "Run",
-4. Allow the installation to download and install,
-5. Once the installation completes, GitHub Desktop will launch.
-
-#### Mac
-
-Open a browser:
-
-1. Visit "desktop.github.com",
-2. Click "Download for macOS",
-3. In your computer's Downloads folder, double-click the GitHub Desktop zip file,
-4. After the file has been unzipped, double-click GitHub Desktop,
-5. Once the installation completes, GitHub Desktop will launch.
-
-#### GNU/Linux
-
-Currently, GitHub Desktop doesn't support any GNU/Linux distribution, so you'll be required to use the Git CLI (Command Line Interface).
-
----
-
-### First Repository
-
-The goal of this tutorial is to teach you:
-
-- How to make your first repository (sometimes referred to as a repo),
-- Clone it to your local computer,
-- Make a change,
-- Push it back up to GitHub.
-
-Now that you have GitHub Desktop installed, know what Git and GitHub are, and what we're going to do, let's get started:
-
-#### From the website
-
-1. Once logged in, click the "New" button on the left side of the screen.
-2. Give a name to this repository and be sure to check the box titled "Add a README file".
-   This will ensure that you can easily clone down the repository.
-3. Click "Create Repository".  
-   Your repository is now created, and can be changed however you want.
-   Everything saved here is backed up on GitHub, safe if you accidentally delete it on your personal computer.  
-   Scroll down the page and you should see the title of your repository, our goal is to change this.
-4. Click the "Code" button and take a look at the dropdown. Copy the link that is shown and head back to GitHub Desktop.
-5. Under file, choose "Clone Repository" and go to the URL tab. Paste in the link you copied, choose where you want to save your repository, and finally click clone.
-6. Open VSCode (or your IDE of choice) and open the file that you just cloned down.  
-   Everything you change here will only be changed on your local copy, until you push it back up.
-7. Open the only file in the folder, called README.md. This file is typically used to describe the project, any instructions to make it run, etc. In this tutorial we're just going to change it a little.
-8. In README.md, delete everything (should only be one line), and write your name inside. Then make sure to save it.
-9. Once the README.md file has been saved, once again go back to GitHub Desktop and you'll be shown what's been removed and added to the file. Make sure you're happy, because nothing has been saved on GitHub yet.
-10. When you're happy, click on the text bar that says "Update README.md". Type in "Wrote my name".  
-    This line is a quick description of the commit, or a summary of what's been changed.  
-    Click the "Commit to Main" button, then the "Push Origin" button within the program.
-11. Enter your Username and Password to sign in, then submit them. Your changes have now been pushed to GitHub. Go to GitHub in your browser and refresh the page. The title of your page should have now changed to your name.
-
-You've now created a repository, cloned it, made a change, committed that change and pushed it back up to GitHub.
 
 ---
 
@@ -159,6 +97,6 @@ You've now created a repository, cloned it, made a change, committed that change
 
 <div style="width: 100%">
 <a href='intro_to_ide.md'><-- Previous section: The Developer Environment</a>
-<div align="right"><a  href='hosting_on_github_pages.md'>Next section: Hosting on Github Pages --></a></div>
+<div align="right"><a  href='first_repo.md'>Next section: Create your first repo--></a></div>
 </div>
 </div>

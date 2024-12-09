@@ -7,7 +7,8 @@
 - Introduction & Session goals
 - [Meet the Tutors](Meet_the_tutors.md)
 - [Intro to IDEs](intro_to_ide.md)
-- [Introduction to Git, Github & GitHub Desktop](intro_to_github.md)
+- [Introduction to Git & Github](intro_to_github.md)
+- [Create your First Repo](first_repo.md)
 - [Hosting on Github](hosting_on_github_pages.md)
 - [Using Git within VScode](git_and_vscode.md)
 - [Git via Terminal](git_and_terminal.md) (optional)

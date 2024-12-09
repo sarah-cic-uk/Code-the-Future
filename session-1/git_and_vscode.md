@@ -38,7 +38,7 @@ This will open up a panel on the left called Source Control.
 
 
 <div style="width: 100%">
-<a href='hosting_on_github_pages.md'><-- Previous section: Hosting on Github Pages</a>
+<a href='intro_to_github.md'><-- Previous section: Git & GitHub Install & Tutorial</a>
 <div align="right"><a  href='../session-2/README.md'>Next section: Session 2 Introduction --></a></div>
 </div>
 </div>
