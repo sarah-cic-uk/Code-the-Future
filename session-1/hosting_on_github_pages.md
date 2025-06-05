@@ -65,7 +65,7 @@ Next on the left hand side you want to click on Pages under the Code and automat
 
 Then once located on that page you want to keep the source as `Deploy from a branch`, under that we set the branch settings. Set the left box (The branch box) `as main` and set the next box along to `/(root)`, and click on `Save`.
 
-Below is an image of the settings you should have in the pages section. [If you have a custom domain sorted already you can use this custom domain name.](#using-a-custom-domain-name)
+Below is an image of the settings you should have in the pages section. [If you have a custom domain sorted already you can use this custom domain name.](#using-a-custom-domain-name) If you do not see this but instead see a message about upgrading your repo then so into your Settings --> General --> scroll all the way down to the danger zone and change your visibility to Public.
 
 <img src="https://raw.githubusercontent.com/sarah-cic-uk/Code-the-Future/main/images/session1/pages-settings.png" alt="repository" width="80%">
 
