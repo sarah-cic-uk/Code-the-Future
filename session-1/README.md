@@ -13,7 +13,7 @@
 - [Using Git within VScode](git_and_vscode.md)
 - [Git via Terminal](git_and_terminal.md) (optional)
 - [Git via GitHub Desktop](git_and_desktop.md) (optional)
-- [GitHub branches & conflicts](git_branches_and_conflicts.md) (optional)
+- [GitHub branches / conflicts](git_branches_and_conflicts.md) (optional)
 
 ### Introduction
 
