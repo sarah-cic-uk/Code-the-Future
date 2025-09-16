@@ -78,6 +78,6 @@ Currently, GitHub Desktop doesn't support any GNU/Linux distribution, so you'll 
 
 <div style="width: 100%">
 <a href='intro_to_github.md'><-- Previous section: Git & GitHub Install & Tutorial</a>
-<div align="right"><a  href='../session-2/README.md'>Next section: Session 2 Introduction --></a></div>
+<div align="right"><a  href='git_branches_and _conflicts.md'>Next section: Git branches & conflicts --></a></div>
 </div>
 </div>
