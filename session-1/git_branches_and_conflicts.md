@@ -4,8 +4,7 @@
 
 ### Content covered in this session
 
-- [Code the Future \</\>](#code-the-future-)
-  - [Session 1: Branching \& Merge Conflicts](#session-1-branching--merge-conflicts)
+  - [Session 1: Branching & Merge Conflicts](#session-1-branching--merge-conflicts)
     - [Content covered in this session](#content-covered-in-this-session)
     - [Session goals](#session-goals)
     - [What is a branch?](#what-is-a-branch)
@@ -17,7 +16,7 @@
     - [Choose how to resolve](#choose-how-to-resolve)
     - [Clean up](#clean-up)
     - [Save, stage, commit](#save-stage-commit)
-    - [Hands-on exercise: create \& resolve a conflict](#hands-on-exercise-create--resolve-a-conflict)
+    - [Hands-on exercise: create & resolve a conflict](#hands-on-exercise-create--resolve-a-conflict)
     - [1. Set up a test repo](#1-set-up-a-test-repo)
     - [2. Create a feature branch and change the file](#2-create-a-feature-branch-and-change-the-file)
     - [3. Change the same line on main](#3-change-the-same-line-on-main)
@@ -37,7 +36,7 @@
 
 ### What is a branch?
 
-A **branch** is a separate line of development — like a safe sandbox to work on changes without touching the main version of your project.  
+A **branch** is a separate line of development, like a safe sandbox to work on changes without touching the main version of your project.  
 The default branch is often called **main**.
 
 ---
@@ -70,7 +69,7 @@ git checkout main
 git merge new-feature-branch-name
 ```
 If Git can combine changes automatically, the merge just completes.
-If not, you’ll see a merge conflict (next section).
+If not, you'll see a merge conflict (next section).
 
 ## What is a merge conflict?
 
@@ -96,10 +95,10 @@ You'll remove these markers after deciding what to keep.
 ### Choose how to resolve
 At each conflict block, VS Code shows buttons:
 
-- **Accept Current Change** → keeps your branch version  
-- **Accept Incoming Change** → keeps the branch you’re merging  
-- **Accept Both Changes** → keeps both versions (you can edit them together)  
-- **Compare Changes** → see a side-by-side diff
+- **Accept Current Change** - keeps your branch version  
+- **Accept Incoming Change** - keeps the branch you're merging  
+- **Accept Both Changes** - keeps both versions (you can edit them together)  
+- **Compare Changes** - see a side-by-side diff
 
 ### Clean up
 - VS Code removes conflict markers automatically when you choose an option.  
@@ -115,9 +114,9 @@ Resolve merge conflict in index.html
 ```
 
 
-✅ That’s it — your merge completes.
+That’s it — your merge completes.
 
-> 💡 **Tip:** Use the *side-by-side diff* in VS Code to clearly see what changed on each side.
+**Tip:** Use the *side-by-side diff* in VS Code to clearly see what changed on each side.
 
 ---
 
@@ -178,13 +177,13 @@ git commit -m "Change greeting on main branch"
 git merge new-feature
 ```
 
-You’ll get a conflict in `hello.txt`.
-Open it in **VS Code** → choose **Accept Both Changes** (or pick one), tidy the text, save, stage, and commit:
+You'll get a conflict in `hello.txt`.
+Open it in **VS Code** -> choose **Accept Both Changes** (or pick one), tidy the text, save, stage, and commit:
 ```
 Resolve conflict in hello.txt
 ```
 
-You’ve merged successfully 🎉
+You've merged successfully!
 
 ---
 
@@ -205,11 +204,11 @@ You’ve merged successfully 🎉
 
 **Conflict choices in VS Code**
 
-- _Accept Current_ → keep your version
+- _Accept Current_ - keep your version
 
-- _Accept Incoming_ → keep their version
+- _Accept Incoming_ - keep their version
 
-- _Accept Both_ → keep both, then edit
+- _Accept Both_ - keep both, then edit
 
 ---
 
