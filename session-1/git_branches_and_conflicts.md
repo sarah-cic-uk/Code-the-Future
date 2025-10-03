@@ -114,7 +114,7 @@ Resolve merge conflict in index.html
 ```
 
 
-That’s it — your merge completes.
+That's it - your merge completes.
 
 **Tip:** Use the *side-by-side diff* in VS Code to clearly see what changed on each side.
 
