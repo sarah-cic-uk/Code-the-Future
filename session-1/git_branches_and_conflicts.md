@@ -178,7 +178,7 @@ git merge new-feature
 ```
 
 You'll get a conflict in `hello.txt`.
-Open it in **VS Code** -> choose **Accept Both Changes** (or pick one), tidy the text, save, stage, and commit:
+Open it in **VS Code** -- choose **Accept Both Changes** (or pick one), tidy the text, save, stage, and commit:
 ```
 Resolve conflict in hello.txt
 ```
