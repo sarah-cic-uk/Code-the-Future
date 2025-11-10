@@ -2,7 +2,7 @@
 
 ## Session 1: Meet the Tutors!
 
-[Sarah Neenan - UK CIC Development Practice Leader & Managing Software Engineer](#Sarah)\
+[Sarah Neenan - UK CIC Development Practice Leader &amp; Managing Software Engineer](#Sarah)\
 [Jacqueline Jones - Front-end Developer](#Jacqueline)\
 [Jacob Boardman - Software Engineer](#Jacob)\
 [Obelema Wodike - Senior Business Analyst](#Bells)\
@@ -25,7 +25,8 @@
 [Cameron McDonna - Associate Software Engineer](#Cameron)\
 [Andy Mair - Associate Software Engineer](#Andy)\
 [Dana Românu - Associate Technology Specialist](#Dana)\
-[Henry Mason - Software Engineer](#Henry)
+[Henry Mason - Software Engineer](#Henry)\
+[Doaa Radwan - Full Stack Engineer](#Doaa)\
 
 ### Sarah
 
@@ -36,7 +37,6 @@ it was possible to learn to code and build the software that I needed. Soon afte
 from IBM CIC who suggested I apply because I showed enthusiasm and knew enough of the basics -
 they would teach me everything else I needed to know. I'm now a Managing Developer and Development Lead for two dev
 teams and I love my job.
-
 
 ### Jacqueline
 
@@ -70,7 +70,6 @@ Hi everyone, I joined IBM in February 2021 as an Application Developer. Before J
 
 I joined the CIC in early December 2020 as an application developer. I've worked on a wide range of roles and accounts, working in L2 support, cloud solutions, app development and finally web development since the start of this year. I've had spinkles of experience throughout my career from using HTML/CSS to JavaScript/TypeScript with frameworks like React and Angular. I hope now to try to apply my web development knowledge through tutoring.
 
-
 ### Rachel
 
 I joined the CIC in 2016 as a graduate Developer, since then I have been on various projects in a range of roles in Dev, Test, PMO and DevOps. I studied Computing at University and did a year in Industry as a Software Packager. I enjoy the fact I am able to learn a lot through CIC and explore career growth in a range of areas.
@@ -103,7 +102,6 @@ to keep learning during my role and how no two weeks are the same!
 
 I joined IBM CIC as an associate in February 2021. Before IBM, I studied in the field of research in Applied Mathematics and Computational Modelling. After completing a year as a PhD student, I decided I wanted to explore a different aspect of programming. I applied for the Application Developer role at IBM and never expected to get it! Although I had some programming skills, I knew nothing about software development... Luckily, this role included 9 sessions of developer training and, although I have only been in this role for a short amount of time, I am really enjoying it. I am very much still new to the development world and am learning more and more every day at IBM.
 
-
 ### Kristel
 
 I joined IBM CIC as a Developer in March 2021. I started my career as a functional consultant and worked with various proprietary software. I wanted more hands-on experience creating applications from "scratch" and not to get tied down to a single architecture/platform. I switched to full stack development, building bespoke applications both in and outside of work, where I quickly developed my technical knowledge and skills over the years. I am enjoying the variety of work at my current role and looking forward to the numerous possibilities of career growth that IBM has to offer.
@@ -134,11 +132,15 @@ Hey! I joined the CIC as an Associate Developer in April 2022 after graduating. 
 
 ### Dana
 
-Joined IBM as an Associate Technical Specialist last October . Passionate about DevOps, VR, AR and medicine. Grounded human , hoping that “beam me up Scotty” will happen during my lifetime :smile:. Working background prior to IBM was in healthcare setting, currently happy with 1 and 0.
+Joined IBM as an Associate Technical Specialist last October . Passionate about DevOps, VR, AR and medicine. Grounded human , hoping that “beam me up Scotty” will happen during my lifetime 😄. Working background prior to IBM was in healthcare setting, currently happy with 1 and 0.
 
 ### Henry
 
 I joined IBM as an Associate Developer in February 2021. Before IBM, I studied Economics at the University of Exeter with the aim of working in ethical finance. I took a job at Monzo Bank but quickly realised that I wanted to be a developer, designing the amazing tools I was using to help millions of people. So I enrolled on an MSc conversion course in Computer Science at Birkbeck University and applied for a role here at IBM. I'm already loving the job which, most importantly, gives me almost unlimited scope for creativity and many opportunities to contribute to the causes I care about.
+
+### Doaa
+
+Assalam Alaykom! I joined IBM as an Associate in April 2022. Before IBM, I Studied 3 years of computer engineering at the Islamic University in Gaza, Palestine before moving into the UK and doing a BSc in computing at De Motfort University and then following it by a MSc in Data Analytics. After graduating, I volunteered at a faith school and foodback for 2 years till I had persmission to work and then applied for IBM right away. I enjoy working in IBM as I get to learn different technologies and pick up new skills and make a differance by working on great projects.
 
 <div style="width: 100%">
 <a href='README.md' ><-- Previous section: Session 1 Introduction</a>
