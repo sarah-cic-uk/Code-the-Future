@@ -268,6 +268,6 @@ In the above code example the `<label>` tag defines a label for form elements. T
 </ul>
 
 <div style="width: 100%">
-<a href='html_images_tables.md'><-- Previous section: HTML Images and Tables</a>
+<a href='html_tables.md'><-- Previous section: HTML Tables</a>
 <div align="right"><a href='html_hyperlinks.md'>Next section: HTML Hyperlinks --></a></div>
 </div>
