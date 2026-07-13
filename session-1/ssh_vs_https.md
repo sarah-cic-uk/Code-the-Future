@@ -20,12 +20,26 @@ When you clone a repo and click the green **'Code'** button on GitHub, you'll se
 
 The URL you copy tells Git which method to use:
 
-| Method | The clone URL looks like… |
-| ------ | ------------------------- |
-| HTTPS  | `https://github.com/your-username/your-repo.git` |
-| SSH    | `git@github.com:your-username/your-repo.git` |
+<table>
+  <thead>
+    <tr>
+      <th>Method</th>
+      <th>The clone URL looks like…</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>HTTPS</td>
+      <td><code>https://github.com/your-username/your-repo.git</code></td>
+    </tr>
+    <tr>
+      <td>SSH</td>
+      <td><code>git@github.com:your-username/your-repo.git</code></td>
+    </tr>
+  </tbody>
+</table>
 
-> **Important:** you must have set up the matching authentication *before* you push. If you copy an **SSH** URL but haven't created an SSH key, your first `git push` will fail with an error like `Permission denied (publickey)`. This is the most common reason people get stuck!
+**Important:** you must have set up the matching authentication *before* you push. If you copy an **SSH** URL but haven't created an SSH key, your first `git push` will fail with an error like `Permission denied (publickey)`. This is the most common reason people get stuck!
 
 ---
 
@@ -43,7 +57,7 @@ SSH is a great option once you're comfortable — you set it up once and then ne
 2. Clone as normal: `git clone https://github.com/your-username/your-repo.git`
 3. The first time you `git push`, Git will ask you to sign in.
 
-> **Watch out:** GitHub no longer accepts your account **password** on the command line. When it asks for a password, you need a **Personal Access Token (PAT)** instead.
+**Watch out:** GitHub no longer accepts your account **password** on the command line. When it asks for a password, you need a **Personal Access Token (PAT)** instead.
 
 #### Creating a Personal Access Token (PAT)
 
@@ -94,7 +108,7 @@ cat ~/.ssh/id_ed25519.pub | clip
 
 If those don't work, just open the `.pub` file in a text editor and copy everything inside it.
 
-> Only ever share the **`.pub`** (public) file. Never share the file *without* `.pub` — that's your private key and must stay secret.
+**Only ever share the `.pub` (public) file.** Never share the file *without* `.pub` — that's your private key and must stay secret.
 
 #### Step 4: Add the key to GitHub
 
