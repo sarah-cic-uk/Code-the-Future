@@ -16,25 +16,25 @@
 
 ### Why is there a choice?
 
-When you clone a repo and click the green **'Code'** button on GitHub, you'll see a few tabs — **HTTPS** and **SSH** (and others). These are just two different ways for your computer to talk to GitHub. They do the same job; they only differ in **how you prove who you are** when you push code.
+When you clone a repo and click the green **'Code'** button on GitHub, you'll see a few tabs - **HTTPS** and **SSH** (and others). These are just two different ways for your computer to talk to GitHub. They do the same job; they only differ in **how you prove who you are** when you push code.
 
 The URL you copy tells Git which method to use:
 
-<table>
+<table style="color: white;">
   <thead>
     <tr>
-      <th>Method</th>
-      <th>The clone URL looks like…</th>
+      <th style="color: white; text-align: left;">Method</th>
+      <th style="color: white; text-align: left;">The clone URL looks like...</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td>HTTPS</td>
-      <td><code>https://github.com/your-username/your-repo.git</code></td>
+      <td style="color: white;">HTTPS</td>
+      <td style="color: white;"><code>https://github.com/your-username/your-repo.git</code></td>
     </tr>
     <tr>
-      <td>SSH</td>
-      <td><code>git@github.com:your-username/your-repo.git</code></td>
+      <td style="color: white;">SSH</td>
+      <td style="color: white;"><code>git@github.com:your-username/your-repo.git</code></td>
     </tr>
   </tbody>
 </table>
@@ -47,7 +47,7 @@ The URL you copy tells Git which method to use:
 
 **If you're not sure, use HTTPS.** It works everywhere, needs the least setup, and is the recommended choice for this course.
 
-SSH is a great option once you're comfortable — you set it up once and then never have to type a token again. Feel free to try it, but you don't need it to complete the course.
+SSH is a great option once you're comfortable - you set it up once and then never have to type a token again. Feel free to try it, but you don't need it to complete the course.
 
 ---
 
@@ -61,11 +61,11 @@ SSH is a great option once you're comfortable — you set it up once and then ne
 
 #### Creating a Personal Access Token (PAT)
 
-1. On GitHub, click your profile picture (top right) → **Settings**.
+1. On GitHub, click your profile picture (top right) -> **Settings**.
 2. Scroll down to **Developer settings** (bottom of the left menu).
-3. Go to **Personal access tokens → Tokens (classic)** → **Generate new token (classic)**.
+3. Go to **Personal access tokens -> Tokens (classic)** -> **Generate new token (classic)**.
 4. Give it a name (e.g. "Code the Future laptop"), set an expiry, and tick the **`repo`** scope.
-5. Click **Generate token** and **copy it now** — you won't be able to see it again.
+5. Click **Generate token** and **copy it now** - you won't be able to see it again.
 6. When Git asks for your **password** on the command line, paste the **token** instead of your password.
 
 Most computers will remember the token after the first time (via the built-in credential manager), so you usually only do this once.
@@ -108,11 +108,11 @@ cat ~/.ssh/id_ed25519.pub | clip
 
 If those don't work, just open the `.pub` file in a text editor and copy everything inside it.
 
-**Only ever share the `.pub` (public) file.** Never share the file *without* `.pub` — that's your private key and must stay secret.
+**Only ever share the `.pub` (public) file.** Never share the file *without* `.pub` - that's your private key and must stay secret.
 
 #### Step 4: Add the key to GitHub
 
-1. On GitHub, go to **Settings → SSH and GPG keys**.
+1. On GitHub, go to **Settings -> SSH and GPG keys**.
 2. Click **New SSH key**.
 3. Give it a title (e.g. "My laptop"), paste your public key into the box, and click **Add SSH key**.
 
@@ -128,7 +128,7 @@ If it works you'll see a message like:
 Hi your-username! You've successfully authenticated...
 ```
 
-Now clone using the **SSH** URL and push away — no token needed.
+Now clone using the **SSH** URL and push away - no token needed.
 
 ---
 
