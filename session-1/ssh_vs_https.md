@@ -29,12 +29,12 @@ The URL you copy tells Git which method to use:
   </thead>
   <tbody>
     <tr>
-      <td style="color: white;">HTTPS</td>
-      <td style="color: white;"><code>https://github.com/your-username/your-repo.git</code></td>
+      <td style="color: black;">HTTPS</td>
+      <td style="color: black;"><code>https://github.com/your-username/your-repo.git</code></td>
     </tr>
     <tr>
-      <td style="color: white;">SSH</td>
-      <td style="color: white;"><code>git@github.com:your-username/your-repo.git</code></td>
+      <td style="color: black;">SSH</td>
+      <td style="color: black;"><code>git@github.com:your-username/your-repo.git</code></td>
     </tr>
   </tbody>
 </table>
