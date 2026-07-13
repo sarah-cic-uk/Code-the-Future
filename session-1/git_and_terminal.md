@@ -67,7 +67,7 @@ Create your repo with a README file:
 
 <img src="https://raw.githubusercontent.com/sarah-cic-uk/Code-the-Future/main/images/session1/create_repo.png" alt="create repo" width="80%"/>
 
-Now your repo exists, click the 'Code' button and select HTTPS (or SSH if you have set up an ssh key) and copy the url:
+Now your repo exists, click the 'Code' button and select **HTTPS**, then copy the url. HTTPS is the simplest option and the one we recommend to start with. (SSH also works, but only if you've already set up an SSH key — if you copy the SSH url without one, your `git push` will fail. To use SSH, or to learn the difference between the two, see the optional [HTTPS vs SSH](ssh_vs_https.md) lesson.)
 
 <img src="https://raw.githubusercontent.com/sarah-cic-uk/Code-the-Future/main/images/session1/clone_url.png" alt="clone repo" width="80%"/>
 
@@ -81,7 +81,7 @@ Next, return to your terminal and clone the repo using the url you have copied:
 
 1. Open your repo folder in VScode and edit the README.md
 1. Add your changes to the staging area: `git add .`
-1. Commit your changes with a useful message: `get commit -m "updating readme"`
+1. Commit your changes with a useful message: `git commit -m "updating readme"`
 1. push the changes: `git push`
 1. Navigate to the GitHub browser and look in your repo. You should see your changes!
 
@@ -102,6 +102,6 @@ Have a play with Git GUI!
 <img src="https://raw.githubusercontent.com/sarah-cic-uk/Code-the-Future/main/images/session1/gitgui.png" alt="Git Gui" width="80%"/>
 
 <div style="width: 100%">
-<a href='intro_to_github.md'><-- Previous section: Git & GitHub Install & Tutorial</a>
-<div align="right"><a  href='../session-2/README.md'>Next section: Session 2 Introduction --></a></div>
+<a href='git_and_vscode.md'><-- Previous section: Git & vscode</a>
+<div align="right"><a  href='ssh_vs_https.md'>Next section: SSH vs HTTPS in Git --></a></div>
 </div>

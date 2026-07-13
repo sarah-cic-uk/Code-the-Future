@@ -12,6 +12,7 @@
 - [Hosting on Github](hosting_on_github_pages.md)
 - [Using Git within VScode](git_and_vscode.md)
 - [Git via Terminal](git_and_terminal.md) (optional)
+- [HTTPS vs SSH](ssh_vs_https.md) (optional)
 - [Git via GitHub Desktop](git_and_desktop.md) (optional)
 - [GitHub branches / conflicts](git_branches_and_conflicts.md) (optional)
 
